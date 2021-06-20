@@ -40,7 +40,7 @@
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
-        
+
 #### Ethereum
 
 - Learn the basics of Ethereum
