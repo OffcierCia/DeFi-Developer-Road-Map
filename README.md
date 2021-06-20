@@ -3,7 +3,7 @@
 > Made with **[Lido DAO](https://lido.fi)** support.
 
 
-> **[Support Project](https://github.com/OffcierCia/ultimate-defi-research-base/blob/main/README.md#support-project)** :star2:
+> **[Support Project](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project)** :star2:
 
 ##
 
