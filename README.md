@@ -120,7 +120,6 @@
 - [Ethfiddle](https://ethfiddle.com/)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
-- [Populus](https://github.com/ethereum/populus)
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
 - [Vyper](https://github.com/ethereum/vyper)
 - [Atom](https://atom.io/) 
