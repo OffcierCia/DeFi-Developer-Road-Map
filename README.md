@@ -285,6 +285,7 @@
 - [Awesome Ethereum Resource Lists](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
 - [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
 - [Smart Contract Learning](https://github.com/arbazkiraak/SmartContractLearning)
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 
 
 #### Security & Safety:
