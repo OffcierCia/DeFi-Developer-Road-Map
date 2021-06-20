@@ -18,13 +18,9 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 
 - Learn the basics of Distributed Ledger Technology (DLT)
-
 - Bitcoin protocol [Explained](https://medium.com/coinmonks/bitcoin-white-paper-explained-part-1-4-16cba783146a)
-
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
-
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
-
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
         
 #### Ethereum
@@ -71,29 +67,19 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 
 - Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
-
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-
 - Share your code with other people know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-
 - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-
 - Get familiar with terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure your shell (bash, zsh, fish)
-
 - Read a few books about algorithms and data structures, blockchain, Ethereum, solidity
-
 - Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-
 - Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
-
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
 
 #### Try this tools:
 
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
-
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
-
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 
@@ -101,64 +87,41 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 
 - Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
-
 - Get familiar with tools that you will be using:
 
 #### Package Managers
 
 - [npm](https://www.npmjs.com/)
-
 - [yarn](https://yarnpkg.com/lang/en/)
-
 - [pnpm](https://pnpm.js.org/)
 
 #### IDE's
 
 - [Remix IDE](https://remix.ethereum.org/)
-
 - [Ethfiddle](https://ethfiddle.com/)
-
 - [labs.superblock](https://superblocks.com/)
-
 - [Truffle](https://truffleframework.com/)
-
 - [Populus](https://github.com/ethereum/populus)
-
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
-
 - [Vyper](https://github.com/ethereum/vyper)
-
 - [Atom](https://atom.io/) 
-
 - [Etheratom](https://atom.io/packages/etheratom), 
-
 - [Autocomplete Solidity](https://atom.io/packages/autocomplete-solidity)
-
 - [Language Solidity](https://atom.io/packages/language-solidity) 
-
 - [Vim solidity](https://github.com/tomlion/vim-solidity) 
-
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) 
 
 
  #### Practice
 
 - Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) 
-
 - Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
-
 - [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
-
 - [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
-
 - [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
-
 - [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
-
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-
 - [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
-
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 
 ##### ZK-SNARKs
@@ -241,24 +204,6 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [Storej](https://storj.io/)
 - [Sia](https://sia.tech/)
 
-# Front End 
-
-- [React / React Native](https://truffleframework.com/tutorials/drizzle-and-react-native)
-- [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
-
-#### Prebuilt UI Components
-
-- [aragonUI](https://ui.aragon.org) - A React library including Dapp components
-- [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
-- [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
-- [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
-- [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
-- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
-- [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
-- [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
-- [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-- [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
-
 #### Test Blockchain Networks
 
 - [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
@@ -288,6 +233,25 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [Goerli faucet](https://goerli-faucet.slock.it/)
 - [Universal faucet](https://faucets.blockxlabs.com/)
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
+
+
+# Front End 
+
+#### UI Components
+
+- [React / React Native](https://truffleframework.com/tutorials/drizzle-and-react-native)
+- [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [aragonUI](https://ui.aragon.org) - A React library including Dapp components
+- [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
+- [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
+- [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
+- [Metamask ui](https://github.com/MetaMask/metamask-extension/tree/develop/ui/app/components) - Metamask React Components
+- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
+- [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
+- [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
+- [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
+- [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
+
 
 # Further Readings
 
@@ -537,15 +501,10 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 #### Side-Chains
 
 - [POA Network](https://www.poa.network/)
-
 - [POA Bridge](https://bridge.poa.net/)
-
 - [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
-
 - [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
-
 - [Loom Network](https://github.com/loomnetwork)
-
 - [Matic Network](https://docs.matic.network/)
 
 
@@ -577,6 +536,17 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 - [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf) - Introduces the concept of MEV, the work highlights the large, complex risks created by transaction-ordering dependencies in smart contracts and the ways in which traditional forms of financial-market exploitation are adapting to and penetrating blockchain economies.
 
 - [Flashbots: MEV in Eth2](https://hackmd.io/@flashbots/mev-in-eth2) - In this post, authors study transaction ordering in eth2 and analyze MEV-enabled staking yields. Then they find that MEV will significantly boost validator rewards but may reinforce inequalities among participants of eth2. Authors also discuss qualitative aspects of MEV in eth2 such as the potential dynamics that will unfold between its largest stakeholders like exchanges and validator pools.
+
+#### Disucssion
+
+- [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
+
+
+ #### Hack Incident Reporting
+
+- [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
+- [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
+- [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
 
 # Tool Collection
@@ -801,11 +771,5 @@ If you want to support my work (I spend a lot of time analyzing materials before
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
-
-
-
-
-
-
 
 
