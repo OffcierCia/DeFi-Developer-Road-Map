@@ -15,9 +15,10 @@
 
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Mathematics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mathematics)                                              |
-| Frameworks       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
 | Basics           | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
+| dApps            | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+| Frameworks       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+| zk-snarks        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
 | Security         | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
 | DeFi             | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
@@ -101,7 +102,7 @@
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 
-# Mathematics
+# dApps
 
 - Get familiar with tools that you will be using:
 
@@ -139,7 +140,9 @@
 - [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 
-#### ZK-SNARKs
+# ZK-SNARKs
+
+#### General info
 
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 - [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
