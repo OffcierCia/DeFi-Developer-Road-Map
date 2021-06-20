@@ -268,7 +268,6 @@
 
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
-- [Eth Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap) 
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
 - [ADF](https://github.com/ong/awesome-decentralized-finance) 
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
@@ -284,7 +283,6 @@
 - [Awesome Ethereum Resource Lists](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
 - [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
 - [Smart Contract Learning](https://github.com/arbazkiraak/SmartContractLearning)
-- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path)
 
 
 #### Security & Safety:
