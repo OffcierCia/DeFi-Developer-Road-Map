@@ -163,7 +163,7 @@
 - [Truffle](https://truffleframework.com/truffle)
 - [Ganache](https://truffleframework.com/ganache)
 - [Drizzle](https://truffleframework.com/drizzle)
-- [Tutorials](https://truffleframework.com/tutorials)
+
 
 #### ZeppeLine OS
 
