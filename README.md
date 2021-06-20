@@ -103,8 +103,6 @@
 
 # Mathematics
 
-
-- Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - Get familiar with tools that you will be using:
 
 #### Package Managers
@@ -249,7 +247,7 @@
 
 #### UI Components
 
-
+- Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 - [aragonUI](https://ui.aragon.org) - A React library including Dapp components
 - [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
