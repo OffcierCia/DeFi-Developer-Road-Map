@@ -1,10 +1,8 @@
 # DeFi Developer Road Map
 
-DeFi Developer Road Map - Made with **[Lido DAO](https://lido.fi)** support 
+> DeFi Developer Road Map - Made with **[Lido DAO](https://lido.fi)** support 
 
-#
-
-Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+> Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
 
 **[Support Project](https://github.com/OffcierCia/ultimate-defi-research-base/blob/main/README.md#support-project)** :star2:
 
