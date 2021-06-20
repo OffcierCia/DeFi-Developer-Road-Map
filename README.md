@@ -28,7 +28,7 @@
 | General Info     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#general-information)                                      |
 | Side Chains      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
 | MEV              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Tool Collection  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tool-collection)                                          |
+| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
 | ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
 | Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
 
@@ -552,7 +552,7 @@
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
 
-# Tool Collection
+# Tools Collection
 
 
 #### Ethereum Tools
