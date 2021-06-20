@@ -164,7 +164,6 @@
 - [Ganache](https://truffleframework.com/ganache)
 - [Drizzle](https://truffleframework.com/drizzle)
 - [Tutorials](https://truffleframework.com/tutorials)
-- [Truffle Under the Hood](https://medium.com/heartbankacademy/how-truffle-works-under-the-hood-f1ff6add416c)
 
 #### ZeppeLine OS
 
