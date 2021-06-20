@@ -3,4 +3,4 @@ DeFi Developer Road Map - Special For Lido DAO by CIA Officer
 
 ## Roadmap
 
-![Roadmap](./dapp-developer-roadmap_-Page-1.svg)
+![Roadmap](./DeFiDevRroadMap_-Page-1.svg)
