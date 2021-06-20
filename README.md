@@ -174,10 +174,6 @@
 - [Labs.superblocks](https://lab.superblocks.com/)
 - [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
 
-#### Populus (Python)
-
-- [Populus](https://github.com/ethereum/populus)
-- [Tutorial](https://populus.readthedocs.io/en/latest/tutorial.html)
 
 #### Infura (A Gateway to Ethereum)
 
