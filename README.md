@@ -1,6 +1,6 @@
 # DeFi Developer Road Map
 
-> Made with **[Lido DAO](https://lido.fi)** support.
+> Made with **[Lido DAO](https://lido.fi)** support
 
 
 > **[Support Project](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project)** :star2:
