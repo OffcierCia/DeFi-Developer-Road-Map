@@ -708,7 +708,8 @@
 
 - [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 - [Geth](https://geth.ethereum.org/docs/) - Go client
-- [OpenEthereum](https://github.com/openethereum/openethereum) - Rust client, formerly called Parity
+- [Erigon](https://github.com/ledgerwatch/erigon) - a mostly Go implementation of Ethereum client built on the efficiency frontier
+- [OpenEthereum](https://github.com/openethereum/openethereum) - Rust client, formerly called Parity. On path to deprecation in favor of Erigon.
 - [Aleth](https://github.com/ethereum/aleth) - C++ client
 - [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
 - [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
