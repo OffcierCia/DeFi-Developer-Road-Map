@@ -13,7 +13,6 @@
 
 # Navigation
 
-
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
 | Mathematics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mathematics)                                              |
@@ -25,13 +24,12 @@
 | ENS              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
 | NFT              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
 | Stable Coins     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-| General Info     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#general-information)                                      |
+| General Info     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
 | Side Chains      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
 | MEV              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
 | Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
 | ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
 | Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-
 
 
 # Basics:
