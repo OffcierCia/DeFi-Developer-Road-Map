@@ -123,7 +123,7 @@
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
 - [Vyper](https://github.com/ethereum/vyper)
 - [Atom](https://atom.io/) 
-- [Etheratom](https://atom.io/packages/etheratom), 
+- [Etheratom](https://atom.io/packages/etheratom)
 - [Autocomplete Solidity](https://atom.io/packages/autocomplete-solidity)
 - [Language Solidity](https://atom.io/packages/language-solidity) 
 - [Vim solidity](https://github.com/tomlion/vim-solidity) 
