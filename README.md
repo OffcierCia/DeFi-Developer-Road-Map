@@ -1,5 +1,16 @@
 # DeFi-Developer-Road-Map
+
 DeFi Developer Road Map - Special For Lido DAO by CIA Officer 
+
+#
+
+Here we collect and discuss the best DeFI &amp; Blockchain researches and tools - contributions are welcome.
+
+Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
+
+**[Support Project](https://github.com/OffcierCia/ultimate-defi-research-base/blob/main/README.md#support-project)** :star2:
+
+##
 
 ## Roadmap
 
