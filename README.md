@@ -266,6 +266,8 @@
 
 # Further Readings
 
+#### Inspired by:
+
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
