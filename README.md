@@ -1,6 +1,6 @@
 # DeFi Developer Road Map
 
-> This repository is made with **[Lido DAO](https://lido.fi)** support :sparkling_heart:
+> **This repository is made with **[Lido DAO](https://lido.fi)** support** :sparkling_heart:
 
 
 > **[Support Project](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project)** :star2:
