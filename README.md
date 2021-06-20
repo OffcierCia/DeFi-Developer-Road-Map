@@ -632,7 +632,6 @@
 
 #### Upgradeability
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
-- [Aragon research blog](https://blog.aragon.org/tag/research/)
 - [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
 - [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 - [OpenZeppelin on Proxy Libraries](https://blog.openzeppelin.com/proxy-libraries-in-solidity-79fbe4b970fd/)
