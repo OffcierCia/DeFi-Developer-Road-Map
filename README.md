@@ -174,7 +174,6 @@
 #### Labs.Superblock
 
 - [Labs.superblocks](https://lab.superblocks.com/)
-- [Video Tutorials](hhttps://www.youtube.com/watch?v=wYGXq8vW9Dg)
 - [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
 
 #### Populus (Python)
