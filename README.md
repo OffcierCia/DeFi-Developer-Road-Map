@@ -570,7 +570,7 @@
 # Tool Collection
 
 
-## Ethereum Tools
+#### Ethereum Tools
 
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io) 
@@ -740,6 +740,7 @@
 
 
 #### Storage
+
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
 - [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
