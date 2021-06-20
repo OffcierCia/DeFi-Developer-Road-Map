@@ -383,11 +383,7 @@
 
 - [A theory of Automated Market Makers in DeFi](https://arxiv.org/pdf/2102.11350.pdf) -  Authors exploit our theory to formally prove a set of fundamental properties of AMMs, characterizing both structural and economic aspects. 
 
-- [Leveraged Trading on Blockchain Technology](https://arxiv.org/pdf/2102.13488.pdf) -  Authors document an ongoing research process towards the implementation and integration of a digital artefact, executing the lifecycle of a leveraged trade with permissionless blockchain.
-
 - [From banks to DeFi: the evolution of the lending market](https://arxiv.org/pdf/2104.00970.pdf) -  Authors discuss the persisting reliance of DeFi lending on the traditional financial system, and conclude with the outlook of the lending market in the IOV era.
-
-- [Towards Self-Regulating AI](https://arxiv.org/pdf/2010.04827.pdf) - Challenges and Opportunities of AI Model Governance in Financial Services.
 
 - [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf) -In this paper, authors investigate two methods that allow them to automatically create profitable DeFi trades.
 
@@ -476,10 +472,6 @@
 - [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/pdf/2105.05460.pdf) - This study comprehensively investigates blockchain governance via 5W1H questions.
 
 - [A general framework for blockchain analytics](https://arxiv.org/pdf/1707.01021.pdf) - Authors propose a general-purpose framework, supporting data analytics on Bitcoin Ethereum — it allows to integrate block data with data from other sources, and to organise them in a database.
-
-- [Changes to the extreme and erratic behaviour of cryptocurrency during COVID-19](https://arxiv.org/pdf/1912.06193.pdf) - This paper introduces new methods for analysing the extreme and erratic behaviour of time series to evaluate the impact of COVID-19 on market dynamics.
-
-- [Financial Markets Prediction with Deep Learning](https://arxiv.org/pdf/2104.05413.pdf) - Authors propose a novel one-dimensional convolutional neural networks (CNN) model to predict financial market movement.
 
 - [AMR:Autonomous Coin Mixer with Privacy Preserving Reward Distribution](https://arxiv.org/pdf/2010.01056.pdf) - In this work, authors propose the first censorship resilient mixer, which can reward its users in a privacy-preserving manner for participating in the system.
 
