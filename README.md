@@ -88,7 +88,7 @@ DeFi Developer Road Map - Special For Lido DAO by CIA Officer
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
 
 
-# Basic Mathematics
+# Mathematics
 
 
 - Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
@@ -536,4 +536,18 @@ DeFi Developer Road Map - Special For Lido DAO by CIA Officer
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
 
+## Support Project:
+
+If you want to support my work (I spend a lot of time analyzing materials before I post them), you can send me a donation to the address:
+
+**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 or ETH
+
+**32kToCep8CiSS1mLAYE763xBbZaeoHtFgi** — BTC
+
+##
+
+<offcierciapr@protonmail.com>
+
+
+(👍 ͡❛ ͜ʖ ͡❛)👍
 
