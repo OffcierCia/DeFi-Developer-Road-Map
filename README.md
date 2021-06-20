@@ -1,10 +1,8 @@
 # DeFi Developer Road Map
 
-DeFi Developer Road Map - Special For Lido DAO by CIA Officer 
+DeFi Developer Road Map - Made with **[Lido DAO](https://lido.fi)** support 
 
 #
-
-Here we collect and discuss the best DeFI &amp; Blockchain researches and tools - contributions are welcome.
 
 Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.
 
