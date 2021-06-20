@@ -250,7 +250,7 @@
 
 #### UI Components
 
-- [React / React Native](https://truffleframework.com/tutorials/drizzle-and-react-native)
+
 - [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 - [aragonUI](https://ui.aragon.org) - A React library including Dapp components
 - [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
