@@ -830,7 +830,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 
 > This repository is created with **[Lido DAO](https://lido.fi)** support :sparkling_heart:
 
-If you want to support my work (I spend a lot of time analyzing materials), you can send me a donation to the address:
+If you want to support my work, you can send me a donation to the address:
 
 **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH
 
