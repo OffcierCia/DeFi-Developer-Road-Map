@@ -164,7 +164,7 @@
 - [Drizzle](https://truffleframework.com/drizzle)
 
 
-#### ZeppeLine OS
+#### ZeppelinOS
 
 - [Getting Started](https://docs.zeppelinos.org/docs/start.html)
 
@@ -202,6 +202,7 @@
 
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
+- [Web3j](https://docs.web3j.io/latest/)
 
 #### Python Ethereum Eco System
 
