@@ -826,6 +826,7 @@
 
 ## Support Project:
 
+[![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)  
 
 If you want to support my work, you can send me a donation to the address:
 
