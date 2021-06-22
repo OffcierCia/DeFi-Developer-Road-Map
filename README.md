@@ -830,7 +830,6 @@
 
 ## Support Project:
 
-> This repository is created with **[Lido DAO](https://lido.fi)** support :sparkling_heart:
 
 If you want to support my work, you can send me a donation to the address:
 
