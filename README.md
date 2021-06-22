@@ -4,6 +4,8 @@
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
+> **This repository is created with **[Lido DAO](https://lido.fi)**support** :sparkling_heart:
+
 >**[Message From the Author](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project)** :star2:
 
 ##
