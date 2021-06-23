@@ -826,6 +826,8 @@
 
 ## Support Project:
 
+Support is **very** important to me, with it I can spend less time at work and do what I love - educating people :sparkling_heart:
+
 If you want to support my work, you can send me a donation to the address:
 
 **0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH
