@@ -827,7 +827,7 @@
 ## Support Project:
 
 
-Support is **very** important to me, with it I can spend less time at work and do what I love - educating people :sparkling_heart:
+Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
 
 If you want to support my work, you can send me a donation to the address:
 
