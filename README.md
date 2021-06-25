@@ -194,6 +194,7 @@
 
 #### Other Frameworks
 
+- [Frameworks List](https://ethereum.org/en/developers/docs/frameworks/) - Ethereum Frameworks Listing.
 - [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
 - [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 - [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
