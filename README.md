@@ -203,7 +203,7 @@
 - [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 - [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 - [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
-
+- [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
 
 #### Interacting with Smart Contract
 
