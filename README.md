@@ -734,6 +734,7 @@
 - [Exthereum](https://github.com/exthereum/blockchain) - Elixir client
 - [EWF Parity](https://github.com/energywebfoundation/energyweb-ui) - Energy Web Foundation client for the Tobalaba test network
 - [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
+- [Awesome Quorum](https://github.com/ConsenSys/awesome-quorum) - A curated list of awesome softwares, libraries, tools and more to build on ConsenSys Quorum.
 - [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
@@ -750,7 +751,7 @@
 - [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 - [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 - [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
-- [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
+- [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
 
 #### Bootstrap/Out-of-Box tools
 
