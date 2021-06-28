@@ -273,6 +273,7 @@
 - [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 - [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 - [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
+- [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
 
 
 # Further Readings
