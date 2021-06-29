@@ -96,7 +96,8 @@
 
 - Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-- Share your code with other people know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+- Share your code with other people
+- know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
 - Get familiar with terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure your shell (bash, zsh, fish)
 - Read a few books about algorithms and data structures, blockchain, Ethereum, solidity
