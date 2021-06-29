@@ -386,6 +386,7 @@
 
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
+
 #### DeFI
 
 
@@ -436,6 +437,10 @@
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/pdf/2106.00667.pdf) - In this SoK, authors systemize the design alternatives for oracles, showcase attacks, and discuss attack mitigation strategies.
 
 - [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) - This paper proposes a mathematical model for AMM composition.
+
+- [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349) - In this paper, authors will study and analyze blockchain oracles with regard to how they provide feedback to the blockchain and smart contracts. 
+
+- [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
 
 
 #### Ethereum Name Service
