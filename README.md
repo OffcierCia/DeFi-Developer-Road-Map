@@ -18,7 +18,7 @@
 
 ## Roadmap
 
-![Roadmap](./DeFiDevRroadMap_-Page-1.svg)
+![Roadmap](./DeFiDevRroadMap_-4-Page-1.svg)
 
 # Navigation
 
