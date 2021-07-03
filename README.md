@@ -564,6 +564,9 @@
 
 - [Flashbots: MEV in Eth2](https://hackmd.io/@flashbots/mev-in-eth2) - In this post, authors study transaction ordering in eth2 and analyze MEV-enabled staking yields. Then they find that MEV will significantly boost validator rewards but may reinforce inequalities among participants of eth2. Authors also discuss qualitative aspects of MEV in eth2 such as the potential dynamics that will unfold between its largest stakeholders like exchanges and validator pools.
 
+- [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
+
+
 #### Disucssion
 
 - [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
