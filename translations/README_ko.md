@@ -21,22 +21,22 @@
 
 |      Topic       | Instant Link                                                                                                              |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Basics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
+|       기본       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
 |      dApps       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-|    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-|    zk-snarks     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
+|    프레임워크    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+|   영지식 증명    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
+|       보안       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
+|      디파이      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
 |       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
 |       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|   Side Chains    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
+|  스테이블 코인   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
+|  일반적인 정보   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
+|   사이드 체인    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
 |       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|     ETH 2.0      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+|     툴 모음      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
+|   이더리움 2.0   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
+|   프론트 엔드    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
 
 # Basics:
 
@@ -49,40 +49,40 @@
 #### 이더리움
 
 - 이더리움의 기본 알아보기
-- 이더리움 가상 머신 (EVM): 튜링 완전 지갑, 계정 (EOA), Private/Public Key
+- 이더리움 가상 머신 (EVM): 튜링 완전 지갑, 계정 (EOA), 비밀키/개인키
 - 트렌젝션(transactions), 가스(Gas), 메타마스크(Metamask)
 - 이더리움 클라이언트/노드, Geth
 - Infura infrastructure
 
-#### 스마트 계약
+#### 스마트 컨트랙트
 
-- 스마트 계약의 기본
-- 스마트 계약의 라이프 사이클 알아보기
+- 스마트 컨트랙트의 기본
+- 스마트 컨트랙트의 라이프 사이클 알아보기
 - 이더리움 상위 레벨 언어 (**솔리디티(Solidity)**, Vyper, LLL, Serpent)
-- 컴파일, 테스트, 스마트 계약 배포
-- web3.js 또는 web3.py를 이용한 스마트 계약 적용
+- 컴파일, 테스트, 스마트 컨트랙트 배포
+- web3.js 또는 web3.py를 이용한 스마트 컨트랙트 적용
 - [이더리움은 어떻게 작동할까요?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 - 읽기: [이 글](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - 읽기: [Truffle 공식문서](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 - 읽기: [Web3 공식문서](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 - 읽기: [이더리움 마스터](https://github.com/ethereumbook/ethereumbook)
-- 읽기: [솔리디티 스마트 계약 라이브러리](https://openzeppelin.org/api/docs/get-started.html)
+- 읽기: [솔리디티 스마트 컨트랙트 라이브러리](https://openzeppelin.org/api/docs/get-started.html)
 
-#### 스마트 계약 표준
+#### 스마트 컨트랙트 표준
 
 - [ERCs](https://eips.ethereum.org/erc) - 이더리움 개선안
 
 #### 토큰
 
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 유동성 자산에 대한 토큰 계약.
+- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 유동성 자산에 대한 토큰 컨트랙트.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - 비휘발성 자산의 토큰 표준.
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - 채굴 가능한 토큰의 표준.
 
 #### 기타
 
-- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 스마트 계약가 구현하는 인터페이스를 알아보고 이용하는 표준방법
+- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 스마트 컨트랙트가 구현하는 인터페이스를 알아보고 이용하는 표준방법
 - [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 단순 프록시 계정을 위한 표준 인터페이스
-- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 계약 소유권을 위한 표준 인터페이스
+- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 컨트랙트 소유권을 위한 표준 인터페이스
 
 #### 일반적인 개발 기술들
 
@@ -90,11 +90,11 @@
 - 레파지토리를 생성하는 방법 [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
 - 당신의 코드를 사람들에게 공개하는 방법: HTTP(S) 통신 규약, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - 구글을 사용하는 것을 두려워하지 마세요, [구글 검색 더 잘하는법](http://www.powersearchingwithgoogle.com/)
-- 터미널에 익숙해지기 ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), 당신의 shell 설정(bash, zsh, fish)
+- 터미널에 익숙해지기 ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), 당신의 쉘 설정(bash, zsh, fish)
 - 알고리즘, 데이터 구조, 블록체인, 이더리움, 견고성에 대한 책을 읽어보세요.
 - 이 코스를 해보세요.[이더리움 그리고 솔리디티: 완벽 개발자 가이드](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - 무료 자습서 [솔리디티 배우기](https://github.com/willitscale/learning-solidity)
-- [솔리티디를 이용한 스마트 계약 소개](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
+- [솔리티디를 이용한 스마트 컨트랙트 소개](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
 
 #### 이 도구을 사용해보세요:
 
@@ -129,9 +129,9 @@
 
 #### 실천
 
-- [Zombie Game](https://cryptozombies.io/)을 통해 이더리움 개발 학습
+- [크립토 좀비](https://cryptozombies.io/)을 통해 이더리움 개발 학습
 - 예제를 읽고 만들어보세요: [펫 샵 자습서](https://www.trufflesuite.com/tutorial)
-- [시간 잠금 지갑: 이더리움 스마트 계약 소개](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
+- [시간 잠금 지갑: 이더리움 스마트 컨트랙트 소개](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 - [The Ultimate ENS 그리고 ĐApp 자습서](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 - [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
 - [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
@@ -139,7 +139,7 @@
 - [Consensys 모범 사례](https://consensys.github.io/smart-contract-best-practices/) - 이 문서는 중간에 솔리디티 프로그래머의 보안 사항에 대한 기본 지식을 제공하며 ConsenSys Diligence와 더 넓은 이더리움 커뮤니티로 유지합니다.
 - [솔리디티 패턴](https://github.com/fravoll/solidity-patterns) - 패턴과 모범 사례 모음입니다.
 
-# ZK-SNARKs
+# 영지식 증명(ZK-SNARKs)
 
 #### 일반적인 정보
 
@@ -152,7 +152,7 @@
 - 완전 동형 암호화 (FHE)
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU 가속화 FHE 라이브러리
 
-#### ZK-STARKs
+#### 영지식 증명(ZK-SNARKs)
 
 - [StarkWare](https://github.com/starkware-industries) 그리고 [StarkWare Resources](https://github.com/starkware-libs) - StarkEx 확장성 엔진이 상태 전환을 체인에 저장
 
@@ -184,19 +184,19 @@
 #### 다른 프레임워크
 
 - [Hardhat](https://hardhat.org/) - 빠르고 유연하며 확장이 가능한 이더리움 개발 환경
-- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie는 이더리움 스마트 계약를 구현, 테스트 및 상호작용하기 위한 파이썬 프레임워크입니다.
+- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie는 이더리움 스마트 컨트랙트를 구현, 테스트 및 상호작용하기 위한 파이썬 프레임워크입니다.
 - [Embark](https://github.com/embark-framework/embark) - DApp 개발자를 위한 프레임워크
-- [Waffle](https://getwaffle.io/) - 고급 스마트 계약 개발 및 테스트를 위한 프레임워크로 작고, 빠르고, 유연하며, 신속합니다.(ether.js 기반)
+- [Waffle](https://getwaffle.io/) - 고급 스마트 컨트랙트 개발 및 테스트를 위한 프레임워크로 작고, 빠르고, 유연하며, 신속합니다.(ether.js 기반)
 - [Dapp](https://dapp.tools/dapp/) - DApp 개발을 위한 프레임 워크, 성공적인 DApple의 후계자
 - [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js 기반 Dapp 개발 프레임워크
-- [Parasol](https://github.com/Lamarkaz/parasol) - 테스트, INFURA 구축, 자동 계약 문서등을 지원하는 프레임워크로 애자일하며 개발 환경이 유연하고 자유로운 디자인으로 사용자 지정에 제한이 없습니다.
+- [Parasol](https://github.com/Lamarkaz/parasol) - 테스트, INFURA 구축, 자동 컨트랙트 문서등을 지원하는 프레임워크로 애자일하며 개발 환경이 유연하고 자유로운 디자인으로 사용자 지정에 제한이 없습니다.
 - [0xcert](https://github.com/0xcert/framework/) - 분산 애플리케이션 구축을 위한 자바스크립트 프레임워크
-- [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: 스마트 계약을 개발, 컴파일, 업그레이드, 배포 및 상호 작용에 도움이 되는 도구 모음입니다.
-- [sbt-ethereum](https://sbt-ethereum.io/) - 지갑 및 ABI 관리, ENS 지원, 고급 스칼라 통합을 비롯한 스마트 계약 상호 작용 개발을 위한 탭 기반 텍스트 콘솔입니다.
-- [Cobra](https://github.com/cobraframework/cobra) - 이더리움 스마트 계약, 테스트 및 EVM(Ethereum virtual machine) 구축을 위한 빠르고 유연하며 단순한 개발 환경 프레임워크 입니다.
-- [Epirus](https://docs.epirus.io/sdk/) - 스마트 계약을 구축하기 위한 자바 프레임워크
+- [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: 스마트 컨트랙트을 개발, 컴파일, 업그레이드, 배포 및 상호 작용에 도움이 되는 도구 모음입니다.
+- [sbt-ethereum](https://sbt-ethereum.io/) - 지갑 및 ABI 관리, ENS 지원, 고급 스칼라 통합을 비롯한 스마트 컨트랙트 상호 작용 개발을 위한 탭 기반 텍스트 콘솔입니다.
+- [Cobra](https://github.com/cobraframework/cobra) - 이더리움 스마트 컨트랙트, 테스트 및 EVM(Ethereum virtual machine) 구축을 위한 빠르고 유연하며 단순한 개발 환경 프레임워크 입니다.
+- [Epirus](https://docs.epirus.io/sdk/) - 스마트 컨트랙트을 구축하기 위한 자바 프레임워크
 
-#### 스마트 계약과 상호 작용
+#### 스마트 컨트랙트과 상호 작용
 
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
@@ -222,7 +222,7 @@
 - [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 도커 컨테이너에서 Besu 노드의 전용 네트워크를 실행 할 수 있습니다.
 - [Orion](https://github.com/PegaSysEng/orion) - PegaSys에서 개인 트랜잭션을 수행하기 위한 컴포넌트입니다.
 - [Artemis](https://github.com/PegaSysEng/artemis) - PegaSys의 이더리움 2.0 비콘 체인 자바 구현체입니다.
-- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 매우 유사한 도커 인스턴스를 통해 스마트 계약 애플리케이션의 통합 및 테스트 수용을 간소화 할 수 있습니다.
+- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 매우 유사한 도커 인스턴스를 통해 스마트 컨트랙트 애플리케이션의 통합 및 테스트 수용을 간소화 할 수 있습니다.
 - [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - 데모 및 테스트를 위해 도커 컨테이너에서 로컬 Raiden 네트워크를 실행 할 수 있습니다.
 - [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - 프라이빗 PoA 네트워크를 위한 기본 제공 배포 스크립트입니다.
 - [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - 프라이빗 PoW 네트워크를 위한 기본 제공 배포 스크립트입니다.
@@ -247,7 +247,7 @@
 
 #### UI 컴포넌트
 
-- 리액트를 [공식 사이트](https://reactjs.org/tutorial/tutorial.html) 또는 [코스](https://egghead.io/courses/the-beginner-s-guide-to-react)를 배울 수 있습니다.
+- 리액트 [공식 사이트](https://reactjs.org/tutorial/tutorial.html) 또는 [코스](https://egghead.io/courses/the-beginner-s-guide-to-react)를 배울 수 있습니다.
 - [리액트 로드맵](https://github.com/adam-golab/react-developer-roadmap)
 - [aragonUI](https://ui.aragon.org) - Dapp 컴포넌트를 포함한 리액트 라이브러리
 - [components.bounties.network](https://components.bounties.network) - Dapp 컴포넌트를 포함한 리액트 라이브러리
@@ -280,12 +280,12 @@
 - [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
 - [멋진 이더리움 리소스 목록](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
 - [포괄적인 이더리움 개발자 리소스 목록](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
-- [스마트 계약 배우기](https://github.com/arbazkiraak/SmartContractLearning)
+- [스마트 컨트랙트 배우기](https://github.com/arbazkiraak/SmartContractLearning)
 - [멋진 암호화폐 사회](https://github.com/jpantunes/awesome-cryptoeconomics)
 
 #### 보안과 안전:
 
-- [ 호루스의 눈: 이더리움 스마트 계약에 대한 공격 분석](https://arxiv.org/pdf/2101.06204.pdf) - 조사결과, 지난 몇 년간 공격 횟수가 감소하지는 않았지만 일부 취약점의 경우 일정하게 나타나고 있습니다.
+- [호루스의 눈: 이더리움 스마트 컨트랙트에 대한 공격 분석](https://arxiv.org/pdf/2101.06204.pdf) - 조사결과, 지난 몇 년간 공격 횟수가 감소하지는 않았지만 일부 취약점의 경우 일정하게 나타나고 있습니다.
 
 - [대규모 거래를 통한 비트코인 Bribery 취약점 분석](https://arxiv.org/pdf/2105.07501.pdf) - 이 문서의 저자는 새로운 Bribery 공격을 기획하고 이 개런티가 크게 훼손될 수 있음을 보여줍니다.
 
@@ -299,71 +299,71 @@
 
 - [GoHammer 블록체인 성능 테스트 도구](https://arxiv.org/pdf/2105.00847.pdf) - GoHammer는 효율적인 분산형 시스템을 개발하는 데 도움이 되며 분산형 애플리케이션 프로젝트 개발 비용 절감에 영향을 줍니다.
 
-- [EtherClue: 이더리움 스마트 계약서 공격 디지털 조사 ](https://arxiv.org/pdf/2104.05293.pdf) - 저자는 이 연구에서 블록체인에 사용하기 위해 특수 제작된 Indicators of Comprehorise를 이용하여 이더리움 공격의 사후 분석 문제를 연구합니다.
+- [EtherClue: 이더리움 스마트 컨트랙트서 공격 디지털 조사 ](https://arxiv.org/pdf/2104.05293.pdf) - 저자는 이 연구에서 블록체인에 사용하기 위해 특수 제작된 Indicators of Comprehorise를 이용하여 이더리움 공격의 사후 분석 문제를 연구합니다.
 
 - [활용 사례별 블록체인 플랫폼 요구사항 분석 및 평가](https://arxiv.org/pdf/2103.03209.pdf) - 이 문서에서는 블록체인과 응용 프로그램을 이해하기 위한 일반적인 모델을 제공합니다.
 
 - [상수 함수에서 마켓 메이커의 프라이버시에 관한 참고 사항](https://arxiv.org/pdf/2103.01193.pdf) - 이 문서에는 저자는 가장 합리적인 상대 모델에서 CFMM의 일반적인 구현으로 프라이버시가 불가능하며 일부 완화 전략을 제공한다는 것을 보여줍니다.
 
-- [이더리움 스마트 계약의 보안 취약점 조사](https://arxiv.org/pdf/2105.06974.pdf) - 이 문서는 이더리움 스마트 계약의 취약성의 활용 사례를 분석하며 BT 애플리케이션 레벨에 특정한 8가지 취약점에 대해 설명합니다.
+- [이더리움 스마트 컨트랙트의 보안 취약점 조사](https://arxiv.org/pdf/2105.06974.pdf) - 이 문서는 이더리움 스마트 컨트랙트의 취약성의 활용 사례를 분석하며 BT 애플리케이션 레벨에 특정한 8가지 취약점에 대해 설명합니다.
 
-- [이더리움 스마트 계약의 서비스 거부 취약점 감지 방법](https://arxiv.org/pdf/2106.01340.pdf) - 이 문서는 저자가 이더리움 스마트 계약의 예상치 못한 되돌림으로 DoS를 감지하기 위해 정적 분석과 동적 분석을 결합한 프레임 워크를 제안합니다.
+- [이더리움 스마트 컨트랙트의 서비스 거부 취약점 감지 방법](https://arxiv.org/pdf/2106.01340.pdf) - 이 문서는 저자가 이더리움 스마트 컨트랙트의 예상치 못한 되돌림으로 DoS를 감지하기 위해 정적 분석과 동적 분석을 결합한 프레임 워크를 제안합니다.
 
-- [AGSolT: 자동화된 테스트 사례 생성 도구(솔리디티 스마트 계약)](https://arxiv.org/pdf/2102.08864.pdf) - 저자는 AGSoIT가 두 가지 접근 방식으로 높은 지점 초과를 달성할 수 있다는 것을 발견했으며 Github에서 가장 인기 있는 솔리디티 스마트 계약에서 몇 가지 오류를 발견했습니다.
+- [AGSolT: 자동화된 테스트 사례 생성 도구(솔리디티 스마트 컨트랙트)](https://arxiv.org/pdf/2102.08864.pdf) - 저자는 AGSoIT가 두 가지 접근 방식으로 높은 지점 초과를 달성할 수 있다는 것을 발견했으며 Github에서 가장 인기 있는 솔리디티 스마트 컨트랙트에서 몇 가지 오류를 발견했습니다.
 
 - [이더리움 거래 추적을 위한 시간량 스냅샷 다중 그래프](https://arxiv.org/pdf/2102.08013.pdf) - 저자는 TASMG를 제안하여 이더리움 거래 기록을 시간적 금액의 네트워크로 모델링 한 후 TAW를 제시함으로써 제안된 네트워크의 시간적 및 금액 정보를 통합한 거래 기록을 통해 계정을 효과적으로 임베딩할 수 있도록 합니다.
 
 - [암호화폐 마이닝 공격: 디지털 포렌식 및 동적 네트워크 특성에 기반한 준감독 학습 방식](https://arxiv.org/pdf/2102.10634.pdf) - 이 문서는 동적 네트워크 특성을 사용하는 일반 네트워크 환경에서 암호화 마이닝 공격의 탐지를 다루고 있습니다.
 
-- [FASTEN: 스마트 계약을 이용한 공정하고 안전한 분산 투표](https://arxiv.org/pdf/2102.10594.pdf) - 저자는 사생활 침해의 가능성이 극히 접다는 것을 증명했으며, 이더리움을 통한 FINSE 실행 비용 분석은 대부분 기존 선거 비용과 비교할 수 있음을 이야기합니다.
+- [FASTEN: 스마트 컨트랙트을 이용한 공정하고 안전한 분산 투표](https://arxiv.org/pdf/2102.10594.pdf) - 저자는 사생활 침해의 가능성이 극히 접다는 것을 증명했으며, 이더리움을 통한 FINSE 실행 비용 분석은 대부분 기존 선거 비용과 비교할 수 있음을 이야기합니다.
 
 - [마이닝 비용, 마이닝 보상 및 블록체인 보안 간 상호 의존성](https://arxiv.org/pdf/2102.08107.pdf) - PoC(Proof-of-Work) 블록체인 운영 비용이 공격 방지 비용과 본질적으로 연관이 있으며, 디지털 기반 원장 보안 예산이 암호화폐 시장에 얼마나 연관이 있는지에 대한 연구문서입니다.
 
 - [HyperSec: 블록체인 보안 모니터링 시각적 분석](https://arxiv.org/pdf/2103.14414.pdf) - HyperSec, 하이퍼레저 패브릭에 대한 지속적인 공격을 감지하기 위한 관련 정보를 한눈에 제공하는 시각적 분석 모니터링 도구입니다.
 
-- [이더리움 스마트 계약의 재진입 취약성 식별](https://arxiv.org/pdf/2105.02881.pdf) - 이 문서에서는 저자는 정적 분석과 동적 분석을 결합하여 이더리움 스마트 계약의 Reentrancy 취약성을 탐지하는 프레임워크를 제시합니다.
+- [이더리움 스마트 컨트랙트의 재진입 취약성 식별](https://arxiv.org/pdf/2105.02881.pdf) - 이 문서에서는 저자는 정적 분석과 동적 분석을 결합하여 이더리움 스마트 컨트랙트의 Reentrancy 취약성을 탐지하는 프레임워크를 제시합니다.
 
 - [IMT2000 3GPP - 블록체인 프로토콜의 보안 분석을 위한 일반 프레임워크](https://arxiv.org/pdf/2009.09480v2.pdf) - 이 문서는 잘 알려진 무허가 블록체인 프로토콜의 속성을 보여주고 비교하기에 충분하고 인색한 추상화를 제시합니다.
 
 - [코인 버그들: 일반적인 블록체인 구현 수준 취약성 열거](https://arxiv.org/pdf/2104.06540.pdf) - 이 문서는 공통적인 블록체인 보안 리뷰와 블록체인 개발 시작을 목표로 하는 보안 테스터를 대상으로 공통적인 함정과 참고자료를 제시합니다.
 
-- [스마트 계약의 취약성 및 미해결 문제: 체계적 매핑](https://arxiv.org/pdf/2104.12295.pdf) - 이 문서는 SC를 분석하기 위한 이니셔티브 도구와 식별된 취약점을 처리하는 방법을 체계적인 문헌을 통해 분석했습니다.
+- [스마트 컨트랙트의 취약성 및 미해결 문제: 체계적 매핑](https://arxiv.org/pdf/2104.12295.pdf) - 이 문서는 SC를 분석하기 위한 이니셔티브 도구와 식별된 취약점을 처리하는 방법을 체계적인 문헌을 통해 분석했습니다.
 
-- [SuMo: 고형성 스마트 계약을 위한 돌연번이 테스트 전략](https://arxiv.org/pdf/2105.03626.pdf) - 저자는 테스트 스위트(test suite)를 이용한 오픈 소스 프로젝트에서 얻은 평가를 보고하고 있습니다. SoMo가 개발자들이 보다 신뢰할 수 있는 스마트 계약을 제공할 수 있도록 효과적으로 도울 수 있다고 제안하고 있습니다.
+- [SuMo: 고형성 스마트 컨트랙트을 위한 돌연번이 테스트 전략](https://arxiv.org/pdf/2105.03626.pdf) - 저자는 테스트 스위트(test suite)를 이용한 오픈 소스 프로젝트에서 얻은 평가를 보고하고 있습니다. SoMo가 개발자들이 보다 신뢰할 수 있는 스마트 컨트랙트을 제공할 수 있도록 효과적으로 도울 수 있다고 제안하고 있습니다.
 
 - [블록체인의 안정성: 나선형 파괴와 스테이블 코인 공격](https://arxiv.org/pdf/1906.02152.pdf) - 나선형 파괴 가능성은 2019년부터 예측됬고 2020년 Dai 위기의 검은 목요일 사태에서 관측됬습니다.
 
 - [블록체인 시스템에 대한 익명 신탁제도](https://arxiv.org/pdf/2010.00206.pdf) - 이 문서에서 저자는 모든 암호화폐에 적용되는 블록체인 시스템에 대해 익명의 신탁 표시 제도를 제안합니다.
 
-- [이더리움 스마트 계약에서 버그를 위한 프레임워크 및 데이터셋](https://arxiv.org/pdf/2009.02066.pdf) - 이 문서에는 먼저 여러 소스들로 최대한 많은 스마트 계약 버그를 수집하고 IEEE 표준 소프트웨어 이상 분류를 확장하여 이러한 버그를 9가지 범주로 나눕니다.
+- [이더리움 스마트 컨트랙트에서 버그를 위한 프레임워크 및 데이터셋](https://arxiv.org/pdf/2009.02066.pdf) - 이 문서에는 먼저 여러 소스들로 최대한 많은 스마트 컨트랙트 버그를 수집하고 IEEE 표준 소프트웨어 이상 분류를 확장하여 이러한 버그를 9가지 범주로 나눕니다.
 
 - [블록체인 네트워크의 다양한 마이너 공격에 대한 안전한 멀티체인 컨센서스 제도](https://arxiv.org/pdf/2106.02383.pdf) - 실험 결과에 따르면 PoDT는 DMB 공격으로부터 안전하며 멀티 체인 환경에서 기존의 합의 방식보다 더 효과적이라고 말합니다.
 
 - [컨소시엄 블록체인 컨센서스 메커니즘 조사](https://arxiv.org/pdf/2102.12058.pdf) - 이 문서에서는 엔터프라이즈 블록체인의 컨센서스 알고리즘에 포함된 몇 가지 최신 솔루션을 중점으로 다룹니다.
 
-- [Coq에서 테스트와 검증된 스마트 계약 추출](https://arxiv.org/pdf/2012.09138.pdf) - 저자는 MetaCoq의 인증된 삭제를 기반으로 기능 언어로 Coq 프로그램을 추출합니다.
+- [Coq에서 테스트와 검증된 스마트 컨트랙트 추출](https://arxiv.org/pdf/2012.09138.pdf) - 저자는 MetaCoq의 인증된 삭제를 기반으로 기능 언어로 Coq 프로그램을 추출합니다.
 
 - [신뢰 할 수 없는 개인 정보 보호 블록체인 브릿지](https://arxiv.org/pdf/2102.04660.pdf) - 브릿지의 프라이버시를 보호하는 신뢰없는 교차 체인 암호화폐 전송을 촉진하기 위한 프로토콜을 제시한 문서입니다.
 
-- [이더리움 스마트 계약 개발을 위한 보안 체크리스트](https://arxiv.org/pdf/2008.04761.pdf) - 소프트웨어 라이프사이클의 설계, 코딩, 테스트와 구현 단계를 다룬 문서입니다.
+- [이더리움 스마트 컨트랙트 개발을 위한 보안 체크리스트](https://arxiv.org/pdf/2008.04761.pdf) - 소프트웨어 라이프사이클의 설계, 코딩, 테스트와 구현 단계를 다룬 문서입니다.
 
-- [머신러닝을 이용한 스마트 계약에서의 동적 취약성 탐지](https://arxiv.org/pdf/2102.07420.pdf) - 이더리움 스마트 계약의 재진입 취약성을 감지하기 위한 모니터링 프레임워크인 Dynamit을 제안하는 문서입니다.
+- [머신러닝을 이용한 스마트 컨트랙트에서의 동적 취약성 탐지](https://arxiv.org/pdf/2102.07420.pdf) - 이더리움 스마트 컨트랙트의 재진입 취약성을 감지하기 위한 모니터링 프레임워크인 Dynamit을 제안하는 문서입니다.
 
-- [가장 취약한 링크: 이더리움 스마트 계약의 소셜 공격](https://arxiv.org/pdf/2105.00132.pdf) - 스마트 계약 허니팟을 넘어 새로운 소셜 공격의 가능성을 탐구한 문서입니다.
+- [가장 취약한 링크: 이더리움 스마트 컨트랙트의 소셜 공격](https://arxiv.org/pdf/2105.00132.pdf) - 스마트 컨트랙트 허니팟을 넘어 새로운 소셜 공격의 가능성을 탐구한 문서입니다.
 
-- [OptSmart: 공간 효율적인 스마트 계약의 동시 실행](https://arxiv.org/pdf/2102.04875.pdf) - optimistic Software Transactional Memory systems (STMs)을 사용하여 AU를 동시에 실행하여 블록 실행하는 동시 마이너를 개발하는 것을 담은 문서입니다.
+- [OptSmart: 공간 효율적인 스마트 컨트랙트의 동시 실행](https://arxiv.org/pdf/2102.04875.pdf) - optimistic Software Transactional Memory systems (STMs)을 사용하여 AU를 동시에 실행하여 블록 실행하는 동시 마이너를 개발하는 것을 담은 문서입니다.
 
-- [DEFECTCHECKER: EVM 바이트 코드 분석을 통한 자동화 스마트 계약 결함 감지](https://arxiv.org/pdf/2009.02663.pdf) - 실험 결과에 따르면 속도와 정확성 측면에서 결점 검사기가 이러한 도구보다 훨씬 뛰어난 성능을 발휘합니다.
+- [DEFECTCHECKER: EVM 바이트 코드 분석을 통한 자동화 스마트 컨트랙트 결함 감지](https://arxiv.org/pdf/2009.02663.pdf) - 실험 결과에 따르면 속도와 정확성 측면에서 결점 검사기가 이러한 도구보다 훨씬 뛰어난 성능을 발휘합니다.
 
-- [SmartBugs: 견고성 스마트 계약 분석 프레임워크](https://arxiv.org/pdf/2007.04771.pdf) - DASP10 범주 무작위성, 시간 조작 그리고 엑세스 컨트롤 관련된 취약점 검출을 크게 개선하는 도구 SmartCheck를 통해 분석 도구의 손쉬운 통합과 비교를 가능하게 만드는 방법을 보여줍니다.(식별된 취약점이 11%에서 24%로 증가했습니다.).
+- [SmartBugs: 견고성 스마트 컨트랙트 분석 프레임워크](https://arxiv.org/pdf/2007.04771.pdf) - DASP10 범주 무작위성, 시간 조작 그리고 엑세스 컨트롤 관련된 취약점 검출을 크게 개선하는 도구 SmartCheck를 통해 분석 도구의 손쉬운 통합과 비교를 가능하게 만드는 방법을 보여줍니다.(식별된 취약점이 11%에서 24%로 증가했습니다.).
 
-- [고형성 스마트 계약의 가스 누출 프로파일링](https://arxiv.org/pdf/2008.05449.pdf) - 본 문서에서 저자들은 스마트 계약의 구축과 거래 비용에 영향을 미치는 19가지 코드를 식별하고 34명의 참가를 대상으로 한 설문조사를 통해 관련성을 평가합니다.
+- [고형성 스마트 컨트랙트의 가스 누출 프로파일링](https://arxiv.org/pdf/2008.05449.pdf) - 본 문서에서 저자들은 스마트 컨트랙트의 구축과 거래 비용에 영향을 미치는 19가지 코드를 식별하고 34명의 참가를 대상으로 한 설문조사를 통해 관련성을 평가합니다.
 
 - [가변 마이닝 파워로 병렬 체인 프로토콜 보호](https://arxiv.org/pdf/2105.02927.pdf) - 이 문서에 저자들은 그러한 마이닝 파워변화에 적응할 수 있는 안전한 병렬 체인 프로토콜의 설계를 고려합니다.
 
-- [Deep Neural Network 및 Transfer Learning을 이용한 이더리움 스마트 계약 취약성 감지](https://arxiv.org/pdf/2103.12607.pdf) - ERCORT 프레임워크는 DNN 모델 아키텍처의 최소한의 수정과 재교육 오버헤드를 통해 새로운 취약점 유형에 대한 이전 학습을 가능하게 합니다.
+- [Deep Neural Network 및 Transfer Learning을 이용한 이더리움 스마트 컨트랙트 취약성 감지](https://arxiv.org/pdf/2103.12607.pdf) - ERCORT 프레임워크는 DNN 모델 아키텍처의 최소한의 수정과 재교육 오버헤드를 통해 새로운 취약점 유형에 대한 이전 학습을 가능하게 합니다.
 
-- [SCSGuard: 이더리움 스마트 계약을 위한 심층 사기 탐지](https://arxiv.org/pdf/2105.10426.pdf) - 실험 결과는 SCSGuard가 Ponzi 및 Honeypot 스캠과 새로운 피싱 스마트 계약에 대해 높은 정확도(0.94), 정밀도(0.96%) 및 리콜(0.98)을 달성하는 것으로 나타났습니다.
+- [SCSGuard: 이더리움 스마트 컨트랙트을 위한 심층 사기 탐지](https://arxiv.org/pdf/2105.10426.pdf) - 실험 결과는 SCSGuard가 Ponzi 및 Honeypot 스캠과 새로운 피싱 스마트 컨트랙트에 대해 높은 정확도(0.94), 정밀도(0.96%) 및 리콜(0.98)을 달성하는 것으로 나타났습니다.
 
 - [블록체인 기반 디지털 트윈과 보안 위협 인텔리전스를 통한 사이버 물리적 시스템 보안](https://arxiv.org/pdf/2105.08886.pdf) - 이 문서에서는 인텔리전트하고 신뢰할 수 있는 DT를 위해 인공지능(AI)과 블록체인을 통합하여 CPS를 보호하는 방법을 중점적으로 다룹니다.
 
@@ -398,7 +398,7 @@
 
 - [재미와 수익을 위한 플래시론 디파이 에코시스템 공격들](https://arxiv.org/pdf/2003.03810.pdf) - 플래시론. 디파이. 클래식.
 
-- [SoK: 탈중앙화 금웅 (DeFi) ](https://arxiv.org/pdf/2101.08778.pdf) - SoK에서 주요 축을 따라 디파이 생태계를 설명합니다. SCSGuard: 이더리움 스마트 계약을 위한 딥 스캠
+- [SoK: 탈중앙화 금웅 (DeFi) ](https://arxiv.org/pdf/2101.08778.pdf) - SoK에서 주요 축을 따라 디파이 생태계를 설명합니다. SCSGuard: 이더리움 스마트 컨트랙트을 위한 딥 스캠
 - [4가지 거버넌스 토큰 분포의 경험적 증거](https://arxiv.org/pdf/2102.10096.pdf) - 블록체인 애플리케이션 간의 지배력 분산을 정량화할 수 있는 프레임워크를 제공합니다.
 
 - [블록체인 기반 탈중앙화 거래소 도입](https://arxiv.org/pdf/2103.08842.pdf) - 블록체인 기반 거래소의 주문 실행 매커니즘으로 환율이 변동하면 윧동성 제공자들이 토큰 가치를 잃는다는 것을 보여줍니다.
@@ -409,7 +409,7 @@
 
 - [탈중앙화 거래소 유동성 제공자의 행태](https://arxiv.org/pdf/2105.13822.pdf) - 유동성 제공자들이 시장 정보에 어떻게 반응하고 그들이 유동성 공급으로부터 어떻게 이익을 얻는지를 이해하는 것을 목표로 합니다.
 
-- [탈중앙화 거래소 시장의 주기적 재정거래](https://arxiv.org/pdf/2105.02784.pdf) - 스마트 계약 기술과 이더리움의 복제된 상태 기계 설정을 통해 자금 거래 전략이 CEX보다 DEX에서 더 쉽게 구현될 수 있음을 시사합니다.
+- [탈중앙화 거래소 시장의 주기적 재정거래](https://arxiv.org/pdf/2105.02784.pdf) - 스마트 컨트랙트 기술과 이더리움의 복제된 상태 기계 설정을 통해 자금 거래 전략이 CEX보다 DEX에서 더 쉽게 구현될 수 있음을 시사합니다.
 
 - [SoK: Ground Truth에서 시장조작으로 이어지는 오라클](https://arxiv.org/pdf/2106.00667.pdf) - SoK에서 오라클에 대한 설계 대안을 시스템화하고, 공격을 선보이며, 공격 완화 전략을 논의합니다.
 
@@ -451,8 +451,8 @@
 
 - [이더리움 네트워크의 빅데이터 분석: 블록체인부터 구글 트렌드 까지](https://arxiv.org/pdf/2104.01764.pdf) - 암호화폐 가격과 검색 트렌드를 분석한 결과, 일반 사용자가 아닌 대형 업체들이 시장을 조정하는 것으로 나타났습니다.
 
-- [원자성과 확장 가능한 거래를 위한 DLT 기반 스마트 계약 아키텍처](https://arxiv.org/pdf/2105.02937.pdf) - 안전하고 동적으로 업데이트할 수 있는 확장 가능하고 개인 정보를 보호하는 원자성 프로토콜을 제안합니다.
-  그런 다음 차염자가 주 채널을 초기화하기 전에 자금을 잠글 수 있는 스마트 계약 기반 CNS(Credit-Note System)을 개발하여 유연성과 효율성을 높입니다.
+- [원자성과 확장 가능한 거래를 위한 DLT 기반 스마트 컨트랙트 아키텍처](https://arxiv.org/pdf/2105.02937.pdf) - 안전하고 동적으로 업데이트할 수 있는 확장 가능하고 개인 정보를 보호하는 원자성 프로토콜을 제안합니다.
+  그런 다음 차염자가 주 채널을 초기화하기 전에 자금을 잠글 수 있는 스마트 컨트랙트 기반 CNS(Credit-Note System)을 개발하여 유연성과 효율성을 높입니다.
 
 - [이더리움 데이터 저장소 탐색](https://arxiv.org/pdf/2105.10520.pdf) - 이더리움 애플리케이션에 대한 포괄적인 데이터 관리 접근방식을 검토하고 관련 가스 비용 및 검색 성능을 평가합니다.
 
@@ -487,7 +487,7 @@
 
 - [블록체인 네트워크: 비트코인, 모네로, 지캐시, 이더리움, 리플, 아이오타의 데이터 구조](https://arxiv.org/pdf/2103.08712.pdf) - 블록체인 데이터를 다양한 유형의 네트워크로 추상화할 수 있는 방법과 네트워크 추상화를 통해 구조에 대한 통찰력을 얻을 수 있습니다.
 
-- [탈중앙화 금융: 블록체인 및 스마트 계약 기반 금융 시장](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Fabian Schar가 쓴 이 책은 기술적으로 상세하지만 소화할 수 있는 형식으로 블록체인 기반 시장에 대한 개요를 제공합니다. 새로운 사용자를 위한 훌륭한 논문입니다.
+- [탈중앙화 금융: 블록체인 및 스마트 컨트랙트 기반 금융 시장](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Fabian Schar가 쓴 이 책은 기술적으로 상세하지만 소화할 수 있는 형식으로 블록체인 기반 시장에 대한 개요를 제공합니다. 새로운 사용자를 위한 훌륭한 논문입니다.
 
 #### 사이드 체인들
 
@@ -518,13 +518,13 @@
 
 - [블록체인 추출 가능 값 수량화: 숲은 얼마나 어둡습니까?](https://arxiv.org/pdf/2101.05511v2.pdf) - 광부들이 이미 MEV(Miner Extractable Value)를 추출하고 있다는 증거를 제시하는데, 이는 관련 연구에서 알 수 있듯이 블록체인 컨센서스 보안을 불안정하게 할 수 있습니다.
 
-- [Flash Boys 2.0: 분산형 Exchange의 프런트런닝, 트랜잭션 재주문 및 컨센서스 불안정성](https://arxiv.org/pdf/1904.05234.pdf) - MEV의 개념을 소개하고, 스마트 계약의 거래 순서 의존성에 의해 야기되는 크고 복잡한 위험과 전통적인 형태의 금융 시장 착취가 블록체인 경제에 적응하고 침투하는 방법을 가종합니다.
+- [Flash Boys 2.0: 분산형 Exchange의 프런트런닝, 트랜잭션 재주문 및 컨센서스 불안정성](https://arxiv.org/pdf/1904.05234.pdf) - MEV의 개념을 소개하고, 스마트 컨트랙트의 거래 순서 의존성에 의해 야기되는 크고 복잡한 위험과 전통적인 형태의 금융 시장 착취가 블록체인 경제에 적응하고 침투하는 방법을 가종합니다.
 
 - [Flashbots: MEV in Eth2](https://hackmd.io/@flashbots/mev-in-eth2) - eth2의 거래 순서를 연구하고 MEV 기반 스테이킹 수익률을 분석합니다. 그리고나서 MEV가 검증자 보상을 상당히 증가시키겠지만 eth2의 참가자 사이의 불평등을 강화시킬 수 있다는 것을 발견합니다. 저자는 교환 및 검증자 풀과 같은 최대 이해관계자들 사이에 전개될 잠재적 역학같은 eth2의 MEV의 질적 측면을 논의합니다.
 
 #### 토론
 
-- [스마트 계약 연구 포럼](https://www.smartcontractresearch.org)
+- [스마트 컨트랙트 연구 포럼](https://www.smartcontractresearch.org)
 
 #### 해킹 사건 보고
 
@@ -570,33 +570,33 @@
 
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - 이더리움 솔리디티, Serpent 그리고 LLL의 많은 공통 데이터 구조와 유틸리티에 대한 구현을 제공합니다.
 - [솔리디티 모음](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - 코드 조각과 유틸리티 라이브러리 모음입니다.
-- [OpenZeppelin](https://openzeppelin.org/) - 안전한 스마트 계약을 구축하기 위한 프레임워크
+- [OpenZeppelin](https://openzeppelin.org/) - 안전한 스마트 컨트랙트을 구축하기 위한 프레임워크
 
-#### 널리 사용되는 스마트 계약 라이브러리
+#### 널리 사용되는 스마트 컨트랙트 라이브러리
 
-- [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - SafeMath와 OpenZeppelin SDK 같이 테스트를 거친 재사용 가능한 스마트 계약이 포함된 [라이브러리](https://github.com/OpenZeppelin/openzeppelin-sdk)
-- [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 안전하고 가스 효율적인 스마트 계약을 구축하기 위한 솔리디티 라이브러리입니다.
+- [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - SafeMath와 OpenZeppelin SDK 같이 테스트를 거친 재사용 가능한 스마트 컨트랙트이 포함된 [라이브러리](https://github.com/OpenZeppelin/openzeppelin-sdk)
+- [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - 이더리움에서 안전하고 가스 효율적인 스마트 컨트랙트을 구축하기 위한 솔리디티 라이브러리입니다.
 - [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - 이더리움 가상 머신을 사용하는 블록체인에서 사용하기 위해 만들어진 패키지 그룹
 - [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - 가스 효율적인 솔리디티 날짜와 시간 라이브러리
-- [Aragon](https://github.com/aragon/aragon) - DAO 프로토콜. [aragonOS 스마트 계약 프레임워크](https://github.com/aragon/aragonOS) 업그레이드 가능성을 가진 거버넌스에 중점을 둠
+- [Aragon](https://github.com/aragon/aragon) - DAO 프로토콜. [aragonOS 스마트 컨트랙트 프레임워크](https://github.com/aragon/aragonOS) 업그레이드 가능성을 가진 거버넌스에 중점을 둠
 - [ARC](https://github.com/daostack/arc) - DAO 및 DAO 스택의 기본 계층을 위한 운영 체제입니다.
 - [0x](https://github.com/0xProject) - DEX 프로토콜
-- [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - 지정된 사양과 상위 수준의 속성에 대한 토큰 계약 wrt의 정확성 증명 포함
-- [Provable API](https://github.com/provable-things/ethereum-api) - 오프체인 작업, 데이터 가져오기와 계산을 허용하는 Probable 서비스 사용 계약을 제공합니다.
+- [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - 지정된 사양과 상위 수준의 속성에 대한 토큰 컨트랙트 wrt의 정확성 증명 포함
+- [Provable API](https://github.com/provable-things/ethereum-api) - 오프체인 작업, 데이터 가져오기와 계산을 허용하는 Probable 서비스 사용 컨트랙트을 제공합니다.
 - [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - 고정점(64.64비트) 그리고 IEEE-754 호환 4중 정밀도(129비트) 솔리드용 부동 소수점 산술 라이브러리
 
-#### 스마트 계약 패턴
+#### 스마트 컨트랙트 패턴
 
-- [Dappsys: 안전하고 단순하며 유연한 이더리움 계약 구성 요소](https://github.com/dapphub/dappsys)
+- [Dappsys: 안전하고 단순하며 유연한 이더리움 컨트랙트 구성 요소](https://github.com/dapphub/dappsys)
 - [MakerDAO](https://github.com/makerdao/maker-otc)
 - [The TAO](https://github.com/ryepdx/the-tao)
 - [Dapp-a-day 1-10](https://steemit.com/@nikolai)
 - [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
-- [OpenZeppelin Contracts: 재사용 가능하고 안전한 스마트 계약을 솔리디티 언어로 제공하는 개발형 프레임워크](https://github.com/OpenZeppelin/openzeppelin-contracts)
+- [OpenZeppelin Contracts: 재사용 가능하고 안전한 스마트 컨트랙트을 솔리디티 언어로 제공하는 개발형 프레임워크](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [보안 감사 모범 사례에 대한 블로그](https://blog.openzeppelin.com/)
 - [어셈블리 포함 고급 작업장](https://github.com/androlo/solidity-workshop)
 - [더 단순한 이더리움 Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - 특히 _benefits_ 섹션
-- [CryptoFin 솔리디티 회계 감사 체크리스트](https://github.com/cryptofinlabs/audit-checklist) - 메인넷 론칭 계약을 감사할 때 주의해야할 공통 소견 및 문제의 체크리스트입니다.
+- [CryptoFin 솔리디티 회계 감사 체크리스트](https://github.com/cryptofinlabs/audit-checklist) - 메인넷 론칭 컨트랙트을 감사할 때 주의해야할 공통 소견 및 문제의 체크리스트입니다.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
 
 #### 업그레이드 가능성
@@ -608,23 +608,23 @@
 
 #### 개발 도구
 
-- [CryptoFin 솔리디티 회계 감사 체크리스트](https://github.com/cryptofinlabs/audit-checklist) - 메인넷 론칭 계약을 감사할 때 주의해야 할 공통 소견 및 문제 체크리스트입니다.
+- [CryptoFin 솔리디티 회계 감사 체크리스트](https://github.com/cryptofinlabs/audit-checklist) - 메인넷 론칭 컨트랙트을 감사할 때 주의해야 할 공통 소견 및 문제 체크리스트입니다.
 - [MythX](https://mythx.io/) - 이더리움 개발자를 위한 보안 검증 플랫폼과 생태계
 - [Mythril](https://github.com/ConsenSys/mythril) - 오픈소스 EVM 바이트 코드 보안 분석 도구
-- [Oyente](https://github.com/melonproject/oyente) - 대체 정적 스마트 계약 보안 분석
-- [Securify](https://securify.chainsecurity.com/) - 이더리움 스마트 계약용 보안 스캐너
-- [SmartCheck](https://tool.smartdec.net/) - 정적 스마트 계약 보안 분석기
+- [Oyente](https://github.com/melonproject/oyente) - 대체 정적 스마트 컨트랙트 보안 분석
+- [Securify](https://securify.chainsecurity.com/) - 이더리움 스마트 컨트랙트용 보안 스캐너
+- [SmartCheck](https://tool.smartdec.net/) - 정적 스마트 컨트랙트 보안 분석기
 - [Ethersplay](https://github.com/crytic/ethersplay) - EVM 분해기
 - [Evmdis](https://github.com/Arachnid/evmdis) - 대체 EVM 분해기
-- [Hydra](https://github.com/IC3Hydra/Hydra) - 암호화 경제 계약 보안 프레임워크, 분산된 보안 보조금
-- [Solgraph](https://github.com/raineorshine/solgraph) - 스마트 계약 보안 분석을 위한 솔리디티 제어 흐름 시각화
-- [Manticore](https://github.com/trailofbits/manticore) - 스마트 계약과 이진 파일에 대한 심볼 실행ㅇ 도구
+- [Hydra](https://github.com/IC3Hydra/Hydra) - 암호화 경제 컨트랙트 보안 프레임워크, 분산된 보안 보조금
+- [Solgraph](https://github.com/raineorshine/solgraph) - 스마트 컨트랙트 보안 분석을 위한 솔리디티 제어 흐름 시각화
+- [Manticore](https://github.com/trailofbits/manticore) - 스마트 컨트랙트과 이진 파일에 대한 심볼 실행ㅇ 도구
 - [Slither](https://github.com/crytic/slither) - 솔리디티 정적 분석 프레임워크
 - [Adelaide](https://github.com/sec-bit/adelaide) - SECBIT 정적 분석 기능을 솔리티 컴파일러로 확장
-- [solc-verify](https://github.com/SRI-CSL/solidity/) - 솔리디티 스마트 계약에 대한 모듈식 검증자
+- [solc-verify](https://github.com/SRI-CSL/solidity/) - 솔리디티 스마트 컨트랙트에 대한 모듈식 검증자
 - [솔리디티 보안 블로그](https://github.com/sigp/solidity-security-blog) - 알려진 공격 벡터와 일반적인 안티패턴의 포괄적인 목록
-- [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 영향을 받는 토큰과 ERC20 스마트 계약에서 취약성 모음
-- [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto에서 Network로의 무료 스마트 계약 보안 감사
+- [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - 영향을 받는 토큰과 ERC20 스마트 컨트랙트에서 취약성 모음
+- [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Callisto에서 Network로의 무료 스마트 컨트랙트 보안 감사
 - [Piet](https://piet.slock.it) - 시각적 솔리디티 아키텍처 분석기
 
 #### 프론트엔드 이더리움 APIs
@@ -636,9 +636,9 @@
 - [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - 타입스크립트 Web3 대안
 - [Ethereumjs](https://github.com/ethereumjs/) - 이더리움 같은 유틸리티 기능 모음 [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) 그리고 [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
 - [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - 자동 재시도를 포함한 자바스크립트 Web3 wrappers, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), 그리고 강력한 웹 소켓 연결.
-- [flex-contract](https://github.com/merklejerk/flex-contract) 그리고 [flex-ether](https://github.com/merklejerk/flex-ether) - 스마트 계약과 상호 작용하고 트랜잭션을 수행할 수 있는 최신 제로 구성 고급 라이브러리
+- [flex-contract](https://github.com/merklejerk/flex-contract) 그리고 [flex-ether](https://github.com/merklejerk/flex-ether) - 스마트 컨트랙트과 상호 작용하고 트랜잭션을 수행할 수 있는 최신 제로 구성 고급 라이브러리
 - [ez-ens](https://github.com/merklejerk/ez-ens) - 간단한 제로 구성 이더리움 이름 서비스 주소 확인 도구입니다.
-- [web3x](https://github.com/xf00f/web3x) - web3.js의 타입스크립트 포트. 편익에는 계약과 상호작용하는 경우를 포함하여 소규모 빌드와 전체 유형 안전이 포함됩니다.
+- [web3x](https://github.com/xf00f/web3x) - web3.js의 타입스크립트 포트. 편익에는 컨트랙트과 상호작용하는 경우를 포함하여 소규모 빌드와 전체 유형 안전이 포함됩니다.
 - [Nethereum](https://github.com/Nethereum/) - 크로스 플랫폼 이더리움 개발 프레임워크
 - [dfuse](https://github.com/dfuse-io/client-js) - [dfuse Ethereum API](https://dfuse.io)를 사용하는 타입스크립트 라이브러리
 - [Drizzle](https://github.com/truffle-box/drizzle-box) - 프론트 엔드를 블록체인에 연결하는 리덕스 라이브러리
@@ -656,7 +656,7 @@
 - [Fortmatic](https://fortmatic.com/) - SDK를 사용하여 확장과 다운로드 없이 web3 dApp을 쉽게 구축할 수 있습니다.
 - [Portis](https://portis.io/) - 아무것도 설치하지 않고도 DAP와 쉽게 상호 작용할 수 있는 SDK가 포함된 비 커스터디 지갑입니다.
 - [create-eth-app](https://github.com/paulrberg/create-eth-app) - 한 번의 명령으로 이더리움 작동 프런트-엔드 앱을 만들 수 있습니다.
-- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - 스마트 계약 구축을 위한 초보자 친화적인 포크 허브
+- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - 스마트 컨트랙트 구축을 위한 초보자 친화적인 포크 허브
 - [Notify.js](https://blocknative.com/notify) - 사용자에게 실시간 알림 제공 Blocknative Notify.js는 속도 증가와 취소에 대한 내장 지원을 통해 사용자가 안심하고 거래할 수 있도록 지원합니다. Notify.js는 통합이 쉽고 사용자 지정이 빠릅니다.
 
 #### 백엔드 이더리움 APIs
@@ -671,11 +671,11 @@
 - [ethers-rs](https://github.com/gakonst/ethers-rs/) - Ethers-rs
 - [Web3.hs](https://hackage.haskell.org/package/web3) - 하스켈 Web3
 - [KEthereum](https://github.com/komputing/KEthereum) - 코틀린 Web3
-- [Eventeum](https://github.com/ConsenSys/eventeum) - Kauri가 자바로 작성한 이더리움 스마트 계약 이벤트와 백엔드 마이크로서비스의 연결고리
+- [Eventeum](https://github.com/ConsenSys/eventeum) - Kauri가 자바로 작성한 이더리움 스마트 컨트랙트 이벤트와 백엔드 마이크로서비스의 연결고리
 - [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC 클라이언트를 위한 이더리움 블록체인
 - [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - 다중화와 로드 밸런싱을 위해 여러 이더리움 노드를 실행할 수 있는 게이트웨이입니다. Infura의 대안으로 실행할 수 있습니다. Golang으로 작성되어 있습니다.
-- [EthContract](https://github.com/AgileAlpha/eth_contract) - Elixir에서 이더리움 스마트 계약을 쿼리하는데 도움이 되는 일련의 helper 메소드들
-- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - 주소 및 ABI에 따라 모든 이더리움 계약과 상호 작용할 수 있는 서비스.
+- [EthContract](https://github.com/AgileAlpha/eth_contract) - Elixir에서 이더리움 스마트 컨트랙트을 쿼리하는데 도움이 되는 일련의 helper 메소드들
+- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - 주소 및 ABI에 따라 모든 이더리움 컨트랙트과 상호 작용할 수 있는 서비스.
 - [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - 이더리움의 이벤트와 상호 작용하고 상호 작용할 수 있는 MESG 서비스입니다.
 - [Marmo](https://marmo.io/) - 파이썬, 자바스크립트, 자바 SDK로 이더리움과 상호 작용을 단순화합니다. 릴레이를 사용하여 트랜잭션 비용을 릴레이로 오프로드합니다.
 - [이더리움 로그 프레임워크](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - 쿼리 언어, 쿼리 프로세서, 로깅 코드 생성을 포함한 이더리움 애플리케이션 및 네트워크의 고급 로깅 기능 제공
@@ -727,8 +727,8 @@
 - [Kaleido](https://kaleido.io/) - Caleido를 사용하여 협력단 블록체인 네트워크를 구축합니다. PoC와 테스트에 적합합니다.
 - [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 - [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI 아라곤 애플리케이션 및 조직을 만들고 개발하는데 사용됩니다.
-- [ColonyJS](https://github.com/JoinColony/colonyJS) - Conlony 네트워크 스마트 계약과 상호 작용할 수 있는 API를 제공하는 자바스크립트 클라이언트입니다.
-- [ArcJS](https://github.com/daostack/arc.js) - DAOstack Arc 이더리움 스마트 계약에 대한 자바스크립트 애플리케이션 액세스를 용이하게 하는 라이브러리입니다.
+- [ColonyJS](https://github.com/JoinColony/colonyJS) - Conlony 네트워크 스마트 컨트랙트과 상호 작용할 수 있는 API를 제공하는 자바스크립트 클라이언트입니다.
+- [ArcJS](https://github.com/daostack/arc.js) - DAOstack Arc 이더리움 스마트 컨트랙트에 대한 자바스크립트 애플리케이션 액세스를 용이하게 하는 라이브러리입니다.
 - [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - 사용자 친화적인 앱을 구축하기 위한 지갑 공급업체인 Arkane Network와 상호 작용할 수 있는 API를 제공하는 자바스크립트 클라이언트입니다.
 - [Onboard.js](https://blocknative.com/onboard) - 블록 네이티브 온보드는 프로젝트에 멀티 지갑 지원을 빠르고 쉽게 추가할 수 있는 방법입니다. 20개 이상의 고유한 하드웨어와 소프트웨어 지갑에 사용할 수 있는 내장 모듈을 통해 시간과 번거로움을 줄일 수 있습니다.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - 싱글 페이지 이더리움 dApp 구축을 위한 리액트 프레임워크
@@ -736,39 +736,39 @@
 #### 이더리움 ABI (Application Binary Interface) 도구
 
 - [ABI decoder](https://github.com/ConsenSys/abi-decoder) - 이더리움 트랜잭션에서 데이터 매개 변수와 이벤트 디코딩하는 라이브러리
-- [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - 계약 ABI에서 타입스크립트 계약 래퍼 생성
-- [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 계약 ABI에서 UI 양식 필드 정의와 관련 검증자 자동생성
-- [headlong](https://github.com/esaulpaugh/headlong/) - 타입-세이프 계약 ABI 및 자바 재귀 길이 접두사 라이브러리
-- [EasyDapper](https://www.easydapper.com) - Truffle 아티팩트에서 생성된 애플리케이션, 공용/비공개 네트워크에 계약 배포, 계약과 상호 작용할 수 있는 사용자 지정 가능한 실시간 공개 페이지 제공
+- [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - 컨트랙트 ABI에서 타입스크립트 컨트랙트 래퍼 생성
+- [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - 이더리움 컨트랙트 ABI에서 UI 양식 필드 정의와 관련 검증자 자동생성
+- [headlong](https://github.com/esaulpaugh/headlong/) - 타입-세이프 컨트랙트 ABI 및 자바 재귀 길이 접두사 라이브러리
+- [EasyDapper](https://www.easydapper.com) - Truffle 아티팩트에서 생성된 애플리케이션, 공용/비공개 네트워크에 컨트랙트 배포, 컨트랙트과 상호 작용할 수 있는 사용자 지정 가능한 실시간 공개 페이지 제공
 - [One Click dApp](https://oneclickdapp.com) - ABI를 사용하여 고유한 URL에서 즉시 dApp을 생성합니다.
-- [Truffle Pig](https://npmjs.com/package/trufflepig) - Truffle에서 생성된 계약 파일을 찾아 읽을 수 있는 간단한 HTTP AP를 제공하는 개발도구입니다. http를 통해 새 계약 ABI를 제공합니다.
-- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - 주소와 ABI를 기반으로 이더리움 계약과 상호 작용할 수 있는 MESG 서비스.
-- [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - 솔리디티 스마트 계약을 기반으로 Netheum 기반 C# 인터페이스와 서비스를 생성하는 웹 기반 생성기.
+- [Truffle Pig](https://npmjs.com/package/trufflepig) - Truffle에서 생성된 컨트랙트 파일을 찾아 읽을 수 있는 간단한 HTTP AP를 제공하는 개발도구입니다. http를 통해 새 컨트랙트 ABI를 제공합니다.
+- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - 주소와 ABI를 기반으로 이더리움 컨트랙트과 상호 작용할 수 있는 MESG 서비스.
+- [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - 솔리디티 스마트 컨트랙트을 기반으로 Netheum 기반 C# 인터페이스와 서비스를 생성하는 웹 기반 생성기.
 
 # 테스트 도구
 
 - [Truffle Teams](https://trufflesuite.com/teams) - 구성이 필요 없는 Truffle 프로젝트를 위한 지속적인 통합
 - [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - 솔리디티 코드 커버리지 툴
-- [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - 솔리디티 스마트 계약을 위한 대체 코드 커버리지
-- [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - 솔리디티 계약 함수 프로파일러
-- [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - 솔리디티 계약 함수 프로파일러 대안
+- [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - 솔리디티 스마트 컨트랙트을 위한 대체 코드 커버리지
+- [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - 솔리디티 컨트랙트 함수 프로파일러
+- [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - 솔리디티 컨트랙트 함수 프로파일러 대안
 - [Espresso](https://github.com/hillstreetlabs/espresso) - 빠르고 병렬화된 핫 리로드 솔리드 테스트 프레임워크
 - [Eth tester](https://github.com/ethereum/eth-tester) - 이더리움 애플리케이션 테스트를 위한 툴 제품군
-- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 매우 유사한 도커 인스턴스를 통해 스마트 계약 애플리케이션의 통합 테스트 수용 간소화
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - hevm 프로젝트는 유닛 테스트 및 스마트 계약 디버깅을 위해 특별히 만들어진 이더리움 가상 머신(EVM)을 구현한 것입니다.
+- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 실제 블록체인 네트워크와 매우 유사한 도커 인스턴스를 통해 스마트 컨트랙트 애플리케이션의 통합 테스트 수용 간소화
+- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - hevm 프로젝트는 유닛 테스트 및 스마트 컨트랙트 디버깅을 위해 특별히 만들어진 이더리움 가상 머신(EVM)을 구현한 것입니다.
 - [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - 솔리디티 그래픽 디버거
 - [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - 사람이 판독할 수 있는 스택 추적을 통해 개발 가속화
-- [Solhint](https://github.com/protofire/solhint) - 스마트 계약 검증을 위한 보안, 스타일 가이드와 모범 사례 규칙을 제공하는 솔리디티 라이터
+- [Solhint](https://github.com/protofire/solhint) - 스마트 컨트랙트 검증을 위한 보안, 스타일 가이드와 모범 사례 규칙을 제공하는 솔리디티 라이터
 - [Ethlint](https://github.com/duaraghav8/Ethlint) - 솔리디티, 이전의 Solium에서 스타일 그리고 보안 문제를 식별하고 해결하기 위한 린터
 - [Decode](https://github.com/hacker-DOM/decode) - 로컬 testrpc 노드에 제출된 tx를 보다 읽기 쉽고 이해하기 쉽게 구문 분석하는 npm 패키지
-- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - 솔리디티 스마트 계약을 Truffle와 테스트하는데 사용되는 추가 주장 그리고 효용과과 함께 npm 패키지.
+- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - 솔리디티 스마트 컨트랙트을 Truffle와 테스트하는데 사용되는 추가 주장 그리고 효용과과 함께 npm 패키지.
   중요한 점. 특정 사건이 발생했는지 여부를 주장할 수 있는 능력을 추가합니다.
 - [Psol](https://github.com/Lamarkaz/psol) - mustache.js 스타일구문, 매크로, 조건부 컴파일과 자동 원격 종속성이 포함된 솔리디티 어휘 사전 프로세서.
 - [solpp](https://github.com/merklejerk/solpp) - 종합적인 지시어와 표현 언어, 고정밀 산순과많은 유용한 helper 기능을 갖춘 솔리디티 전처리기 그리고 평탄기
 - [Decode and Publish](https://flightwallet.github.io/decode-eth-tx/) – 원시 이더리움 tx를 코딩하여 게시하며 https://live.blockcypher.com/btc-testnet/decodetx/ 유사합니다.
-- [Doppelgänger](https://getdoppelganger.io/) - 유닛 테스트 중 스마트 계약 의존성을 목킹하는 라이브러리
-- [rocketh](https://github.com/wighawag/rocketh) - 원하는 web3 라이브러리와 테스트 러너를 사용할 수 있는 간단한 라이브러리. 이더리움 스마트 계약을 테스트합니다.
-- [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - 이더리움 블록체인 스마트 계약 테스트를 위한 PyTest 플러그인
+- [Doppelgänger](https://getdoppelganger.io/) - 유닛 테스트 중 스마트 컨트랙트 의존성을 목킹하는 라이브러리
+- [rocketh](https://github.com/wighawag/rocketh) - 원하는 web3 라이브러리와 테스트 러너를 사용할 수 있는 간단한 라이브러리. 이더리움 스마트 컨트랙트을 테스트합니다.
+- [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - 이더리움 블록체인 스마트 컨트랙트 테스트를 위한 PyTest 플러그인
 
 #### 트랜잭션 시각화, 득점과 추적:
 
@@ -809,6 +809,6 @@
 
 ## 한글화 날짜
 
-2021.06.26
+2021.07.05
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
