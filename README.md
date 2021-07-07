@@ -107,6 +107,7 @@
 - Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
+- [Tudelft Repo](https://repository.tudelft.nl)
 
 #### Try this tools:
 
@@ -302,6 +303,7 @@
 - [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
 - [Smart Contract Learning](https://github.com/arbazkiraak/SmartContractLearning)
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Tudelft Repo](https://repository.tudelft.nl)
 
 
 #### Security & Safety:
