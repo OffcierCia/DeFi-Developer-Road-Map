@@ -106,7 +106,7 @@
 - Read a few books about algorithms and data structures, blockchain, Ethereum, solidity
 - Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
-- [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb)
+- [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) and [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Tudelft Repo](https://repository.tudelft.nl)
 
 #### Try this tools:
