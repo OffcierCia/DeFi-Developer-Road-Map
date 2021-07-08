@@ -75,7 +75,7 @@
 - Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 - Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
 - Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-- Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html)
+- Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org)
 
 #### Smart Contract Standards
 
