@@ -74,7 +74,7 @@
 - Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
 - Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
-- Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) and watch [this channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
 - Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
 
 #### Smart Contract Standards
