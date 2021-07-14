@@ -306,7 +306,7 @@
 - [Smart Contract Learning](https://github.com/arbazkiraak/SmartContractLearning)
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Tudelft Repo](https://repository.tudelft.nl)
-- [Reading List](https://www.decentralised.co/the-reading-list)
+- [The Reading List](https://www.decentralised.co/the-reading-list)
 
 #### Security & Safety:
 
