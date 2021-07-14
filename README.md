@@ -153,6 +153,8 @@
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
+- [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - A compilation of the worst patterns.
+
 
 # ZK-SNARKs
 
