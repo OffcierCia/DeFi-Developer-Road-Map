@@ -312,6 +312,17 @@
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Tudelft Repo](https://repository.tudelft.nl)
 - [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
+- [Eth Reentrancy Attack Patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
+- [Plugin for testing smart contracts](https://github.com/meherett/pytest-eth)
+- [Solidity function profiler](https://github.com/EricR/sol-function-profiler)
+- [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+- [DeFi security list](https://github.com/freight-chain/defi-sec)
+- [DeFi Threats Base](https://github.com/freight-trust/defi-threat)
+- [Hacking](https://github.com/geekshiv/Smart-Contract-Hacking)
+- [Secureum Bootcamp](https://hackmd.io/@secureum/bootcamp-epoch0-announcement)
+- [SCSVS](https://github.com/securing/SCSVS)
+- [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
+
 
 #### Security & Safety:
 
