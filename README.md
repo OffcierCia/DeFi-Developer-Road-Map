@@ -322,6 +322,7 @@
 - [Secureum Bootcamp](https://hackmd.io/@secureum/bootcamp-epoch0-announcement)
 - [SCSVS](https://github.com/securing/SCSVS)
 - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
+- [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
 
 
 #### Security & Safety:
