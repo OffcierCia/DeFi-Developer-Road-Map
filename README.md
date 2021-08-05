@@ -591,7 +591,7 @@
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
 
-#### Disucssion
+#### Discucssion
 
 - [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
 
