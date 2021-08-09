@@ -286,7 +286,7 @@
 - [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
 - [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
-
+- [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
 
 # Further Readings
 
