@@ -1,6 +1,6 @@
 # DeFi Developer Road Map
 
-**Here we collect and discuss the best DeFI & Blockchain researches and tools - contributions are welcome.**
+**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
@@ -58,7 +58,8 @@
 #### Ethereum
 
 - Learn the basics of Ethereum
-- Ethereum Virtual Machine (EVM): turing completeLearn about Wallets, Accounts (EOA), Private/Public Keys
+- Ethereum Virtual Machine (EVM): turing complete
+- Learn about Wallets, Accounts (EOA), Private/Public Keys
 - Learn about transactions, Gas, Metamask
 - Ethereum clients/Nodes, Geth
 - Infura infrastructure
