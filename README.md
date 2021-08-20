@@ -54,6 +54,7 @@
 - Elliptic Curve [Cryptography](https://medium.com/coinmonks/learn-how-to-code-elliptic-curve-cryptography-a952dfdc20ab)
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 
 #### Ethereum
 
@@ -88,6 +89,7 @@
 
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Token standard for semi-fungible tokens
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
 - [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
@@ -228,6 +230,7 @@
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
+- [ethers.js](https://docs.ethers.io/v5/)
 
 #### Python Ethereum Eco System
 
@@ -419,6 +422,7 @@
 
 #### DeFI
 
+- [Finematics](https://www.youtube.com/c/Finematics/featured) - Educational videos on DeFi
 
 - [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
 
@@ -639,6 +643,7 @@
 - [Sol-tester](https://github.com/androlo/sol-tester) 
 - [Solidity-coverage](https://github.com/sc-forks/solidity-coverage) 
 - [TypeChain](https://github.com/ethereum-ts/TypeChain) 
+- [Tenderly](https://tenderly.co/)
 
 
 #### Libraries
@@ -673,6 +678,7 @@
 - [Simpler Ethereum Multisig](https://medium.com/@ChrisLundkvist/exploring-simpler-ethereum-multisig-contracts-b71020c19037) - especially section _Benefits_
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
+- [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
    
 
 #### Upgradeability
@@ -791,6 +797,7 @@
 - [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 - [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
 - [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
+- [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
 
 #### Bootstrap/Out-of-Box tools
 
