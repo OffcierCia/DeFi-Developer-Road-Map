@@ -120,6 +120,9 @@
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
+- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - An interractive smart contract encoder and sender from your ABI file
+- [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
+- [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 
 
 # dApps
@@ -135,6 +138,7 @@
 #### IDE's
 
 - [Remix IDE](https://remix.ethereum.org/)
+- [Remix IDE Desktop Release](https://github.com/ethereum/remix-desktop/releases)
 - [Ethfiddle](https://ethfiddle.com/)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
@@ -147,7 +151,8 @@
 - [Vim solidity](https://github.com/tomlion/vim-solidity) 
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) 
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-
+- [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
+- [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
 
  #### Practice
 
@@ -196,6 +201,8 @@
 
 #### Labs.Superblock
 
+> Note: Superblocks is depreciated
+
 - [Labs.superblocks](https://lab.superblocks.com/)
 - [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
 
@@ -217,12 +224,13 @@
 - [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
 - [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 - [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-- [Parasol](https://github.com/Lamarkaz/parasol) - Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
+- [Parasol](https://github.com/Lamarkaz/parasol) - [Depreciated] Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 - [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
 - [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
 - [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 - [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
 - [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
+- [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
 
 #### Interacting with Smart Contract
