@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software and/or data, please cite it as below."
+authors:
+- name: Cia Officer
+  email: 85769282+OffcierCia@users.noreply.github.com
+- name: dilrong 
+  email: wet932@naver.com
+- name:  phantomk
+  email: phantomk94@gmail.com
+- name:  Dev Mehta
+  email: 55938019+Dev-Mehta@users.noreply.github.com
+- name:  Denis Fadeev
+  email: denis@fadeev.org
+- name:  Dilrong
+  email: wet932@naver.com
+- name:  Georgios Konstantopoulos
+  email: me@gakonst.com
+- name:  Shayan Eskandari
+  email: shayanbahal@gmail.com
+- name:  Victor Suzdalev
+  email: victor.suzdalev@gmail.com
+- name:  fried
+  email: 47091179+h-ivor@users.noreply.github.com
+- name:  sam bacha
+  email: sam@manifoldfinance.com
+- name:  Ake Gaviar
+  email: 10195782+akegaviar@users.noreply.github.com
+- name:  vshvsh
+  email: Vasiliy.Shapovalov@gmail.com
+- name:  Alexander C
+  email: alexander.culum@gmail.com
+- name:  Ankur Dubey
+  email: ankurdubey521@protonmail.com
+- name:  Bob
+  email: maydaybob2000@gmail.com
+title: "DeFi-Developer-Road-Map"
+version: 1.0.0
+date-released: 2021-10-08
+url: "https://github.com/sambacha/DeFi-Developer-Road-Map"
+repository-code: "https://github.com/sambacha/DeFi-Developer-Road-Map"
+title: "Decentralized Finance Developer Road Map"
