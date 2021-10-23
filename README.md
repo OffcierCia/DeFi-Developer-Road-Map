@@ -248,6 +248,7 @@
 
 - [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
 - [IPFS](https://ipfs.io/)
+- [MESON](https://meson.network/)
 - [SWARM](https://swarm-gateways.net/)
 - [Storej](https://storj.io/)
 - [Sia](https://sia.tech/)
