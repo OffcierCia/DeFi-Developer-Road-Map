@@ -895,6 +895,7 @@
 - [Halborn Forensic](https://halborn.com)
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 - [GLP](https://glprotocol.com/)
+- [BreadCrumbs](https://www.breadcrumbs.app)
 
 
 
