@@ -896,6 +896,8 @@
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
 - [GLP](https://glprotocol.com/)
 - [BreadCrumbs](https://www.breadcrumbs.app)
+- [Tenderly](https://tenderly.co/)
+- [Dune](https://dune.xyz/)
 
 
 
