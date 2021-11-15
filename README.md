@@ -511,6 +511,8 @@
 
 - [NFTS TOP]( https://cryptoslam.io) - NFT Ranking.
 
+- [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
+
 
 #### Stable-Coins:
 
