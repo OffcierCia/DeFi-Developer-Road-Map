@@ -875,7 +875,7 @@
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
 - [GraphSense](http://graphsense.info) 
-- [AML Bot](https://amlbot.com) 
+- [AML Bot Investigation Regime](https://amlbot.com) 
 - [Bank Verified](https://bitrankverified.com/home) 
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
@@ -899,7 +899,7 @@
 - [BreadCrumbs](https://www.breadcrumbs.app)
 - [Tenderly](https://tenderly.co/)
 - [Dune](https://dune.xyz/)
-
+- [ETH Detective](https://www.ethtective.com/)
 
 
 ## Support Project:
