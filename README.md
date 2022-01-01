@@ -22,7 +22,7 @@
 
 ## Roadmap
 
-![Roadmap](./DeFiDevRroadMap_-4-Page-1.svg)
+![Roadmap](./DeFiRoadMapNewSVG.svg)
 
 # Navigation
 
