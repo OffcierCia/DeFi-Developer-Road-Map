@@ -337,6 +337,7 @@
 - [SCSVS](https://github.com/securing/SCSVS)
 - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
 - [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
+- [Builder List](https://based.builders)
 
 
 #### Security & Safety:
