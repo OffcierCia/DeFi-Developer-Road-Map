@@ -272,6 +272,7 @@
 - [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten, Rinkeby)
 - [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
+- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 #### Test Ether Faucets
 
@@ -797,6 +798,7 @@
 - [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 - [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
 - [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
+- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 
 #### Storage
