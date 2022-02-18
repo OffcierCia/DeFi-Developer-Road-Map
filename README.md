@@ -339,6 +339,7 @@
 - [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
 - [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
 - [Builder List](https://based.builders)
+- [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
 
 
 #### Security & Safety:
