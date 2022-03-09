@@ -232,6 +232,7 @@
 - [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 - [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
+- [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
 
 #### Interacting with Smart Contract
 
