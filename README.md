@@ -445,6 +445,12 @@
 
 - [OverTheWire](https://overthewire.org/wargames/) - Set of wargames and challenges offered by a community to learn and practice security concepts in fun wargames.
 
+- [Pentesterlab](https://pentesterlab.com/) - Hands-on labs covering different bu classes from basic to advanced.
+
+- [Portswigger labs](https://portswigger.net/web-security/all-labs) - Set of web application secrity labs with attached community solutions
+
+- [Vulnhub](https://www.vulnhub.com/) - Users upload "challenge boxes" that often attempt to gain root access by exploiting known vulnerabilities.
+
 ##### Web3 cybersecurity
 
 - [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
