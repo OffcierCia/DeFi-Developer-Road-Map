@@ -435,6 +435,8 @@
 
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
 
+##### Web2 cybersecurity
+
 - [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
 
 - [Disclose: Cross-industry and vendor-agnostic standards for best practives in cybersecurity research](https://disclose.io/) - Open source maintainers and industry experts providing a central source for assistance, information, and help via templates, tools, data sets...
@@ -442,6 +444,20 @@
 - [Hack The Box](https://www.hackthebox.com/) - A Hacker's playground to dynamically and compete against other users in a collaborative ecosystem that promotes hands-on training experience
 
 - [OverTheWire](https://overthewire.org/wargames/) - Set of wargames and challenges offered by a community to learn and practice security concepts in fun wargames.
+
+##### Web3 cybersecurity
+
+- [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
+
+- [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) - An offensive security playground to learn red team cybersecurity in the context of DeFi and smart contracts. Examples include tasks where the users needs to stop the system from working, take out funds from a contract...
+
+- [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
+
+##### Web3 CTF (Capture The Flag)
+
+- [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every succesful challenge. The goal is to make the `isComplete()` function return true. 
+
+- [Paradigm CTF](https://ctf.paradigm.xyz/)
 
 #### DeFI
 
