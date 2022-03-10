@@ -435,6 +435,14 @@
 
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
 
+- [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
+
+- [Disclose: Cross-industry and vendor-agnostic standards for best practives in cybersecurity research](https://disclose.io/) - Open source maintainers and industry experts providing a central source for assistance, information, and help via templates, tools, data sets...
+
+- [Hack The Box](https://www.hackthebox.com/) - A Hacker's playground to dynamically and compete against other users in a collaborative ecosystem that promotes hands-on training experience
+
+- [OverTheWire](https://overthewire.org/wargames/) - Set of wargames and challenges offered by a community to learn and practice security concepts in fun wargames.
+
 #### DeFI
 
 - [Finematics](https://www.youtube.com/c/Finematics/featured) - Educational videos on DeFi
