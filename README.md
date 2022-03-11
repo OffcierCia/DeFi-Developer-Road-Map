@@ -916,6 +916,8 @@
 
 #### Transaction Visualization, Scoring & Tracking:
 
+| Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
+
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
 - [GraphSense](http://graphsense.info) 
