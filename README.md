@@ -44,6 +44,7 @@
 | Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
 | ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
 | Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+| Project Manag.   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
 
 # Basics:
@@ -306,6 +307,11 @@
 - [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
 - [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
+
+# Project management
+
+- [Dework](https://dework.xyz/) | Web3 Trello with token payments, credentials, bounties...
+- [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
 
 # Further Readings
 
