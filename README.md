@@ -55,6 +55,7 @@
 - Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
 - Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
 
 #### Ethereum
 
@@ -232,7 +233,9 @@
 - [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
 - [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
+- [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
 - [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
+- [Solmate](https://github.com/Rari-Capital/solmate) - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
 
 #### Interacting with Smart Contract
 
