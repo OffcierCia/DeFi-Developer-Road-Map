@@ -610,6 +610,13 @@
 
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
 
+#### Special Author's compilations:
+
+- [All-about-NFT security](https://graph.org/NFT-security-01-28) 
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [All good TG Dev communities](https://graph.org/Thread-02-19)
+- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
+
 
 #### Side-Chains
 
