@@ -616,7 +616,7 @@
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [All good TG Dev communities](https://graph.org/Thread-02-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
-- [Solidity A-Z](thttps://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 
 #### Side-Chains
