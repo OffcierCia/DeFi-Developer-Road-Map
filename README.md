@@ -354,6 +354,13 @@
 
 #### Security & Safety:
 
+**|** Read 3 awesome cheatsheets: 
+- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
+- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13), 
+- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20) and 
+- [All about NFT security](https://graph.org/NFT-security-01-28)
+#
+
 - [Blockchain Security Roadmap](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - This article will be laying down a path/roadmap, following which users will easily enter into the field of Blockchain Security together. 
 
 - [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
@@ -617,6 +624,7 @@
 - [All good TG Dev communities](https://graph.org/Thread-02-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 
 
 #### Side-Chains
@@ -678,6 +686,7 @@
 
 #### Ethereum Tools
 
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io) 
 - [Node Stats](https://ethernodes.org)
