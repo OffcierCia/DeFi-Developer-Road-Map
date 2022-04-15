@@ -654,7 +654,7 @@
 
 #### Ethereum 2.0
 
-
+- [Specification](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
 - [Ethereum 2.0 Stats](https://eth2stats.io/)
