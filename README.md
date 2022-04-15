@@ -654,6 +654,7 @@
 
 #### Ethereum 2.0
 
+- [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
 - [Specification](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
