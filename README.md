@@ -643,6 +643,8 @@
 
 #### EIP - 1559
 
+- [EIP1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq) - EIP1559 FAQ
+
 - [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
