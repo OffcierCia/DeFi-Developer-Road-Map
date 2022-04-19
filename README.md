@@ -264,6 +264,7 @@
 
 #### Test Blockchain Networks
 
+- [Paradigm Faucet](https://faucet.paradigm.xyz) - claim testnet ETH here
 - [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 - [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 - [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -625,7 +626,7 @@
 
 - [All-about-NFT security](https://graph.org/NFT-security-01-28) 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities](https://graph.org/Thread-02-19)
+- [All good TG Dev communities](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
