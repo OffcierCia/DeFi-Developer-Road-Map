@@ -61,6 +61,7 @@
 - [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
+- [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
 # Basics:
 
