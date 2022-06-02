@@ -14,9 +14,10 @@
 <summary>Translations</summary>
 <br />
 
+- [Chinese]()
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-  
+
 </details>
 
 
@@ -233,6 +234,11 @@
 - [Kovan TestNet End Point](https://infura.io/)
 - [Rinkby TestNet End Point](https://infura.io/)
 - [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
+
+#### [NodeReal](https://nodereal.io)(A high-performance node service)
+
+- [Meganode](https://meganode.nodereal.io)
+- [DirectRoute](https://directroute.nodereal.io)
 
 #### Other Frameworks
 
@@ -775,7 +781,7 @@
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
 - [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
-   
+  
 
 #### Upgradeability
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
