@@ -637,7 +637,7 @@
 - [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
 - [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
 - [Loom Network](https://github.com/loomnetwork)
-- [Matic Network](https://docs.matic.network/)
+- [Polygon Network](https://docs.polygon.technology/)
 
 
 #### EIP - 1559
