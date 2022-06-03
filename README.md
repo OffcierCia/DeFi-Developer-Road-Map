@@ -14,9 +14,10 @@
 <summary>Translations</summary>
 <br />
 
+- [Chinese]()
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-  
+
 </details>
 
 
@@ -26,7 +27,7 @@
 
 # Navigation
 
-❕ **[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❕
+ **[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❗️
 
 
 |       Topic      | Instant Link                                                                                                              |
@@ -49,6 +50,19 @@
 | Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
 | Project Manag.   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
+
+**| Special Author's Notes:**
+
+- [All-about-NFT security ](https://graph.org/NFT-security-01-28) 
+- [Browser leakage checkers ](https://graph.org/Checkers-01-19)
+- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
+- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
+- [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
+- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
+- [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
 # Basics:
 
@@ -179,6 +193,7 @@
 
 #### General info
 
+- [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 - [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
 - [Nightfall](https://github.com/EYBlockchain/nightfall) - Make any ERC-20 / ERC-721 token private - open source tools & microservices
@@ -219,6 +234,11 @@
 - [Kovan TestNet End Point](https://infura.io/)
 - [Rinkby TestNet End Point](https://infura.io/)
 - [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
+
+#### [NodeReal](https://nodereal.io)(A high-performance node service)
+
+- [Meganode](https://meganode.nodereal.io)
+- [DirectRoute](https://directroute.nodereal.io)
 
 #### Other Frameworks
 
@@ -263,6 +283,7 @@
 
 #### Test Blockchain Networks
 
+- [Paradigm Faucet](https://faucet.paradigm.xyz) - claim testnet ETH here
 - [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
 - [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
 - [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
@@ -624,10 +645,12 @@
 
 - [All-about-NFT security](https://graph.org/NFT-security-01-28) 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities](https://graph.org/Thread-02-19)
+- [All good TG Dev communities](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
+- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 
 
 #### Side-Chains
@@ -642,6 +665,8 @@
 
 #### EIP - 1559
 
+- [EIP1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq) - EIP1559 FAQ
+
 - [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
 
 - [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
@@ -651,7 +676,8 @@
 
 #### Ethereum 2.0
 
-
+- [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
+- [Specification](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
 - [Ethereum 2.0 Stats](https://eth2stats.io/)
@@ -755,7 +781,7 @@
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
 - [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
-   
+  
 
 #### Upgradeability
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
@@ -975,9 +1001,9 @@ Support is **very** important to me, with it I can spend less time at work and d
 
 If you want to support my work, you can send me a donation to the address:
 
-**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
-**17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
 ##
 

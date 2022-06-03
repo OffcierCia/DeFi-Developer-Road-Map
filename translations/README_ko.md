@@ -2,7 +2,7 @@
 
 **여기서 최고의 디파이 & 블록체인 연구 그리고 도구을 수집하고 의논합니다. - 기여는 환영합니다.**
 
-**작은 수정 사항부터 번역, 문서, 도구 등 자유롭게 풀 요청을 제출해주세요.**
+**작은 수정 사항부터 번역, 문서, 도구 등 자유롭게 pull request을 제출해주세요.**
 
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
@@ -21,22 +21,22 @@
 
 |      Topic       | Instant Link                                                                                                              |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|       기본       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
-|      dApps       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-|    프레임워크    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-|   영지식 증명    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-| Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|       보안       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|      디파이      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-|       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-|       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|  스테이블 코인   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|  일반적인 정보   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|   사이드 체인    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-|       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-|     툴 모음      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|   이더리움 2.0   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|   프론트 엔드    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+|       기본       | [Explore](#basics)                                                   |
+|      dApps       | [Explore](#dapps)                                                    |
+|    프레임워크    | [Explore](#frameworks)                                               |
+|   영지식 증명    | [Explore](#zk-snarks)                                                |
+| Further Readings | [Explore](#further-readings)                                         |
+|       보안       | [Explore](#security--safety)                                         |
+|      디파이      | [Explore](#defi)                                                     |
+|       ENS        | [Explore](#ethereum-name-service)                                    |
+|       NFT        | [Explore](#non-fungible-token-nft)                                   |
+|  스테이블 코인   | [Explore](#stable-coins)                                             |
+|  일반적인 정보   | [Explore](#ethereum-tools)                                           |
+|   사이드 체인    | [Explore](#side-chains)                                              |
+|       MEV        | [Explore](#mev---maximal-extractable-value--miner-extractable-value) |
+|     툴 모음      | [Explore](#tools-collection)                                         |
+|   이더리움 2.0   | [Explore](#ethereum-20)                                              |
+|   프론트 엔드    | [Explore](#front-end)                                                |
 
 # Basics:
 
@@ -86,11 +86,12 @@
 
 #### 일반적인 개발 기술들
 
-- Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
-- 레파지토리를 생성하는 방법 [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-- 당신의 코드를 사람들에게 공개하는 방법: HTTP(S) 통신 규약, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+- [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40) 배우기
+- [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)에 레파지토리를 생성하는 방법
+- 당신의 코드를 사람들에게 공개하는 방법
+- HTTP(S) 통신 규약, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - 구글을 사용하는 것을 두려워하지 마세요, [구글 검색 더 잘하는법](http://www.powersearchingwithgoogle.com/)
-- 터미널에 익숙해지기 ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), 당신의 쉘 설정(bash, zsh, fish)
+- 터미널에 익숙해지기 ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), 쉘 설정하기(bash, zsh, fish)
 - 알고리즘, 데이터 구조, 블록체인, 이더리움, 견고성에 대한 책을 읽어보세요.
 - 이 코스를 해보세요.[이더리움 그리고 솔리디티: 완벽 개발자 가이드](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - 무료 자습서 [솔리디티 배우기](https://github.com/willitscale/learning-solidity)
@@ -104,7 +105,7 @@
 
 # dApps
 
-- 사용할 도구에 익숙해지세요.
+- 사용할 tool들에 익숙해지세요:
 
 #### 패키지 매니저
 
@@ -537,34 +538,35 @@
 #### 이더리움 Tools
 
 - [Ethstats](https://ethstats.io)
-- [ETH Forks](https://forkmon.ethdevops.io)
+- [ETH Forks](https://forkmon.ethdevops.io) 
 - [Node Stats](https://ethernodes.org)
 - [EVM Networks List](https://chainid.network)
 - [BIP39 Derivation](https://iancoleman.io/bip39)
-- [Vanity Generator](https://github.com/johguse/profanity)
-- [Web Vanity Generator](https://vanity-eth.tk)
+- [Vanity Generator](https://github.com/johguse/profanity) 
+- [Web Vanity Generator](https://vanity-eth.tk) 
 - [Vanity Eth Generators](https://github.com/search?q=eth+vanity)
-- [FindETH](https://findeth.io)
+- [FindETH](https://findeth.io) 
 - [Eth Tx Decoder](https://antoncoding.github.io/eth-tx-decoder)
 - [Ethereum input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder)
 - [Ethereum Gas Charts](https://ethereumprice.org/gas)
-- [Ethereum TxPool Statistics](https://txpool.zengo.com/)
+- [Ethereum TxPool Statistics](https://txpool.zengo.com/) 
 - [Gas Prices Dashboard ](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
 - [The UI from ABI](https://ethcontract.watch)
 - [Oracles Club](https://oracles.club)
 - [Tx Combo](https://furucombo.app)
 - [ETH or ERC-20 Mass-sender](https://disperse.app)
 - [BulkSender](https://bulksender.app)
-- [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token)
+- [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token) 
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
-- [Fees WTF Calculator](https://fees.wtf)
-- [Spend Gas Stats](https://txn.finance)
-- [Pools Stats](https://pools.fyi)
-- [Solhint](https://github.com/protofire/solhint)
+- [Fees WTF Calculator](https://fees.wtf) 
+- [Spend Gas Stats](https://txn.finance) 
+- [Pools Stats](https://pools.fyi) 
+- [Solhint](https://github.com/protofire/solhint) 
 - [Solium](https://github.com/duaraghav8/Solium)
-- [Sol-tester](https://github.com/androlo/sol-tester)
-- [Solidity-coverage](https://github.com/sc-forks/solidity-coverage)
-- [TypeChain](https://github.com/ethereum-ts/TypeChain)
+- [Sol-tester](https://github.com/androlo/sol-tester) 
+- [Solidity-coverage](https://github.com/sc-forks/solidity-coverage) 
+- [TypeChain](https://github.com/ethereum-ts/TypeChain) 
+- [Tenderly](https://tenderly.co/)
 
 #### 라이브러리
 
@@ -772,12 +774,13 @@
 
 #### 트랜잭션 시각화, 득점과 추적:
 
-- [C-Hound](http://c-hound.ai)
-- [BlockPath](http://blockpath.com)
-- [Maltego](http://maltego.com)
-- [GraphSense](http://graphsense.info)
-- [AML Bot](https://amlbot.com)
-- [Bank Verified](https://bitrankverified.com/home)
+| [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)를 읽고, 작성자(OffcierCia)의 방법론을 확인해보세요.
+
+- [BlockPath](http://blockpath.com) 
+- [Maltego](http://maltego.com) 
+- [GraphSense](http://graphsense.info) 
+- [AML Bot Investigation Regime](https://amlbot.com) 
+- [Bank Verified](https://bitrankverified.com/home) 
 - [Orbit](https://github.com/s0md3v/Orbit)
 - [Arronax](https://github.com/Cryptonomic/Arronax)
 - [Blockscout](https://github.com/blockscout/blockscout)
@@ -795,15 +798,21 @@
 - [Solidus Labs](https://www.soliduslabs.com)
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
+- [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
+- [GLP](https://glprotocol.com/)
+- [BreadCrumbs](https://www.breadcrumbs.app)
+- [Tenderly](https://tenderly.co/)
+- [Dune](https://dune.xyz/)
+- [ETH Detective](https://www.ethtective.com/)
 
-## 프로젝트를 지원해주세요.
+## 프로젝트 지원:
 
-프로젝트를 지원하는 것은 매우 중요합니다.
+프로젝트를 지원하는 것은 **매우** 중요합니다.
 덕분에 직장에서 보내는 시간을 줄이고 제가 좋아하는 일인 디파이와 암호화폐 교육을 할 수 있습니다. :sparkling_heart:
 
-지원하고 싶다면 다음주소로 기부금을 보내주시면 됩니다.
+지원하고 싶다면 다음 주소로 기부금을 보내주시면 됩니다.
 
-**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH
+**0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A** — ERC20 & ETH (officercia.eth)
 
 **17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU** - BTC
 
