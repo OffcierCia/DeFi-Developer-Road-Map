@@ -274,6 +274,7 @@
 
 #### Distributed Storage Systems
 
+- [Arweave](https://arweave.org)
 - [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
 - [IPFS](https://ipfs.io/)
 - [MESON](https://meson.network/)
