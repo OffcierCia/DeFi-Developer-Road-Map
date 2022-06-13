@@ -1,59 +1,60 @@
-# DeFi Developer Road Map
+# نقشه راه توسعه دهندگان دیفای
 
-**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
+**اینجا ما بهترین ابزاز ها و منابع موجود برای دیفای و بلاکچین را مورد بررسی قرار دادیم.**
 
-**Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
+**با خیال راحت میتوانید درخواست pull کنید، هر چیز کوچکی برای ترجمه، مقالات یا ابزارها که دوست دارید اضافه کنید.**
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
-  [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
-       [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
+[![پشتیبانی پروژه](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![پشتیبانی GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![پشتیبانی LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d) 
+  [![منابع تحقیقات](https://img.shields.io/badge/Research-Base-lightgrey )](https://github.com/OffcierCia/ultimate-defi-research-base)
+       [![ایمیل](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com) 
 
 
 
 <details>
-<summary>Translations</summary>
+<summary>ترجمه ها</summary>
 <br />
 
 - [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
+- [Persian](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fa.md)
 
 </details>
 
 
-## Roadmap
+## مسیر پیشرفت
 
-![Roadmap](./DeFiRoadMapNewSVG.svg)
+![مسیر پیشرفت](./DeFiRoadMapNewSVG.svg)
 
-# Navigation
+# لیست موضوعات
 
- **[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❗️
+ **[لیست جایگزین](https://start.me/p/QRg5ad/officercia)** ❗️
 
 
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Basics           | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
-| dApps            | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-| Frameworks       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+| پایه  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
+| برنامه دیفای| [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+| فریمورک | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
 | zk-snarks        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-| Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-| Security         | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-| DeFi             | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
+| مطالب بیشتر| [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
+| امنیتی  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
+| دیفای         | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
 | ENS              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
 | NFT              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-| Stable Coins     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-| General Info     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-| Side Chains      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
+| استیبل کوین     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
+| اطلاعات عمومی     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
+| زنجیره های جانبی      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
 | MEV              | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-| ETH 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-| Front End        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-| Project Manag.   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+| مجموعه ابزارها | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
+| اتریوم 2.0          | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
+| فرونت اند       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+| مدیریت پروژه   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
 
 **| Special Author's Notes:**
 
-- [All-about-NFT security ](https://graph.org/NFT-security-01-28) 
+- [همه چیز درباره امنیت NFT ](https://graph.org/NFT-security-01-28) 
 - [Browser leakage checkers ](https://graph.org/Checkers-01-19)
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
@@ -64,7 +65,7 @@
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 - [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
-# Basics:
+# پایه:
 
 
 - Learn the basics of Distributed Ledger Technology (DLT)
@@ -75,7 +76,7 @@
 - Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
 
-#### Ethereum
+#### اتریوم
 
 - Learn the basics of Ethereum
 - Ethereum Virtual Machine (EVM): turing complete
@@ -84,7 +85,7 @@
 - Ethereum clients/Nodes, Geth
 - Infura infrastructure
 
-#### Smart Contract
+#### قراردد هوشمند
 
 
 - Basics of Smart Contract
@@ -100,11 +101,11 @@
 - Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
 - Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 
-#### Smart Contract Standards
+#### قراردادهای هوشمند استاندارد
 
 - [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
 
-#### Tokens
+#### توکن ها
 
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
@@ -112,14 +113,14 @@
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
 - [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
-#### Others
+#### سایر
 
 - [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - Creates a standard method to publish and detect what interfaces a smart contract implements.
 - [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - A standard interface for a simple proxy account.
 - [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts.
 
 
-#### General Development Skills
+#### مهارت های عمومی توسعه  دهندگان
 
 
 - Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
@@ -134,7 +135,7 @@
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) and [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Tudelft Repo](https://repository.tudelft.nl)
 
-#### Try this tools:
+#### این ابزارها را هم امتحان کنید
 
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
@@ -144,17 +145,17 @@
 - [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 
 
-# dApps
+# اپلیکیشن های دیفای
 
 - Get familiar with tools that you will be using:
 
-#### Package Managers
+#### مدیریت بسته ها
 
 - [npm](https://www.npmjs.com/)
 - [yarn](https://yarnpkg.com/lang/en/)
 - [pnpm](https://pnpm.js.org/)
 
-#### IDE's
+#### محیط های توسعه (IDE)
 
 - [Remix IDE](https://remix.ethereum.org/)
 - [Remix IDE Desktop Release](https://github.com/ethereum/remix-desktop/releases)
@@ -173,7 +174,7 @@
 - [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
 - [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
 
- #### Practice
+ #### تمرین ها
 
 - Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) 
 - Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
@@ -191,7 +192,7 @@
 
 # ZK-SNARKs
 
-#### General info
+#### اطلاعات عمومی
 
 - [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
@@ -206,7 +207,7 @@
 #### ZK-STARKs
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
 
-# Frameworks
+# فریم ورک ها
 
 #### Truffle Suit 
 
@@ -240,7 +241,7 @@
 - [Meganode](https://meganode.nodereal.io)
 - [DirectRoute](https://directroute.nodereal.io)
 
-#### Other Frameworks
+#### سایر فریم ورک ها
 
 - [Frameworks List](https://ethereum.org/en/developers/docs/frameworks/) - Ethereum Frameworks Listing.
 - [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
@@ -261,18 +262,18 @@
 - [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
 - [Solmate](https://github.com/Rari-Capital/solmate) - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
 
-#### Interacting with Smart Contract
+#### تراکنش با قرارداد هوشمند
 
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
 - [ethers.js](https://docs.ethers.io/v5/)
 
-#### Python Ethereum Eco System
+#### پایتون در اکوسیستم اتریوم
 
 - [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 
-#### Distributed Storage Systems
+#### توزیع های سیستم های ذخیره سازی
 
 - [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
 - [IPFS](https://ipfs.io/)
@@ -281,7 +282,7 @@
 - [Storej](https://storj.io/)
 - [Sia](https://sia.tech/)
 
-#### Test Blockchain Networks
+#### تست شبکه بلاکچین
 
 - [Paradigm Faucet](https://faucet.paradigm.xyz) - claim testnet ETH here
 - [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
@@ -303,7 +304,7 @@
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
-#### Test Ether Faucets
+#### تست های اتر
 
 - [Rinkeby faucet](https://faucet.rinkeby.io/)
 - [Kovan faucet](https://github.com/kovan-testnet/faucet)
@@ -313,9 +314,9 @@
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 
 
-# Front End 
+# فرونت اند
 
-#### UI Components
+#### افزونه های رابط کاربری
 
 - Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
@@ -332,14 +333,14 @@
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
 - [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
 
-# Project management
+# مدیریت پروژه
 
 - [Dework](https://dework.xyz/) | Web3 Trello with token payments, credentials, bounties...
 - [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
 
-# Further Readings
+# این ها را هم بخوانید
 
-#### Inspired by:
+#### الهام گرفته از
 
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
@@ -376,9 +377,9 @@
 - [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
 
 
-#### Security & Safety:
+#### بخش امنیت و هک
 
-**|** Read 3 awesome cheatsheets: 
+**|** این 3 کد تقلب عالی را از دست ندهید 
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
 - [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13), 
 - [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20) and 
@@ -475,7 +476,7 @@
 
 - [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
 
-##### Web2 cybersecurity
+##### وب2 امنیت سایبری
 
 - [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
 
@@ -491,7 +492,7 @@
 
 - [Vulnhub](https://www.vulnhub.com/) - Users upload "challenge boxes" that often attempt to gain root access by exploiting known vulnerabilities.
 
-##### Web3 cybersecurity
+##### وب3 امنیت سایبری
 
 - [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
 
@@ -499,13 +500,13 @@
 
 - [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
 
-##### Web3 CTF (Capture The Flag)
+##### وب3 CTF (Capture The Flag)
 
 - [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every succesful challenge. The goal is to make the `isComplete()` function return true. 
 
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 
-#### DeFI
+#### دیفای
 
 - [Finematics](https://www.youtube.com/c/Finematics/featured) - Educational videos on DeFi
 
@@ -562,12 +563,12 @@
 - [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
 
 
-#### Ethereum Name Service
+#### نام سرویس های اتریوم
 
 - [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
 
 
-#### Non-Fungible Token (NFT):
+#### توکن های غیر قابل تعویض (NFT)
 
 - [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
 
@@ -588,7 +589,7 @@
 - [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
 
 
-#### Stable-Coins:
+#### استیبل کوین ها
 
 
 - [Stablecoins 2.0](https://arxiv.org/pdf/2006.12388.pdf) - Authors seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins.
@@ -600,7 +601,7 @@
 - [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 
 
-#### General information:
+#### اطلاعات کلی
 
 
 - [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) - An analysis of the crypto prices and search trends suggests the existence of big players (and not the regular users), manipulating the market after a drop in prices.
@@ -641,7 +642,7 @@
 
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
 
-#### Special Author's compilations:
+#### مجموعه ویژه نویسنده
 
 - [All-about-NFT security](https://graph.org/NFT-security-01-28) 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
@@ -653,7 +654,7 @@
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 
 
-#### Side-Chains
+#### زنجیره های جانبی
 
 - [POA Network](https://www.poa.network/)
 - [POA Bridge](https://bridge.poa.net/)
@@ -674,7 +675,7 @@
 - [Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559](https://arxiv.org/pdf/2012.00854.pdf) - This report assesses the game-theoretic strengths and weaknesses of the proposal and explores some alternative designs.
 
 
-#### Ethereum 2.0
+#### اتریوم 2.0
 
 - [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
 - [Specification](https://github.com/ethereum/annotated-spec)
@@ -686,7 +687,7 @@
 - [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
 
 
-#### MEV - Maximal Extractable Value / Miner Extractable Value:
+#### حداکثر ارزش قابل استخراج (MEV) ارزش معادن استخراج
 
 
 - [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
@@ -698,22 +699,22 @@
 - [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
 
 
-#### Discucssion
+#### بحث و تبادل نظر
 
 - [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
 
 
- #### Hack Incident Reporting
+ #### گزارش هک های انجام شده
 
 - [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
 
-# Tools Collection
+# جعبه ابزار
 
 
-#### Ethereum Tools
+#### ابزارهای اتریوم
 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
@@ -748,13 +749,13 @@
 - [Tenderly](https://tenderly.co/)
 
 
-#### Libraries
+#### کتابخانه ها
 
 - [dapp-bin](https://github.com/ethereum/dapp-bin) - Ethereum repo providing implementations for many common data structures and utilities in Solidity, Serpent and LLL.
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
 
-#### Popular Smart Contract Libraries
+#### کتابخانه های محبوب قرارداد های هوشمند
 
 - [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
 - [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
@@ -767,7 +768,7 @@
 - [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
 - [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
 
-#### Patterns for Smart Contracts
+#### الگوهای قرارداد های هوشمند
 
 - [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
 - [MakerDAO](https://github.com/makerdao/maker-otc)
@@ -783,14 +784,14 @@
 - [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
   
 
-#### Upgradeability
+#### قابلیت ارتقاء
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
 - [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
 - [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 - [OpenZeppelin on Proxy Libraries](https://blog.openzeppelin.com/proxy-libraries-in-solidity-79fbe4b970fd/)
 
 
-#### Developer Tools 
+#### ابزارهای توسعه دهنده
 
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
@@ -811,7 +812,7 @@
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
-#### Frontend Ethereum APIs
+#### APIs فرونت اند اتریوم
 
 
 - [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
@@ -845,7 +846,7 @@
 - [Jolly Roger](https://jolly-roger.eth.link/) - dApp framework using ethereum, buidler, svelte and thegraph
 - [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
 
-#### Backend Ethereum APIs
+#### APIs بک اند اتریوم
 
 - [Web3.py](https://github.com/ethereum/web3.py) - Python Web3
 - [Web3.php](https://github.com/sc0Vu/web3.php) - PHP Web3
@@ -866,7 +867,7 @@
 - [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
 - [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
 
-#### Ethereum Clients
+#### کلاینت های اتریوم (مشتری)
 
 - [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 - [Geth](https://geth.ethereum.org/docs/) - Go client
@@ -889,7 +890,7 @@
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 
 
-#### Storage
+#### ذخیره سازی
 
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
 - [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
@@ -903,7 +904,7 @@
 - [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
 - [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
 
-#### Bootstrap/Out-of-Box tools
+#### ابزارهای Bootstarp/Out-of-Box
 
 - [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
 - [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
@@ -923,7 +924,7 @@
 - [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches. 
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 
-#### Ethereum ABI (Application Binary Interface) tools
+#### اتریوم ABI (رابط کاربری برنامه ها)
 
 - [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
 - [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
@@ -936,7 +937,7 @@
 - [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
 
 
-# Testing Tools
+# ابزارهای تست:
 
 - [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 - [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
@@ -961,9 +962,9 @@
 - [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 
 
-#### Transaction Visualization, Scoring & Tracking:
+#### مشاهده تراکنش ها، امتیازدهی و ردیابی تراکنش ها:
 
-| Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
+| میتونید از این قسمت که البته فیلتره متودولوژی یا همان روش کار این داداشمون رو مشاهده کنید [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
 
 - [BlockPath](http://blockpath.com) 
 - [Maltego](http://maltego.com) 
@@ -995,11 +996,11 @@
 - [ETH Detective](https://www.ethtective.com/)
 
 
-## Support Project:
+## از این پروژه حمایت کنید:
 
-Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
+**اگر با این مطلب حال کردید از من حمایت کنید تا انرژی و انگیزه برای ادامه این راه داشته باشم ** :sparkling_heart:
 
-If you want to support my work, you can send me a donation to the address:
+اگر دوست داشتید میتونید از من حمایت کنید این پایین هم کیف پول های من است 
 
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
@@ -1009,4 +1010,3 @@ If you want to support my work, you can send me a donation to the address:
 
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
-
