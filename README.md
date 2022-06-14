@@ -939,7 +939,6 @@
 
 # Testing Tools
 
-- [Truffle Teams](https://trufflesuite.com/teams) - Zero-Config continuous integration for truffle projects
 - [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
 - [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
 - [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
