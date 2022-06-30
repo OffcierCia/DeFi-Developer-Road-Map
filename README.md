@@ -214,6 +214,10 @@
 - [Ganache](https://truffleframework.com/ganache)
 - [Drizzle](https://truffleframework.com/drizzle)
 
+#### Akula
+
+- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") written in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
+
 
 #### ZeppelinOS
 
