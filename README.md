@@ -1006,6 +1006,17 @@ If you want to support my work, you can send me a donation to the address:
 
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
 
+- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
+
+- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
+
+- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
+
+- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
+
+- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
+
+
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 ##
