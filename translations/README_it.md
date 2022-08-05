@@ -21,7 +21,7 @@
 
 ## Roadmap
 
-![Roadmap](./DeFiRoadMapNewSVG.svg)
+![Roadmap](../DeFiRoadMapNewSVG.svg)
 
 # Navigazione
 
