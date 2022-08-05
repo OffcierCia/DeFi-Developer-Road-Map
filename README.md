@@ -60,6 +60,19 @@
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 - [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
+#
+
+<details>
+<summary>Translations</summary>
+<br />
+
+- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
+- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
+- [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
+- [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
+
+</details>
+
 # Basics:
 
 - Learn the basics of Distributed Ledger Technology (DLT)
