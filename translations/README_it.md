@@ -307,7 +307,7 @@
 
 # Front End
 
-#### UI Components
+#### Componenti UI
 
 - Impara React su [sito ufficiale](https://reactjs.org/tutorial/tutorial.html) oppure corso completo su [corso](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
@@ -331,7 +331,7 @@
 
 # Altro
 
-#### Inspired by:
+#### Inspirato da:
 
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools)
@@ -840,93 +840,94 @@
 
 #### Clients Ethereum
 
-- [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
+- [Besu](https://besu.hyperledger.org/en/latest/) -un client Ethereum open source sviluppato con licenza Apache 2.0 e scritto in Java. Il progetto è ospitato da Hyperledger.
 - [Geth](https://geth.ethereum.org/docs/) - Go client
-- [Erigon](https://github.com/ledgerwatch/erigon) - a mostly Go implementation of Ethereum client built on the efficiency frontier
-- [Akula](https://github.com/akula-bft/akula) - Rust implementation
+- [Erigon](https://github.com/ledgerwatch/erigon) - un'implementazione principalmente Go del client Ethereum costruita sulla per l'efficienza
+- [Akula](https://github.com/akula-bft/akula) - Implementazione Rust
 - [Nethermind](https://github.com/NethermindEth/nethermind) - .NET Core client
-- [Infura](https://infura.io/) - A managed service providing Ethereum client standards-compliant APIs
-- [Trinity](https://trinity.ethereum.org/) - Python client using [py-evm](https://github.com/ethereum/py-evm)
-- [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client using [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
-- [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth is an Ethereum client tool—like a "MetaMask for the command line"
-- [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy by [JP Morgan](https://jpmorgan.com/quorum)
-- [Awesome Quorum](https://github.com/ConsenSys/awesome-quorum) - A curated list of awesome softwares, libraries, tools and more to build on ConsenSys Quorum.
-- [Chainstack](https://chainstack.com/) - A managed service providing shared and dedicated Geth nodes
-- [QuikNode](https://quiknode.io/) - Blockchain developer cloud with API access and node-as-a-service.
-- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+- [Infura](https://infura.io/) - Un servizio gestito che fornisce API conformi agli standard dei client Ethereum
+- [Trinity](https://trinity.ethereum.org/) - Python client che utilizza [py-evm](https://github.com/ethereum/py-evm)
+- [Ethereumjs](https://github.com/ethereumjs/ethereumjs-client) - JS client che utilizza [ethereumjs-vm](https://github.com/ethereumjs/ethereumjs-vm)
+- [Seth](https://github.com/dapphub/dapptools/tree/master/src/seth) - Seth è uno strumento client di Ethereum, come una "MetaMask per la riga di comando"
+- [Quorum](https://github.com/jpmorganchase/quorum) - Un'implementazione autorizzata di Ethereum che supporta la privacy dei dati di [JP Morgan](https://jpmorgan.com/quorum)
+- [Awesome Quorum](https://github.com/ConsenSys/awesome-quorum) -Un elenco curato di fantastici software, librerie, strumenti e altro da costruire su ConsenSys Quorum.
+- [Chainstack](https://chainstack.com/) - Un servizio gestito che fornisce nodi Geth condivisi e dedicati
+- [QuikNode](https://quiknode.io/) -Cloud per sviluppatori blockchain con accesso API e node-as-a-service.
+- [Watchdata](https://watchdata.io) - Fornisci un accesso API semplice e affidabile alla blockchain di Ethereum
 
 #### Storage
 
-- [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
-- [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
-- [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
-- [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - A client library for the IPFS HTTP API, implemented in JavaScript
-- [TEMPORAL](https://github.com/RTradeLtd/Temporal) - Easy to use API into IPFS and other distributed/decentralised storage protocols
-- [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
-- [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
-- [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
-- [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
-- [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
-- [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
+- [IPFS](https://ipfs.io/) - Archiviazione decentralizzata e riferimento ai file
+- [Mahuta](https://github.com/ConsenSys/Mahuta) - Servizio di archiviazione IPFS con funzionalità di ricerca aggiuntiva, precedentemente IPFS-Store
+- [OrbitDB](https://github.com/orbitdb/orbit-db) - Database decentralizzato su IPFS
+- [JS IPFS API](https://github.com/ipfs/js-ipfs-http-client) - Una libreria client per l'API HTTP IPFS, implementata in JavaScript
+- [TEMPORAL](https://github.com/RTradeLtd/Temporal) - API facile da usare in IPFS e altri protocolli di archiviazione distribuiti/decentralizzati
+- [PINATA](https://pinata.cloud) - Il modo più semplice per utilizzare IPFS
+- [Swarm](https://swarm-gateways.net/) - Piattaforma di archiviazione distribuita e servizio di distribuzione dei contenuti, un servizio di livello base nativo dello stack web3 di Ethereum
+- [Infura](https://infura.io/) - Un gateway API IPFS gestito e un servizio di blocco
+- [3Box Storage](https://docs.3box.io/api/storage) - Un'API per l'archiviazione distribuita controllata dall'utente. Costruito su IPFS e Orbitdb.
+- [Aleph.im](https://aleph.im/) - un progetto cloud peer-to-peer incentivato offchain (database, archiviazione file, elaborazione e DID) compatibile con ETH e IPFS.
+- [Fleek](https://fleek.co/) - simile a netlify ma utilizza ipfs per l'hosting di siti Web.
 
-#### Bootstrap/Out-of-Box tools
+#### Bootstrap/ Strumenti Out-of-Box
 
-- [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
-- [Create Eth App](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered frontend apps with one command
-- [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
-- [Testchains](https://github.com/Nethereum/TestChains) - Pre-configured .NET devchains for fast response (PoA)
-- [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
-- [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
-- [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
-- [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
-- [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
-- [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
-- [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
-- [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI is used to create and develop Aragon apps and organizations.
-- [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
-- [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
-- [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
-- [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
-- [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
+- [Truffle boxes](https://trufflesuite.com/boxes) - Componenti in pacchetto per l'ecosistema Ethereum
+- [Create Eth App](https://github.com/paulrberg/create-eth-app) - Crea app frontend basate su Ethereum con un comando
+- [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Esegui una rete privata di nodi Besu in un container Docker
+- [Testchains](https://github.com/Nethereum/TestChains) - Devchain .NET preconfigurati per una risposta rapida(PoA)
+- [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (campione funzionale)
+- [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Esegui una rete Raiden locale in contenitori Docker a scopo dimostrativo e di test
+- [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Script di distribuzione pronti all'uso per reti PoA private
+- [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Esercitazione dettagliata per la creazione di una catena di test PoA con 2 nodi con consenso rotondo di parity authority
+- [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Script di distribuzione pronti all'uso per reti PoW private
+- [Kaleido](https://kaleido.io/) - Usa Kaleido per creare una rete blockchain di consorzi. Ottimo per PoC e test
+- [Cheshire](https://github.com/endless-nameless-inc/cheshire) - Un'implementazione sandbox locale dell'API CryptoKitties e dei contratti intelligenti, disponibile come Truffle Box
+- [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI viene utilizzato per creare e sviluppare app e organizzazioni Aragon.
+- [ColonyJS](https://github.com/JoinColony/colonyJS) - Client JavaScript che fornisce un'API per interagire con gli smart contract di Colony Network.
+- [ArcJS](https://github.com/daostack/arc.js) - Libreria che facilita l'accesso dell'applicazione javascript agli smart contract DAOstack Arc ethereum.
+- [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - Client JavaScript che fornisce un'API per interagire con Arkane Network, un provider di portafogli per la creazione di dapp user-friendly.
+- [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard è il modo semplice e veloce per aggiungere il supporto multi-wallet al tuo progetto. Con moduli integrati per oltre 20 esclusivi portafogli hardware e software, Onboard ti fa risparmiare tempo e mal di testa.
+- [web3-react](https://github.com/NoahZinsmeister/web3-react) - Framework React per la creazione di dApp Ethereum single-page
 
-#### Ethereum ABI (Application Binary Interface) tools
+#### Strumenti per Ethereum ABI (Application Binary Interface)
 
-- [ABI decoder](https://github.com/ConsenSys/abi-decoder) - library for decoding data params and events from Ethereum transactions
-- [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Generate Typescript contract wrappers from contract ABI's.
-- [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Auto-generate UI form field definitions and associated validators from an Ethereum contract ABI
-- [headlong](https://github.com/esaulpaugh/headlong/) - type-safe Contract ABI and Recursive Length Prefix library in Java
-- [EasyDapper](https://www.easydapper.com) - Generate dapps from Truffle artifacts, deploy contracts on public/private networks, offers live customizable public page to interact with contracts.
-- [One Click dApp](https://oneclickdapp.com) - Instantly create a dApp at a unique URL using the ABI.
-- [Truffle Pig](https://npmjs.com/package/trufflepig) - a development tool that provides a simple HTTP API to find and read from Truffle-generated contract files, for use during local development. Serves fresh contract ABIs over http.
-- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
-- [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - A web based generator which creates a Nethereum based C# Interface and Service based on Solidity Smart Contracts.
+- [ABI decoder](https://github.com/ConsenSys/abi-decoder) - libreria per la decodifica di parametri di dati ed eventi dalle transazioni di Ethereum
+- [ABI-gen](https://github.com/0xProject/0x-monorepo/tree/development/packages/abi-gen) - Genera wrapper di contratto Typescript dagli ABI del contratto.
+- [Ethereum ABI UI](https://github.com/hiddentao/ethereum-abi-ui) - Genera automaticamente le definizioni dei campi dei moduli dell'interfaccia utente e i validatori associati da un'ABI di un contratto Ethereum
+- [headlong](https://github.com/esaulpaugh/headlong/) -
+  Type-safe Contract ABI e libreria Recursive Length Prefix in Java
+- [EasyDapper](https://www.easydapper.com) - Genera dapps da Truffle artifacts, distribuisce reti pubbliche/private, offre una pagina pubblica personalizzabile dal vivo per interagire con i smart contracts.
+- [One Click dApp](https://oneclickdapp.com) - Crea istantaneamente una dApp a un URL univoco utilizzando l'ABI.
+- [Truffle Pig](https://npmjs.com/package/trufflepig) - uno strumento di sviluppo che fornisce una semplice API HTTP per trovare e leggere dai file di contratto generati da Truffle, da utilizzare durante lo sviluppo locale. Offre nuovi ABI a contratto su http.
+- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - Un servizio MESG per interagire con qualsiasi contratto Ethereum in base all'ABI e al suo indirizzo.
+- [Nethereum-CodeGenerator](https://github.com/StefH/Nethereum-CodeGenerator) - Un generatore basato sul Web che crea un'interfaccia C# basata su Nethereum e un servizio basato su Solidity Smart Contracts.
 
-# Testing Tools
+# Strumenti di test
 
-- [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Solidity code coverage tool
-- [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Alternative code coverage for Solidity smart-contracts
-- [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Solidity contract function profiler
-- [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - Alternative and updated Solidity smart contract profiler
-- [Espresso](https://github.com/hillstreetlabs/espresso) - Speedy, parallelised, hot-reloading solidity test framework
-- [Eth tester](https://github.com/ethereum/eth-tester) - Tool suite for testing Ethereum applications
-- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
-- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - The hevm project is an implementation of the Ethereum virtual machine (EVM) made specifically for unit testing and debugging smart contracts
-- [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity graphical debugger
-- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Speed up your development with human readable stack traces
-- [Solhint](https://github.com/protofire/solhint) - Solidity linter that provides security, style guide and best practice rules for smart contract validation
-- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter to identify and fix style & security issues in Solidity, formerly Solium
-- [Decode](https://github.com/hacker-DOM/decode) - npm package which parses tx's submitted to a local testrpc node to make them more readable and easier to understand
-- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - An npm package with additional assertions and utilities used in testing Solidity smart contracts with truffle. Most importantly, it adds the ability to assert whether specific events have (not) been emitted.
-- [Psol](https://github.com/Lamarkaz/psol) - Solidity lexical preprocessor with mustache.js-style syntax, macros, conditional compilation and automatic remote dependency inclusion.
-- [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor and flattener with a comprehensive directive and expression language, high precision math, and many useful helper functions.
-- [Decode and Publish](https://flightwallet.github.io/decode-eth-tx/) – Decode and publish raw ethereum tx. Similar to https://live.blockcypher.com/btc-testnet/decodetx/
-- [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
-- [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
-- [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
+- [Solidity code coverage](https://github.com/0xProject/0x-monorepo/tree/development/packages/sol-coverage) - Strumenti di Code coverage per Solidity
+- [Solidity coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage alternativo per gli smart-contratti Solidity
+- [Solidity function profiler](https://github.com/EricR/sol-function-profiler) - Profiler di funzioni per smart contract scritti con Solidity
+- [Sol-profiler](https://github.com/Aniket-Engg/sol-profiler) - Profiler smart contract Solidity alternativo e aggiornato
+- [Espresso](https://github.com/hillstreetlabs/espresso) - Framework di test per Solidity veloce, parallelizzato e con ricarica a caldo
+- [Eth tester](https://github.com/ethereum/eth-tester) - Suite di strumenti per testare le applicazioni Ethereum
+- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Semplifica l'integrazione e l'accettazione dei test di applicazioni smart contract con istanze docker che simmulano una vera rete blockchain
+- [Hevm](https://github.com/dapphub/dapptools/tree/master/src/hevm) - Il progetto hevm è un'implementazione della macchina virtuale (EVM) di Ethereum realizzata appositamente per il test di unità e il debug di smart contract
+- [Ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger) - Solidity debugger grafico
+- [Tenderly CLI](https://github.com/Tenderly/tenderly-cli) - Accelera il tuo sviluppo con stack trace in formato human readable
+- [Solhint](https://github.com/protofire/solhint) - Solidity linter che fornisce sicurezza, guida di stile e regole di best practice per la convalida degli smart contract
+- [Ethlint](https://github.com/duaraghav8/Ethlint) - Linter per identificare e risolvere problemi di stile e sicurezza in Solidity, precedentemente Solium
+- [Decode](https://github.com/hacker-DOM/decode) - pacchetto npm che analizza le tx inviate a un nodo testrpc locale per renderle più leggibili e più facili da capire
+- [truffle-assertions](https://github.com/rkalis/truffle-assertions) - Un pacchetto npm con asserzioni e utilità aggiuntive utilizzate per testare i contratti intelligenti Solidity con Truffle. Aggiunge la capacità di affermare se eventi specifici (non) sono stati emessi.
+- [Psol](https://github.com/Lamarkaz/psol) - Preprocessore lessicale per Solidity con sintassi in stile mustache,js, macro, compilazione condizionale e inclusione automatica delle dipendenze remote.
+- [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor e flattener con una direttiva completa e un linguaggio di espressione, matematica ad alta precisione e molte funzioni utili di supporto.
+- [Decode and Publish](https://flightwallet.github.io/decode-eth-tx/) – Decodifica e pubblica raw ethereum tx. Simile a https://live.blockcypher.com/btc-testnet/decodetx/
+- [Doppelgänger](https://getdoppelganger.io/) - una libreria per il mocking delle dipendenze degli smart contract durante gli unit test.
+- [rocketh](https://github.com/wighawag/rocketh) - Una semplice lib per testare lo smart contract ethereum che consente di utilizzare qualsiasi lib web3 e test runner di tua scelta.
+- [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - Plugin PyTest per testare smart contract su blockchain di Ethereum.
 
-#### Transaction Visualization, Scoring & Tracking:
+#### Visualizzazione Transazioni, Punteggio & Tracciamento:
 
-| Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
+| Scopri la metodologia dell'autore, leggi attentamente tutte le parti [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
 
 - [BlockPath](http://blockpath.com)
 - [Maltego](http://maltego.com)
@@ -957,11 +958,11 @@
 - [Dune](https://dune.xyz/)
 - [ETH Detective](https://www.ethtective.com/)
 
-## Support Project:
+## Supporta il progetto:
 
-Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
+Supportare il progetto è **davvero** importante per me, con le donazioni posso spendere meno tempo a lavoro e fare ciò che più mi piace: educare gli utenti riguardo le tematiche DeFi e Crypto :sparkling_heart:
 
-If you want to support my work, you can send me a donation to the address:
+Se vuoi supportare il mio lavoro, puoi inviare una donazione al mio indirizzo:
 
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
@@ -979,7 +980,7 @@ If you want to support my work, you can send me a donation to the address:
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+[![Supportato da GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 ##
 
