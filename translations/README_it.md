@@ -29,23 +29,23 @@
 
 |      Topic      | Instant Link                                                                                                              |
 | :-------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Basi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
-|      dApps      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
-|   Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
-|    zk-snarks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
-| Approfondimenti | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|    Sicurezza    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|      DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-|       ENS       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-|       NFT       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|  Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|    Generali     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|   Side Chains   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-|       MEV       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-|      Tools      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|     ETH 2.0     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|    Front End    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-| Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+|      Basi       | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
+|      dApps      | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps)                                                    |
+|   Frameworks    | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
+|    zk-snarks    | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
+| Approfondimenti | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
+|    Sicurezza    | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
+|      DeFi       | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
+|       ENS       | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
+|       NFT       | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
+|  Stable Coins   | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
+|    Generali     | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
+|   Side Chains   | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
+|       MEV       | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
+|      Tools      | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
+|     ETH 2.0     | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
+|    Front End    | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
+| Project Manag.  | [Esplora](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
 **| Note speciali dell'Autore:**
 
@@ -734,14 +734,14 @@
 
 - [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - Un gruppo di pacchetti creati per l'uso su blockchain che utilizzano la macchina virtuale di Ethereum
 - [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - Libreria datetime gas-efficient per Solidity
-- [Aragon](https://github.com/aragon/aragon) - DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
-- [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
-- [0x](https://github.com/0xProject) - DEX protocol
-- [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
-- [Provable API](https://github.com/provable-things/ethereum-api) - Provides contracts for using the Provable service, allowing for off-chain actions, data-fetching, and computation
-- [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) and IEEE-754 compliant quad precision (128 bit) floating-point math libraries for Solidity
+- [Aragon](https://github.com/aragon/aragon) - Protocollo Dao. Contiene [aragonOS smart contract framework](https://github.com/aragon/aragonOS) con particolare attenzione all'aggiornabilità e alla governance
+- [ARC](https://github.com/daostack/arc) - Un sistema operativo per DAO e base dello stack DAO.
+- [0x](https://github.com/0xProject) - Protocollo DEX
+- [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contiene prove di correttezza dei contratti token wrt. Con specifiche e proprietà di alto livello
+- [Provable API](https://github.com/provable-things/ethereum-api) - Fornisce contratti per l'utilizzo del servizio Provable, consentendo azioni fuori catena, recupero dati e calcolo
+- [ABDK Libraries for Solidity](https://github.com/abdk-consulting/abdk-libraries-solidity) - Fixed-point (64.64 bit) e IEEE-754 librerie matematiche a virgola mobile quad precision (128 bit) conformi per Solidity
 
-#### Patterns for Smart Contracts
+#### Patterns per Smart Contracts
 
 - [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
 - [MakerDAO](https://github.com/makerdao/maker-otc)
@@ -756,66 +756,66 @@
 - [aragonOS: A smart contract framework for building DAOs, Dapps and protocols](https://hack.aragon.org/docs/aragonos-intro.html)
 - [Checks Effects Interactions Pattern](https://fravoll.github.io/solidity-patterns/checks_effects_interactions.html)
 
-#### Upgradeability
+#### Aggiornabilità
 
 - [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
 - [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
 - [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
 - [OpenZeppelin on Proxy Libraries](https://blog.openzeppelin.com/proxy-libraries-in-solidity-79fbe4b970fd/)
 
-#### Developer Tools
+#### Strumenti per sviluppatore
 
-- [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
-- [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
-- [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
-- [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
-- [Securify](https://securify.chainsecurity.com/) - Security scanner for Ethereum smart contracts
-- [SmartCheck](https://tool.smartdec.net/) - Static smart contract security analyzer
+- [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - Lista di controlli comuni e problemi a cui prestare attenzione in fase di audit di un contratto per il lancio di una mainnet.
+- [MythX](https://mythx.io/) - Piattaforma di verifica della sicurezza e ecosistema di strumenti per gli sviluppatori di Ethereum
+- [Mythril](https://github.com/ConsenSys/mythril) - Strumento di analisi della sicurezza del bytecode EVM open source
+- [Oyente](https://github.com/melonproject/oyente) - Analisi della sicurezza dello smart contract statico alternativo
+- [Securify](https://securify.chainsecurity.com/) - Scanner di sicurezza per gli smart contract di Ethereum
+- [SmartCheck](https://tool.smartdec.net/) - Analizzatore di sicurezza statico per smart contract
 - [Ethersplay](https://github.com/crytic/ethersplay) - EVM disassembler
-- [Evmdis](https://github.com/Arachnid/evmdis) - Alternative EVM disassembler
-- [Hydra](https://github.com/IC3Hydra/Hydra) - Framework for cryptoeconomic contract security, decentralised security bounties
-- [Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis
-- [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
-- [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
-- [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
-- [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
-- [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
-- [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
-- [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
-- [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+- [Evmdis](https://github.com/Arachnid/evmdis) - EVM disassembler alternativo
+- [Hydra](https://github.com/IC3Hydra/Hydra) - Framework per la sicurezza dei contratti cryptoeconomic e ricompense di sicurezza decentralizzate
+- [Solgraph](https://github.com/raineorshine/solgraph) - Visualizza il flusso di controllo per analizzare la sicurezza dello smart contract scritto in Solidity.
+- [Manticore](https://github.com/trailofbits/manticore) -Strumento di esecuzione simbolico su Smart Contract e Binari
+- [Slither](https://github.com/crytic/slither) - Un framework di analisi statica per Solidity
+- [Adelaide](https://github.com/sec-bit/adelaide) - L'estensione dell'analisi statica SECBIT per il compilatore di Solidity.
+- [solc-verify](https://github.com/SRI-CSL/solidity/) - Un verificatore modulare per smart contracts scritti in Solidity
+- [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Elenco completo di vettori di attacco noti e anti-pattern comuni
+- [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Una raccolta di vulnerabilità degli smart contract ERC20 con token interessati
+- [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Audit di sicurezza degli smart contract gratuiti da Callisto Network
+- [Piet](https://piet.slock.it) - Un analizzatore visivo dell'architettura Solidity
 
 #### Frontend Ethereum APIs
 
 - [Web3.js](https://github.com/ethereum/web3.js/) - Javascript Web3
-- [Eth.js](https://github.com/ethjs) - Javascript Web3 alternative
-- [Ethers.js](https://github.com/ethers-io/ethers.js/) - Javascript Web3 alternative, useful utilities and wallet features
-- [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
-- [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
-- [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-- [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections.
-- [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
-- [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
-- [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
-- [Nethereum](https://github.com/Nethereum/) - Cross-platform Ethereum development framework
-- [dfuse](https://github.com/dfuse-io/client-js) - A TypeScript library to use [dfuse Ethereum API](https://dfuse.io)
-- [Drizzle](https://github.com/truffle-box/drizzle-box) - Redux library to connect a frontend to a blockchain
-- [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
-- [useMetamask](https://github.com/mdtanrikulu/use-metamask) - a custom React Hook to manage Metamask in Ethereum ĐApp projects
-- [WalletConnect](https://walletconnect.org/) - Open protocol for connecting Wallets to Dapps
-- [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
-- [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
-- Strictly Typed - Javascript alternatives
+- [Eth.js](https://github.com/ethjs) - Alternativa a Javascript Web3
+- [Ethers.js](https://github.com/ethers-io/ethers.js/) - Alternativa a Javascript Web3 , utilities e features per i wallet.
+- [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) Una libreria JS reattiva di alto livello ottimizzata per client leggeri.
+- [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Alternativa Typescript Web3
+- [Ethereumjs](https://github.com/ethereumjs/) - Una raccolta di funzioni di utilità per Ethereum come [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) e [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
+- [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Wrapper Javascript Web3 con tentativi automatici, accesso a [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), e solide connessioni WebSocket.
+- [flex-contract](https://github.com/merklejerk/flex-contract) e [flex-ether](https://github.com/merklejerk/flex-ether) - Librerie moderne, a configurazione zero e di alto livello per interagire con smart contract ed effettuare transazioni.
+- [ez-ens](https://github.com/merklejerk/ez-ens) - Risolutore di indirizzi Ethereum Name Service semplice e senza configurazione.
+- [web3x](https://github.com/xf00f/web3x) - Una porta TypeScript di web3.js. I vantaggi includono build leggere e sicurezza completa, anche durante l'interazione con i contratti.
+- [Nethereum](https://github.com/Nethereum/) - Framework di sviluppo Ethereum multipiattaforma
+- [dfuse](https://github.com/dfuse-io/client-js) - Libreria TypeScript per utilizzare [dfuse Ethereum API](https://dfuse.io)
+- [Drizzle](https://github.com/truffle-box/drizzle-box) - Libreria Redux per connettere il frontend ad una blockchain.
+- [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - Un SDK JavaScript per creare dapp Ethereum mobili nativi utilizzando React Native
+- [useMetamask](https://github.com/mdtanrikulu/use-metamask) - un React Hook personalizzato per gestire Metamask nei progetti Ethereum ĐApp
+- [WalletConnect](https://walletconnect.org/) - Protocollo aperto per la connessione di Wallet a Dapps
+- [Subproviders](https://0x.org/docs/tools/subproviders) -Diversi servizi utili da utilizzare insieme a [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (iincluso un LedgerSubprovider per aggiungere il supporto del portafoglio hardware Ledger alla tua dApp)
+- [ethvtx](https://github.com/ticket721/ethvtx) - configurazione del redux store pronta per ethereum e indipendente dal framework. [docs](https://ticket721.github.io/ethvtx/)
+- Rigorosamente tipizzato: alternative a Javascript
 - [elm-ethereum](https://github.com/cmditch/elm-ethereum)
 - [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
-- [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Communicate with different blockchains (including Ethereum) using a single interface.
-- [Delphereum](https://github.com/svanas/delphereum) - a Delphi interface to the Ethereum blockchain that allows for development of native dApps for Windows, macOS, iOS, and Android.
-- [Torus](https://tor.us/) - Open-sourced SDK to build dapps with a seamless onboarding UX
-- [Fortmatic](https://fortmatic.com/) - A simple to use SDK to build web3 dApps without extensions or downloads.
-- [Portis](https://portis.io/) - A non-custodial wallet with an SDK that enables easy interaction with DApps without installing anything.
-- [create-eth-app](https://github.com/paulrberg/create-eth-app) - Create Ethereum-powered front-end apps with one command.
-- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts.
-- [Jolly Roger](https://jolly-roger.eth.link/) - dApp framework using ethereum, buidler, svelte and thegraph
-- [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
+- [ChainAbstractionLayer](https://github.com/liquality/chainabstractionlayer) - Comunica con diverse blockchain (incluso Ethereum) utilizzando un'unica interfaccia.
+- [Delphereum](https://github.com/svanas/delphereum) - un'interfaccia Delphi alla blockchain di Ethereum che consente lo sviluppo di dApp native per Windows, macOS, iOS e Android.
+- [Torus](https://tor.us/) - SDK open source per creare dapp con un'esperienza utente integrata senza interruzioni
+- [Fortmatic](https://fortmatic.com/) - Un SDK semplice da usare per creare dApp web3 senza estensioni o download.
+- [Portis](https://portis.io/) - Un portafoglio non di custodia con un SDK che consente una facile interazione con le DApp senza installare nulla.
+- [create-eth-app](https://github.com/paulrberg/create-eth-app) - Crea app front-end basate su Ethereum con un comando.
+- [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Github forkable facile per iniziare subito a creare contratti intelligenti.
+- [Jolly Roger](https://jolly-roger.eth.link/) -Framework dApp che utilizza ethereum, buidler, svelte e thegraph
+- [Notify.js](https://blocknative.com/notify) - Invia notifiche in tempo reale ai tuoi utenti. Con il supporto integrato per accelerazioni e annullamenti, Blocknative Notify.js aiuta gli utenti a effettuare transazioni con sicurezza. Notify.js è facile da integrare e veloce da personalizzare.
 
 #### Backend Ethereum APIs
 
@@ -829,16 +829,16 @@
 - [ethers-rs](https://github.com/gakonst/ethers-rs/) - Ethers-rs
 - [Web3.hs](https://hackage.haskell.org/package/web3) - Haskell Web3
 - [KEthereum](https://github.com/komputing/KEthereum) - Kotlin Web3
-- [Eventeum](https://github.com/ConsenSys/eventeum) - A bridge between Ethereum smart contract events and backend microservices, written in Java by Kauri
-- [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain
-- [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) - A gateway that allows you to run multiple Ethereum nodes for redundancy and load-balancing purposes. Can be ran as an alternative to (or on top of) Infura. Written in Golang.
-- [EthContract](https://github.com/AgileAlpha/eth_contract) - A set of helper methods to help query ETH smart contracts in Elixir
-- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - A MESG Service to interact with any Ethereum contract based on its address and ABI.
-- [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
-- [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
-- [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
+- [Eventeum](https://github.com/ConsenSys/eventeum) - Un ponte tra gli eventi degli smart contract di Ethereum e i microservizi di backend, scritto in Java da Kauri
+- [Ethereumex](https://github.com/mana-ethereum/ethereumex) - Client Elixir JSON-RPC per la blockchain di Ethereum
+- [Ethereum-jsonrpc-gateway](https://github.com/HydroProtocol/ethereum-jsonrpc-gateway) -Un gateway che ti consente di eseguire più nodi Ethereum per scopi di ridondanza e bilanciamento del carico. Può essere eseguito in alternativa a (o sopra) Infura. Scritto in Golang.
+- [EthContract](https://github.com/AgileAlpha/eth_contract) - Una serie di metodi di supporto per aiutare a interrogare i contratti intelligenti ETH in Elixir
+- [Ethereum Contract Service](https://github.com/mesg-foundation/service-ethereum-contract) - Un servizio MESG per interagire con qualsiasi contratto Ethereum in base al suo indirizzo e ABI.
+- [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - Un servizio MESG per interagire con gli eventi di Ethereum e interagire con esso.
+- [Marmo](https://marmo.io/) - Python, JS e Java SDK per semplificare le interazioni con Ethereum. Utilizza i relayer per scaricare i costi di transazione sui relayer.
+- [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - Fornisce funzionalità di registrazione avanzate per applicazioni e reti Ethereum, tra cui un linguaggio di query, un elaboratore di query e la generazione di codice di registrazione
 
-#### Ethereum Clients
+#### Clients Ethereum
 
 - [Besu](https://besu.hyperledger.org/en/latest/) - an open-source Ethereum client developed under the Apache 2.0 license and written in Java. The project is hosted by Hyperledger.
 - [Geth](https://geth.ethereum.org/docs/) - Go client
