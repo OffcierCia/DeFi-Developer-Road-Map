@@ -72,21 +72,21 @@
 
 #### Ethereum
 
-- Impara le basi di Etherium
+- Impara le basi di Ethereum
 - Ethereum Virtual Machine (EVM): turing completo
 - Come funzionano i Wallet, Accounts (EOA), chiavi pubbliche e private
 - Come funzionano le transazioni, il Gas e Metamask
-- Etherium client, nodi e Geth
+- Ethereum client, nodi e Geth
 - Infrastruttura Infura
 
 #### Smart Contract
 
 - Le basi di uno Smart Contract
 - Ciclo di vita di uno Smart Contract
-- Linguaggi di programmazione di alto livello per Etherium (**Solidity**, Vyper, LLL, Serpent)
+- Linguaggi di programmazione di alto livello per Ethereum (**Solidity**, Vyper, LLL, Serpent)
 - Compila, testa e rilascia Smart Contracts
 - Interagisci con gli Smart Contracts utilizzando web3.js o web3.py
-- Leggi [Ma quindi come funziona Etherium?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
+- Leggi [Ma quindi come funziona Ethereum?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
 - Leggi [Questo articolo](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Leggi la [Documentazione di Truffle](https://truffleframework.com/docs/) / [Documentaizone Hardhat](https://hardhat.org/getting-started/)
 - Leggi la [Documentazione Web3](https://web3js.readthedocs.io/en/1.0/) / [Documentazione Ethers](https://docs.ethers.io/v5/)
@@ -120,7 +120,7 @@
 - Conoscere protocollo HTTP(S) e metodi di richieste (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - Non aver paura di usare Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
 - Utilizza il terminale ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configura la tua shell (bash, zsh, fish)
-- Leggi un paio di libri su algoritmi e strutture dati, blockchain, etherium e solidity.
+- Leggi un paio di libri su algoritmi e strutture dati, blockchain, Ethereum e solidity.
 - Segui questo corso [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 - FTutorial gratuiti [Learning Solidity](https://github.com/willitscale/learning-solidity)
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) e [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
@@ -166,14 +166,14 @@
 
 #### Pratica
 
-- Impara a sviluppare su Etherium creando un [Gioco sugli Zombie](https://cryptozombies.io/)
+- Impara a sviluppare su Ethereum creando un [Gioco sugli Zombie](https://cryptozombies.io/)
 - Leggi e crea un esempio: [Negozio di animali tutorial](https://www.trufflesuite.com/tutorial)
 - [Time-locked Wallets: Un'introduzione agli Ethermium Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 - [ENS & ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 - [Introduzione sullo sviluppo di Ethereum Ðapp](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
-- [Ethernaut](https://ethernaut.zeppelin.solutions/) è un gioco basato su Web3/Solidity per chi vuole imparare Etherium
+- [Ethernaut](https://ethernaut.zeppelin.solutions/) è un gioco basato su Web3/Solidity per chi vuole imparare Ethereum
 - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - Questo documento offre una base di conoscenza delle considerazioni relative alla sicurezza di chi sviluppa con Solidity. E' mantenuta da ConsenSys Diligence e dalla community di Etherium.
+- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - Questo documento offre una base di conoscenza delle considerazioni relative alla sicurezza di chi sviluppa con Solidity. E' mantenuta da ConsenSys Diligence e dalla community di Ethereum.
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - Lista di patterns e best practice.
 - [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - Lista dei peggiori patters.
 - [ETH.build](https://eth.build/) Sandbox per imparare come funziona il Web3
@@ -206,7 +206,7 @@
 
 #### Akula
 
-- [Akula](https://github.com/akula-bft/akula) - Una implementazione del protocollo Etherium ("client") scritto in Rust, basato sull'architettura di [Erigon](https://github.com/ledgerwatch/interfaces).
+- [Akula](https://github.com/akula-bft/akula) - Una implementazione del protocollo Ethereum ("client") scritto in Rust, basato sull'architettura di [Erigon](https://github.com/ledgerwatch/interfaces).
 
 #### ZeppelinOS
 
@@ -235,8 +235,8 @@
 #### Altri Frameworks
 
 - [Lista Frameworks](https://ethereum.org/en/developers/docs/frameworks/) - Lista di Frameworks Ethereum.
-- [Hardhat](https://hardhat.org/) - Ambiente di sviluppo Etherium flessibile, estensibile e veloce.
-- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie è un framework Python per il rilascio, i test e l'interazione con gli smart contract di Etherium.
+- [Hardhat](https://hardhat.org/) - Ambiente di sviluppo Ethereum flessibile, estensibile e veloce.
+- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie è un framework Python per il rilascio, i test e l'interazione con gli smart contract di Ethereum.
 - [Embark](https://github.com/embark-framework/embark) - Framework per lo sviluppo di DApp.
 - [Waffle](https://getwaffle.io/) - Framework per sviluppare e testare smart contract (basato su ethers.js)
 - [Dapp](https://dapp.tools/dapp/) - Framework per lo sviluppo di DApp, successore di DApple
@@ -245,9 +245,9 @@
 - [0xcert](https://github.com/0xcert/framework/) - Framework JavaScript per sviluppare appplicazioni decentralizzate.
 - [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: Suite di strumenti per aiutarti a sviluppare, compilare, aggiornare, rilasciare e interagire con gli smart contracts.
 - [sbt-ethereum](https://sbt-ethereum.io/) - tab-completey, text-based console per interagine e sviluppare smart contract, incluso wallet e gestione ABI, supporto per ENS, integrazione avanzata di Scala.
-- [Cobra](https://github.com/cobraframework/cobra) - Un veloce, flessibile e semplice ambiente di sviluppo smart contract di Etherium, per il test e lo sviluppo su Etherium virtual machines(EVM).
+- [Cobra](https://github.com/cobraframework/cobra) - Un veloce, flessibile e semplice ambiente di sviluppo smart contract di Ethereum, per il test e lo sviluppo su Ethereum virtual machines(EVM).
 - [Epirus](https://docs.epirus.io/sdk/) - Framework Java per sviluppare smart contracts.
-- [Ether Jar](https://github.com/emeraldpay/etherjar) Libreria Java per l'integrazione della blockchain di Etherium.
+- [Ether Jar](https://github.com/emeraldpay/etherjar) Libreria Java per l'integrazione della blockchain di Ethereum.
 - [Starport](https://github.com/tendermint/starport) - CLI tool per costruire una sovereign IBC-enabled blockchain.
 - [Sign in con Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow per autenticare Ethereum accounts firmando il messaggio per stabilire una sessione cookie che gestisce i metadata dell'utente.
 - [Foundry](https://github.com/onbjerg/foundry-book) - Toolchain per sviluppare smart contract, compilazione, gestione delle dipendenze, test, rilascio, interazioni on-chain...
@@ -278,7 +278,7 @@
 
 - [Paradigm Faucet](https://faucet.paradigm.xyz) - Qui puoi effettuare il Claim di ETH per la testnet
 - [Ethnode](https://github.com/vrde/ethnode) - Lancia un nodo Ethereum (Geth o Parity) per lo sviluppo, semplicemente avviando `npm i -g ethnode && ethnode`.
-- [Ganache](https://github.com/trufflesuite/ganache) - App per testare la blockchain di Etherium con UI e logs.
+- [Ganache](https://github.com/trufflesuite/ganache) - App per testare la blockchain di Ethereum con UI e logs.
 - [Kaleido](https://kaleido.io/) - Usa Kaleido per metter su un consortium blockchain network. Ottimo per PoCs e testing
 - [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Lancia una rete privata di nodi Besu all'interno di un container Docker.
 - [Orion](https://github.com/PegaSysEng/orion) - Componente per effettuare transazioni private (PegaSys)
@@ -288,13 +288,13 @@
 - [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Script per rilasciare Out-of-the-box su reti private PoA
 - [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Script per rilasciare Out-of-the-box deployment su reti PoW
 - [Ethereum su Azure](https://docs.microsoft.com/en-us/azure/blockchain/templates/ethereum-poa-deployment) - Rilascio e governance di una rete Ethermium PoA
-- [Ethereum su Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Costruisci una rete Etherium basata sul Proof of Work
-- [Infura](https://infura.io/) - Accesso alle API di Etherium (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
-- [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Accesso alla rete Etherium attraverso Cloudflare
+- [Ethereum su Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Costruisci una rete Ethereum basata sul Proof of Work
+- [Infura](https://infura.io/) - Accesso alle API di Ethereum (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
+- [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Accesso alla rete Ethereum attraverso Cloudflare
 - [Chainstack](https://chainstack.com/) - Nodi Ethermium condivisi e dedicati 'as a service' (Mainnet, Ropsten, Rinkeby)
 - [Alchemy](https://alchemyapi.io/) - Piattaforma di sviluppo Blockchain, Ethereum API, e nodi (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
-- [Watchdata](https://watchdata.io) - API per accere alla blockchain di Etherium
+- [Watchdata](https://watchdata.io) - API per accere alla blockchain di Ethereum
 
 #### Test Ether Faucets
 
@@ -628,7 +628,7 @@
 #### Speciali:
 
 - [Tutto sulla sicurezza degli NFT](https://graph.org/NFT-security-01-28)
-- [Tutti i tool di sicurezza Etherium](https://graph.org/ETHSec-Tools-02-13)
+- [Tutti i tool di sicurezza Ethereum](https://graph.org/ETHSec-Tools-02-13)
 - [Community di sviluppatore TG](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Attacchi contract-side e user-side conosciuti](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
@@ -687,7 +687,7 @@
 
 # Tools Collection
 
-#### Strumenti per Etherium
+#### Strumenti per Ethereum
 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
