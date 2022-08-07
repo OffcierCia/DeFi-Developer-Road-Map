@@ -4,6 +4,23 @@
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
+
+## Support Project:
+
+Support is **very** important to me, with it I can spend less time at work and do what I love - educating DeFi & Crypto users :sparkling_heart:
+
+If you want to support my work, you can send me a donation to the address:
+
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
+
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
+
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
+
+You can also send me a donation to the address from [this repository](https://github.com/OffcierCia/support)!
+
+#
+
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
 [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
@@ -27,6 +44,19 @@
 
 **[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❗️
 
+#
+
+<details>
+<summary>Translations</summary>
+<br />
+
+- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
+- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
+- [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
+- [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
+
+</details>
+
 |      Topic       | Instant Link                                                                                                              |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
 |      Basics      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#basics)                                                   |
@@ -47,6 +77,8 @@
 |    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
 |  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
 
+#
+
 **| Special Author's Notes:**
 
 - [All-about-NFT security ](https://graph.org/NFT-security-01-28)
@@ -59,19 +91,6 @@
 - [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 - [Check out my recent articles](https://mirror.xyz/officercia.eth)
-
-#
-
-<details>
-<summary>Translations</summary>
-<br />
-
-- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
-- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
-- [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-- [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
-
-</details>
 
 # Basics:
 
@@ -985,15 +1004,8 @@ If you want to support my work, you can send me a donation to the address:
 
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
 
-- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
+You can also send me a donation to the address from [this repository](https://github.com/OffcierCia/support)!
 
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
-
-- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge
-
-- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
-
-- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
