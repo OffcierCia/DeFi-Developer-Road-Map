@@ -136,6 +136,8 @@ You can also send me a donation to the address from [this repository](https://gi
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
 - [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Token standard for semi-fungible tokens
 - [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
+- [ERC-1363](https://eips.ethereum.org/EIPS/eip-1363) - Payable Token Standard.
+- [ERC-4626](https://eips.ethereum.org/EIPS/eip-4626) - Tokenized Vault Standard.
 - [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
 #### Others
