@@ -758,6 +758,7 @@ You can also send me a donation to the address from [this repository](https://gi
 - [Solidity-coverage](https://github.com/sc-forks/solidity-coverage)
 - [TypeChain](https://github.com/ethereum-ts/TypeChain)
 - [Tenderly](https://tenderly.co/)
+- [Contract Library](https://library.dedaub.com/)
 
 #### Libraries
 
@@ -820,6 +821,7 @@ You can also send me a donation to the address from [this repository](https://gi
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+- [Contract Library](https://library.dedaub.com) - Decompiler and vulnerability scanner for deployed contracts
 
 #### Frontend Ethereum APIs
 
