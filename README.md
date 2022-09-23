@@ -38,13 +38,6 @@ If you want to support my work, you can also send me a donation to the address:
 
 #
 
-Also, you can order an audit from any of my friend companies:
-
-- [Pessimistic.io](https://pessimistic.io)
-- [Hexens.io](https://hexens.io)
-
-Don't forget to mention that you are from me 🙂
-
 User donations have been and still are my main source of income. It helps to avoid affiliations and engagements. I really care about what I do and I'm glad you like it! You can also buy the works of my good friend and artist - all proceeds will go to create a book about blockchain with a unique design:
 
 - [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
@@ -1070,13 +1063,6 @@ If you want to support my work, you can also send me a donation to the address:
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
 #
-
-Also, you can order an audit from any of my friend companies:
-
-- [Pessimistic.io](https://pessimistic.io)
-- [Hexens.io](https://hexens.io)
-
-Don't forget to mention that you are from me 🙂
 
 User donations have been and still are my main source of income. It helps to avoid affiliations and engagements. I really care about what I do and I'm glad you like it! You can also buy the works of my good friend and artist - all proceeds will go to create a book about blockchain with a unique design:
 
