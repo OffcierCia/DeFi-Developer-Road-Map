@@ -210,6 +210,10 @@ Thank you very much. I am very happy and excited to help each and every one of y
 
 - Get familiar with tools that you will be using:
 
+#### Programming Languages
+-[Reach](https://https://www.reach.sh/) - Safe, fast and smart programming language, compiler and deploy tool. Compiles for any protocol and outputs enire application, not just smart contract, removing the need to build and maintain multiple pieces of traditional DAPP. Value add is verification engine for safety - great for new developers.  
+-[Solidity](https://https://docs.soliditylang.org) - Contract-oriented, high-level language for implementing smart contracts on Etheruem.
+
 #### Package Managers
 
 - [npm](https://www.npmjs.com/)
