@@ -79,16 +79,14 @@ You can also send me a donation to the address from [this repository](https://gi
 
 **| Special Author's Notes:**
 
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on HackerNoon](https://hackernoon.com/u/officercia)
+- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://hackernoon.com/whats-the-safest-way-to-store-crypto)
 - [All-about-NFT security ](https://graph.org/NFT-security-01-28)
-- [Browser leakage checkers ](https://graph.org/Checkers-01-19)
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
 - [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
-- [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
 # Basics:
 
