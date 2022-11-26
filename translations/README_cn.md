@@ -13,10 +13,11 @@
 <details>
 <summary>其他语言</summary>
 <br />
-
-
+- [法语](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
 - [古吉拉特语](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
+
 - [韩语](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
+- [意大利语](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
 
 </details>
 
@@ -31,7 +32,7 @@
 |       主题       | 链接                                                         |
 | :--------------: | ------------------------------------------------------------ |
 |       基础       | [点击查看](#基础)                                            |
-|      dApps       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#dapps) |
+|      dApps       | [点击查看](#dApps)                                           |
 |    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks) |
 |    zk-snarks     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks) |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) |
@@ -48,19 +49,16 @@
 |    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) |
 |  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management) |
 
+**| 作者注：**
 
-**| Special Author's Notes:**
-
-- [All-about-NFT security ](https://graph.org/NFT-security-01-28) 
-- [Browser leakage checkers ](https://graph.org/Checkers-01-19)
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
-- [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
-- [Check out my recent articles](https://mirror.xyz/officercia.eth)
+- [我在 Mirror 上的博客](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [我在 HackerNoon 上的博客](https://hackernoon.com/u/officercia)
+- [所有已知的智能合约端和用户端的攻击与攻击向量](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [存储加密冷钱包攻击防御方法最佳实践的关键原则](https://hackernoon.com/whats-the-safest-way-to-store-crypto)
+- [全方位的 NFT 安全性](https://graph.org/NFT-security-01-28)
+- [现有的所有 ETH 安全工具](https://graph.org/ETHSec-Tools-02-13)
+- [所有优秀的 TG Dev 社区 ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
+- [Solidity 语言备忘单、工具和参考资料合集](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 # 基础:
 
@@ -83,64 +81,64 @@
 - 以太坊节点和客户端, Geth
 - Infura 基础设施
 
-#### Smart Contract
+#### 智能合约 (Smart Contract)
 
 
-- Basics of Smart Contract
-- Life Cycle of Smart Contract
-- Ethereum Higher Level languages (**Solidity**, Vyper, LLL, Serpent)
-- Compiling, testing, Deploying smart Contracts
-- Interacting with smart contracts using web3.js or web3.py
-- Read [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
-- Read [this article](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
-- Read the [Truffle Documentation](https://truffleframework.com/docs/) / [Hardhat Documentation](https://hardhat.org/getting-started/)
-- Read the [Web3 Documentation](https://web3js.readthedocs.io/en/1.0/) / [Ethers Documentation](https://docs.ethers.io/v5/)
-- Read Book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) and watch [this channel](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
-- Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
-- Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
+- 智能合约基础
+- 智能合约的生命周期
+- 以太坊高级语言（**Solidity**、Vyper、LLL、Serpent）
+- 编译、测试、部署智能合约
+- 使用 web3.js 或 web3.py 与智能合约交互
+- 阅读[以太坊是如何工作的？](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=The%20Ethereum%20blockchain%20uses%20an,tokens%20are%20generated%20and%20awarded.)
+- 阅读[这篇](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+- 阅读 [Truffle 文档](https://truffleframework.com/docs/) / [Hardhat 文档](https://hardhat.org/getting-started/)
+- 阅读 [Web3 文档](https://web3js.readthedocs.io/en/1.0/) / [Ethers 文档](https://docs.ethers.io/v5/)
+- 阅读书籍[《精通以太坊》](https://github.com/ethereumbook/ethereumbook) 还有观看[这个频道](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos)
+- 阅读 [Solidity 智能合约库](https://openzeppelin.org/api/docs/get-started.html) and [Solidity 基础](https://solidity-by-example.org)（教程来自 Zombies）](https://cryptozombies.io)
+- 阅读[去中心化金融中现金网络威胁的闪崩](https://arxiv.org/pdf/2106.10740.pdf)
 
-#### Smart Contract Standards
+#### 智能合约标准
 
-- [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
+- [ERCs](https://eips.ethereum.org/erc) - 以太坊改进提议（EIPs）
 
-#### Tokens
+#### 代币(Tokens)
 
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - Token contract for fungible assets.
-- [ERC-721](https://github.com/ethereum/eips/issues/721) - Token standard for non-fungible assets.
-- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - Token standard for semi-fungible tokens
-- [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - Mineable Token Standard.
-- [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
+- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 同质化代币标准
+- [ERC-721](https://github.com/ethereum/eips/issues/721) - 非同质化代币标准
+- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - 半同质化代币标准
+- [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - 可开采代币标准
+- [代币交互清单](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
 #### Others
 
-- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - Creates a standard method to publish and detect what interfaces a smart contract implements.
-- [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - A standard interface for a simple proxy account.
-- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - A standard interface for ownership of contracts.
+- [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 标准接口检测
+- [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 以太坊身份标准
+- [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 合同所有权标准
 
 
-#### General Development Skills
+#### 通用开发技能
 
 
-- Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
-- Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-- Share your code with other people
-- know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-- Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
-- Get familiar with terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure your shell (bash, zsh, fish)
-- Read a few books about algorithms and data structures, blockchain, Ethereum, solidity
-- Do this course [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-- Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
-- [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) and [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
+- 学习 [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
+- 在 [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/) 上创建一个库
+- 与其他人共享您的代码
+- 了解 HTTP(S) 协议、请求方法（GET、POST、PUT、PATCH、DELETE、OPTIONS）
+- [使用 Google 进行强力搜索](http://www.powersearchingwithgoogle.com/)
+- 熟悉终端（[Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)），配置你的 shell（bash、zsh、fish）
+- 读几本关于算法和数据结构、区块链、以太坊、solidity 的书
+- 完成本课程 [以太坊和 Solidity：完整的开发者指南](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
+- 免费教程[学习 Solidity](https://github.com/willitscale/learning-solidity)
+- [使用 Solidity 开发智能合约简介](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) 和 [ERC20 编程](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ- f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Tudelft Repo](https://repository.tudelft.nl)
 
-#### Try this tools:
+#### 尝试以下工具:
 
-- [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
+- [eth-cli](https://github.com/protofire/eth-cli) - 命令行工具。
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
-- [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
-- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - An interractive smart contract encoder and sender from your ABI file
-- [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
-- [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
+- [Remix](https://remix.ethereum.org/) - 在线实时编译器和运行时。
+- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - ABI 文件中的交互式智能合约编码器和发送器
+- [优化 Solidity 函数名称](https://emn178.github.io/solidity-optimize-name/) - 优化函数名称以降低成本
+- [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript 包提供规范化的类型化 Solidity AST 以及生成 AST（来自 Solc）和遍历/操作它所需的实用程序。
 
 
 # dApps
