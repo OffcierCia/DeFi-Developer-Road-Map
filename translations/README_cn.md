@@ -33,7 +33,7 @@
 | :--------------: | ------------------------------------------------------------ |
 |       基础       | [点击查看](#基础)                                            |
 |      dApps       | [点击查看](#dApps)                                           |
-|    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks) |
+|    Frameworks    | [点击查看](#框架)                                            |
 |    zk-snarks     | [点击查看](#ZK-SNARKs)                                       |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) |
 |     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety) |
@@ -204,7 +204,7 @@
 
 - [StarkWare](https://github.com/starkware-industries) 与 [StarkWare 资源](https://github.com/starkware-libs) - StarkEx 可扩展性引擎在链上存储状态转换
 
-# Frameworks
+# 框架
 
 #### Truffle Suit 
 
@@ -215,95 +215,95 @@
 
 #### ZeppelinOS
 
-- [Getting Started](https://docs.zeppelinos.org/docs/start.html)
+- [点击这里开始了解](https://docs.zeppelinos.org/docs/start.html)
 
 #### Labs.Superblock
 
 > Note: Superblocks is depreciated
 
 - [Labs.superblocks](https://lab.superblocks.com/)
-- [dapp Tutorial](https://www.youtube.com/watch?v=LK-kVMzrdno)
+- [dapp 教程](https://www.youtube.com/watch?v=LK-kVMzrdno)
 
 
-#### Infura (A Gateway to Ethereum)
+#### Infura（通往以太坊的网关）
 
-- [Mainnet End Point](https://infura.io/)
-- [Ropsten TestNet End Point](https://infura.io/)
-- [Kovan TestNet End Point](https://infura.io/)
-- [Rinkby TestNet End Point](https://infura.io/)
-- [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
+- [主网端点](https://infura.io/)
+- [Ropsten 测试网端点](https://infura.io/)
+- [Kovan 测试网端点](https://infura.io/)
+- [Rinkby 测试网端点](https://infura.io/)
+- [星际文件系统](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
 
-#### Other Frameworks
+#### 其它框架
 
-- [Frameworks List](https://ethereum.org/en/developers/docs/frameworks/) - Ethereum Frameworks Listing.
-- [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
-- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
-- [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
-- [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
-- [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
-- [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
-- [Parasol](https://github.com/Lamarkaz/parasol) - [Depreciated] Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
-- [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
-- [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
-- [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
-- [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-- [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts. 
-- [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
-- [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
-- [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
-- [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
-- [Solmate](https://github.com/Rari-Capital/solmate) - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
+- [其它框架列表](https://ethereum.org/en/developers/docs/frameworks/)
+- [Hardhat](https://hardhat.org/) - 灵活、可扩展和快速的以太坊开发环境。
+- [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie 是一个用于部署、测试和与以太坊智能合约交互的 Python 框架。
+- [Embark](https://github.com/embark-framework/embark) - DApp 开发框架
+- [Waffle](https://getwaffle.io/) - 高级智能合约开发和测试框架，小巧、灵活、快速（基于ethers.js）
+- [Dapp](https://dapp.tools/dapp/) - DApp 开发框架，DApple 的后继者
+- [Etherlime](https://github.com/LimeChain/etherlime) - 基于 ethers.js 的 Dapp 部署框架
+- [Parasol](https://github.com/Lamarkaz/parasol) - [过时] 具有测试、INFURA 部署、自动合约文档等功能的敏捷智能合约开发环境。它具有灵活且不拘一格的设计以及无限的可定制性。
+- [0xcert](https://github.com/0xcert/framework/) - 用于构建去中心化应用程序的 JavaScript 框架
+- [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - 一套可帮助您开发、编译、升级、部署智能合约并与之交互的工具。
+- [sbt-ethereum](https://sbt-ethereum.io/) - 用于智能合约交互和开发的选项卡式基于文本的控制台，包括钱包和 ABI 管理、ENS 支持和高级 Scala 集成。
+- [Cobra](https://github.com/cobraframework/cobra) - 一个快速、灵活、简单的以太坊智能合约开发环境框架，在以太坊虚拟机（EVM）上测试和部署。
+- [Epirus](https://docs.epirus.io/sdk/) - 用于构建智能合约的 Java 框架。
+- [Ether Jar](https://github.com/emeraldpay/etherjar) 以太坊区块链的 Java 集成库
+- [Starport](https://github.com/tendermint/starport) - 用于构建支持 IBC 的主权区块链的 CLI 工具。
+- [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- 使用消息签名对以太坊帐户进行身份验证的工作流程，以建立一个基于 cookie 的网络会话来管理用户元数据。
+- [Foundry](https://github.com/onbjerg/foundry-book) - 一个智能合约开发工具链，用于项目编译、依赖管理、测试、部署、链上交互等。
+- [Solmate](https://github.com/Rari-Capital/solmate) - 这些合同已通过审核，但在开发时并未考虑到用户。他们主要寻求优化 gas 和优化智能合约开发。
 
-#### Interacting with Smart Contract
+#### 与智能合约交互
 
 - [Web3.js](https://web3js.readthedocs.io/en/1.0/)
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
 - [ethers.js](https://docs.ethers.io/v5/)
 
-#### Python Ethereum Eco System
+#### Python 以太坊生态系统
 
-- [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
+- [阅读文章](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 
-#### Distributed Storage Systems
+#### 分布式存储系统
 
-- [INFO](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
-- [IPFS](https://ipfs.io/)
+- [点击阅读](https://medium.com/bitfwd/what-is-decentralised-storage-ipfs-filecoin-sia-storj-swarm-5509e476995f)
+- [星际文件系统](https://ipfs.io/)
 - [MESON](https://meson.network/)
 - [SWARM](https://swarm-gateways.net/)
 - [Storej](https://storj.io/)
 - [Sia](https://sia.tech/)
 
-#### Test Blockchain Networks
+#### 测试区块链网络
 
-- [Paradigm Faucet](https://faucet.paradigm.xyz) - claim testnet ETH here
-- [Ethnode](https://github.com/vrde/ethnode) - Run an Ethereum node (Geth or Parity) for development, as easy as `npm i -g ethnode && ethnode`.
-- [Ganache](https://github.com/trufflesuite/ganache) - App for test Ethereum blockchain with visual UI and logs
-- [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
-- [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
-- [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
-- [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
-- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
-- [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
-- [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
-- [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
-- [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain/templates/ethereum-poa-deployment) - Deployment and governance of consortium Ethereum PoA networks
-- [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - Build Ethereum network based on Proof of Work
-- [Infura](https://infura.io/) - Ethereum API access to Ethereum networks (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
-- [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
-- [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten, Rinkeby)
-- [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
-- [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
-- [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+- [Paradigm Faucet](https://faucet.paradigm.xyz) - 在这里领取测试网 ETH
+- [Ethnode](https://github.com/vrde/ethnode) - 运行以太坊节点（Geth 或 Parity）进行开发，就像 `npm i -g ethnode && ethnode`.
+- [Ganache](https://github.com/trufflesuite/ganache) - 具有可视化用户界面和日志的测试以太坊区块链的应用程序
+- [Kaleido](https://kaleido.io/) - 使用 Kaleido 启动联盟区块链网络。非常适合 PoC 和测试
+- [Besu 私有网络](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - 在 Docker 容器中运行 Besu 节点的私有网络
+- [Orion](https://github.com/PegaSysEng/orion) - 通过 PegaSys 执行私人交易的组件
+- [Artemis](https://github.com/PegaSysEng/artemis) - PegaSys 对以太坊 2.0 信标链的 Java 实现
+- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - 简化智能合约应用程序的集成并能接受测试的 docker 实例，使用起来非常类似于真实的区块链网络
+- [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - 在 docker 容器中运行本地 Raiden 网络用于演示和测试目的
+- [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - 针对私有 PoA 网络的开箱即用的部署脚本
+- [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - 针对私有 PoW 网络的开箱即用的部署脚本
+- [Ethereum on Azure](https://docs.microsoft.com/en-us/azure/blockchain/templates/ethereum-poa-deployment) - 联盟以太坊 PoA 网络的部署和治理
+- [Ethereum on Google Cloud](https://console.cloud.google.com/marketplace/details/click-to-deploy-images/ethereum?filter=category:developer-tools) - 基于工作量证明构建以太坊网络
+- [Infura](https://infura.io/) - 以太坊 API 访问以太坊网络（Mainnet、Ropsten、Rinkeby、Goerli、Kovan）
+- [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - 通过 Cloudflare 提供对以太坊网络的访问，而不是运行您自己的节点
+- [Chainstack](https://chainstack.com/) - 共享和专用的以太坊节点即服务（Mainnet、Ropsten、Rinkeby）
+- [Alchemy](https://alchemyapi.io/) - 区块链开发平台、以太坊API、节点服务（Mainnet、Ropsten、Rinkeby、Goerli、Kovan）
+- [ZMOK](https://zmok.io/) - JSON-RPC 以太网 API (Mainnet, Rinkeby, Front-running Mainnet)
+- [Watchdata](https://watchdata.io) - 提供对以太坊区块链的简单可靠的 API 访问
 
-#### Test Ether Faucets
+#### 以太测试水龙头（faucet）
 
 - [Rinkeby faucet](https://faucet.rinkeby.io/)
 - [Kovan faucet](https://github.com/kovan-testnet/faucet)
 - [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
 - [Goerli faucet](https://goerli-faucet.slock.it/)
 - [Universal faucet](https://faucets.blockxlabs.com/)
-- [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
+- [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - 一个 C#/.NET 语言实现的水龙头
 
 
 # Front End 
