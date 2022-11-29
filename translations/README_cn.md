@@ -34,7 +34,7 @@
 |       基础       | [点击查看](#基础)                                            |
 |      dApps       | [点击查看](#dApps)                                           |
 |    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks) |
-|    zk-snarks     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks) |
+|    zk-snarks     | [点击查看](#ZK-SNARKs)                                       |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) |
 |     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety) |
 |       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi) |
@@ -188,21 +188,21 @@
 
 # ZK-SNARKs
 
-#### General info
+#### 基本信息
 
-- [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
-- [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
-- [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
-- [Nightfall](https://github.com/EYBlockchain/nightfall) - Make any ERC-20 / ERC-721 token private - open source tools & microservices
-- Proxy Re-encryption (PRE)
-- [NuCypher Network](https://github.com/nucypher/nucypher) - A proxy re-encryption network to empower data privacy in decentralized systems
-- [pyUmbral](https://github.com/nucypher/pyumbral) - Threshold proxy re-encryption cryptographic library
-- Fully Homomorphic Encryption (FHE)
-- [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
+- [zkp.science](https://zkp.science) - 关于 ZK-SNARKs 你应该知道的一切
+- [ZoKrates](https://github.com/Zokrates/ZoKrates) - 一个以太坊上关于 zkSNARKS 的工具合集
+- [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - 以太坊网络上的加密交易和在以太网主网上实时实施
+- [Nightfall](https://github.com/EYBlockchain/nightfall) - 将任何 ERC-20 / ERC-721 代币设为私有 - 开源工具和微服务
+- 代理重加密 (PRE)
+- [NuCypher Network](https://github.com/nucypher/nucypher) - 代理重加密帮助在去中心化网络中增强数据隐私
+- [pyUmbral](https://github.com/nucypher/pyumbral) - 阈值代理重加密密码库
+- 全同态加密 (FHE)
+- [NuFHE](https://github.com/nucypher/nufhe) - 全同态加密 GPU 加速库
 
 #### ZK-STARKs
 
-- [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
+- [StarkWare](https://github.com/starkware-industries) 与 [StarkWare 资源](https://github.com/starkware-libs) - StarkEx 可扩展性引擎在链上存储状态转换
 
 # Frameworks
 
