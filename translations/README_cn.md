@@ -143,9 +143,9 @@
 
 # dApps
 
-- Get familiar with tools that you will be using:
+- 熟悉以下工具：
 
-#### Package Managers
+#### 包管理器 (Package Managers)
 
 - [npm](https://www.npmjs.com/)
 - [yarn](https://yarnpkg.com/lang/en/)
@@ -166,23 +166,23 @@
 - [Language Solidity](https://atom.io/packages/language-solidity) 
 - [Vim solidity](https://github.com/tomlion/vim-solidity) 
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide) 
-- [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-- [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
-- [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
+- 在 [VSCode](https://code.visualstudio.com/) 上安装 [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor) 插件
+- [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity 语法高亮 [VSCode 商店](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
+- [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - 用 MetaMasks RPC API 来查看和辅助交互
 
  #### Practice
 
-- Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/) 
-- Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
-- [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
-- [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
-- [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
-- [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
-- [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
-- [Consensys best practices](https://consensys.github.io/smart-contract-best-practices/) - This document provides a baseline knowledge of security considerations for intermediate Solidity programmers. It is maintained by ConsenSys Diligence, and the broader Ethereum community.
-- [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
-- [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - A compilation of the worst patterns.
-- [ETH.build](https://eth.build/) An Educational Sandbox For Web3
+- 通过制作 [僵尸游戏](https://cryptozombies.io/) 来学习以太坊开发。
+- 阅读并完成制作此示例: [宠物商店教程](https://www.trufflesuite.com/tutorial)
+- [时间锁定钱包：以太坊智能合约简介](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
+- [终极 ENS 和 ĐApp 教程](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
+- [以太坊 Ðapp 开发的终极介绍](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
+- [Ethernaut](https://ethernaut.zeppelin.solutions/) 是一款基于 Web3/Solidity 的战争游戏，适合那些对学习以太坊感兴趣的人
+- [Ethereum 和 Solidity：完整的开发人员指南](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
+- [Consensys 最佳实践](https://consensys.github.io/smart-contract-best-practices/) - 本文档为中级 Solidity 程序员提供了安全注意事项的基本知识，由 ConsenSys Diligence 和更广泛的以太坊社区维护。
+- [Solidity 模式](https://github.com/fravoll/solidity-patterns) - 模式与最佳实践的整合。
+- [智能合约威胁数据库](https://github.com/crytic/not-so-smart-contracts) - 最烂模式的整合。
+- [ETH.build](https://eth.build/) 一个针对 Web3 学习的沙箱
 
 
 
