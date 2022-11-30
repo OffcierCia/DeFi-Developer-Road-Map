@@ -207,6 +207,7 @@ You can also send me a donation to the address from [this repository](https://gi
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns) - A compilation of patterns and best practices.
 - [Smart Contracts Threats DB](https://github.com/crytic/not-so-smart-contracts) - A compilation of the worst patterns.
 - [ETH.build](https://eth.build/) An Educational Sandbox For Web3
+- [Node Guardians](https://nodeguardians.io/) Story-rich Quests with practical coding challenges
 
 # ZK-SNARKs
 
