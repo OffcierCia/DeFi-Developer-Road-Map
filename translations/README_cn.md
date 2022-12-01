@@ -306,29 +306,29 @@
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - 一个 C#/.NET 语言实现的水龙头
 
 
-# Front End 
+# 前端 
 
-#### UI Components
+#### UI 组件
 
-- Learn React on [official website](https://reactjs.org/tutorial/tutorial.html) or complete some [courses](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [React Roadmap](https://github.com/adam-golab/react-developer-roadmap)
-- [aragonUI](https://ui.aragon.org) - A React library including Dapp components
-- [components.bounties.network](https://components.bounties.network) - A React library including Dapp components
-- [ui.decentraland.org](https://github.com/decentraland/ui) - A React library including Dapp components
-- [dapparatus](https://github.com/austintgriffith/dapparatus) - Reusable React Dapp components
-- [Metamask ui](https://github.com/MetaMask/metamask-storybook) - Metamask React Components
-- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - A cross-platform hybrid hosting mechanism for web based decentralised applications
-- [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
-- [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
-- [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-- [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
-- [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
-- [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
+- 在[官方网站](https://reactjs.org/tutorial/tutorial.html)上学习 React 或完成一些[课程](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [React 学习路线](https://github.com/adam-golab/react-developer-roadmap)
+- [aragonUI](https://ui.aragon.org) - 包含 Dapp 组件的 React 库
+- [components.bounties.network](https://components.bounties.network) - 包含 Dapp 组件的 React 库
+- [ui.decentraland.org](https://github.com/decentraland/ui) - 包含 Dapp 组件的 React 库
+- [dapparatus](https://github.com/austintgriffith/dapparatus) - 可重用的 React Dapp 组件
+- [Metamask ui](https://github.com/MetaMask/metamask-storybook) - Metamask React 组件
+- [DappHybrid](https://github.com/Nethereum/Nethereum.DappHybrid) - 一种基于 Web、去中心化的应用程序的跨平台混合托管机制
+- [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - 跨平台桌面钱包示例
+- [eth-button](https://eth-button.github.io/eth-button/) - 极简捐赠按钮
+- [Rimble Design System](https://rimble.consensys.design/) - 去中心化应用程序的适应性组件和设计标准。
+- [3Box Plugins](https://docs.3box.io/build/plugins) - 加入用于社交功能的 React 组件。包括评论、个人资料和消息。
+- [brave-ui](https://github.com/brave/brave-ui) - 可重用的 React 组件列表，以增强你的 UI
+- [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - 在此文中，作者研究了 DApp 的安全性。
 
-# Project management
+# 项目管理
 
-- [Dework](https://dework.xyz/) | Web3 Trello with token payments, credentials, bounties...
-- [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
+- [Dework](https://dework.xyz/) | Web3 Trello 具有代币支付、凭证、赏金......
+- [Wonderverse](https://www.wonderverse.xyz/) | Jira 的替代品具有直观的任务管理系统，允许 DAO 支付贡献者和在他们的项目中进行协作。
 
 # Further Readings
 
