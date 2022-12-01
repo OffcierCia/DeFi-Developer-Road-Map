@@ -29,25 +29,25 @@
 # 导航
 
 
-|       主题       | 链接                                                         |
-| :--------------: | ------------------------------------------------------------ |
-|       基础       | [点击查看](#基础)                                            |
-|      dApps       | [点击查看](#dApps)                                           |
-|       框架       | [点击查看](#框架)                                            |
-|    zk-snarks     | [点击查看](#ZK-SNARKs)                                       |
-|     更多阅读     | [点击查看](#更多阅读)                                        |
-|    安全与保障    | [点击查看](#安全与保障)                                      |
-|       DeFi       | [点击查看](#DeFI)                                            |
-|  以太坊域名服务  | [点击查看](#以太坊域名服务)                                  |
-|       NFT        | [点击查看](#非同质化代币 (NFT))                              |
-|      稳定币      | [点击查看](#稳定币)                                          |
-|     其它资料     | [点击查看](#其它资料)                                        |
-|   Side Chains    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains) |
-|       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection) |
-|     ETH 2.0      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20) |
-|    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) |
-|  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management) |
+|      主题      | 链接                                                         |
+| :------------: | ------------------------------------------------------------ |
+|      基础      | [点击查看](#基础)                                            |
+|     dApps      | [点击查看](#dApps)                                           |
+|      框架      | [点击查看](#框架)                                            |
+|   zk-snarks    | [点击查看](#ZK-SNARKs)                                       |
+|    更多阅读    | [点击查看](#更多阅读)                                        |
+|   安全与保障   | [点击查看](#安全与保障)                                      |
+|      DeFi      | [点击查看](#DeFI)                                            |
+| 以太坊域名服务 | [点击查看](#以太坊域名服务)                                  |
+|      NFT       | [点击查看](#非同质化代币 (NFT))                              |
+|     稳定币     | [点击查看](#稳定币)                                          |
+|    其它资料    | [点击查看](#其它资料)                                        |
+|      支链      | [点击查看](#支链)                                            |
+|      MEV       | [点击查看](#MEV - 最大可提取价值/矿工可提取价值)             |
+|    工具合集    | [点击查看](#工具合集)                                        |
+|    ETH 2.0     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20) |
+|   Front End    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) |
+| Project Manag. | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management) |
 
 **| 作者注：**
 
@@ -551,119 +551,119 @@
 #### 其它资料：
 
 
-- [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) - An analysis of the crypto prices and search trends suggests the existence of big players (and not the regular users), manipulating the market after a drop in prices.
+- [以太坊网络的大数据分析：从区块链到谷歌趋势](https://arxiv.org/pdf/2104.01764.pdf) - 对加密货币价格和搜索趋势的分析表明大玩家的存在（不是普通用户），在价格下跌后操纵市场。
 
-- [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf) -  In this paper, authors propose an atomic, scalable and privacy-preserving protocol that enables secure and dynamic updates. Then develop a smart contract-based Credit-Note System (CNS) that allows participants to lock funds before a state channel initialisation, which enhances flexibility and efficiency.
+- [用于原子和可扩展交易的基于 DLT 的智能合约架构](https://arxiv.org/pdf/2105.02937.pdf) - 在本文中，作者提出了一种原子的、可扩展的和隐私保护的协议，可以实现安全和动态 更新。 然后开发一个基于智能合约的信用票据系统（CNS），允许参与者在状态通道初始化之前锁定资金，从而提高灵活性和效率。
 
-- [Exploring Etherum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
+- [探索以太坊数据存储：成本和性能比较](https://arxiv.org/pdf/2105.10520.pdf) - 在这项工作中，作者检查了一套全面的 ETH 应用程序数据管理方法，并评估了相关成本 气体以及检索性能。
 
-- [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/pdf/2105.05460.pdf) - This study comprehensively investigates blockchain governance via 5W1H questions.
+- [关于区块链治理的系统文献综述](https://arxiv.org/pdf/2105.05460.pdf) - 本研究通过 5W1H 问题全面调查区块链治理。
 
-- [A general framework for blockchain analytics](https://arxiv.org/pdf/1707.01021.pdf) - Authors propose a general-purpose framework, supporting data analytics on Bitcoin Ethereum — it allows to integrate block data with data from other sources, and to organise them in a database.
+- [区块链分析的通用框架](https://arxiv.org/pdf/1707.01021.pdf) - 作者提出了一个通用框架，支持比特币以太坊上的数据分析——它允许将块数据与来自其他来源的数据集成 , 并将它们组织在数据库中。
 
-- [AMR:Autonomous Coin Mixer with Privacy Preserving Reward Distribution](https://arxiv.org/pdf/2010.01056.pdf) - In this work, authors propose the first censorship resilient mixer, which can reward its users in a privacy-preserving manner for participating in the system.
+- [AMR：具有隐私保护奖励分配的自治硬币混合器](https://arxiv.org/pdf/2010.01056.pdf) - 在这项工作中，作者提出了第一个审查弹性混合器，它可以在保护隐私的情况下奖励其用户 参与系统的方式。
 
-- [Technology Review of Blockchain Data Privacy Solutions](https://arxiv.org/pdf/2105.01316.pdf)- This report aims to review existing enterprise blockchain technologies: EOSIO powered systems, Hyperledger Fabric and Besu, Consensus Quorum, R3 Corda and Ernst and Young’s Nightfall.
+- [区块链数据隐私解决方案技术回顾](https://arxiv.org/pdf/2105.01316.pdf)- 本报告旨在回顾现有的企业区块链技术：EOSIO 驱动系统、Hyperledger Fabric 和 Besu、Consensus Quorum、R3 Corda 和 安永会计师事务所的夜幕降临。
 
-- [Blockchain Systems, Technologies and Applications: A Methodology Perspective](https://arxiv.org/pdf/2105.03572.pdf) - First, this article introduces how blockchain works, the research activity and challenge, and illustrates the roadmap involving the classic methodology with typical blockchain use cases and topics. Second, in blockchain system, how to adopt stochastic process, game theory, optimization, machine learning and cryptography to study blockchain running process and design blockchain protocol/algorithm are discussed in details.
+- [区块链系统、技术和应用：方法论视角](https://arxiv.org/pdf/2105.03572.pdf) - 本文首先介绍了区块链的工作原理、研究活动和挑战，并说明了涉及经典的路线图 具有典型区块链用例和主题的方法。 其次，在区块链系统中，详细讨论了如何采用随机过程、博弈论、优化、机器学习和密码学来研究区块链运行过程和设计区块链协议/算法。
 
-- [Ethna: Analyzing the Underlying Peer-to-Peer Network of the Ethereum Blockchain](https://arxiv.org/pdf/2010.01373.pdf) - Ethna implements a novel method that accurately measures the degrees of Ethereum nodes.
+- [Ethna：分析以太坊区块链的底层点对点网络](https://arxiv.org/pdf/2010.01373.pdf) - Ethna 实现了一种准确测量以太坊节点度数的新方法。
 
-- [Community Detection in Blockchain Social Networks](https://arxiv.org/pdf/2101.06406.pdf) -  A novel community detection algorithm which is designed for low-rank signals on graph can help find users’ communities based on user-token subscription.
+- [区块链社交网络中的社区检测](https://arxiv.org/pdf/2101.06406.pdf) - 一种新的社区检测算法，专为图上的低秩信号设计，可以帮助基于用户令牌找到用户的社区 订阅。
 
-- [Block Access Control in Wireless Blockchain Network: Design, Modeling and Analysis](https://arxiv.org/pdf/2104.13144.pdf) -  The results show that BAC approaches can help the network to achieve a high transaction throughput while improving block utilization and saving computational power. Meanwhile, the trade-off between transaction throughput and block utilization is demonstrated, which can act as a guidance for practical deployment of blockchain.
+- [无线区块链网络中的块访问控制：设计、建模和分析](https://arxiv.org/pdf/2104.13144.pdf) - 结果表明 BAC 方法可以帮助网络实现高交易吞吐量，同时提高块 利用和节省计算能力。 同时，展示了交易吞吐量和区块利用率之间的权衡，可以为区块链的实际部署提供指导。
 
-- [Towards External Calls for Blockchain and Distributed Ledger Technology](https://arxiv.org/pdf/2105.10399.pdf) - In this paper authors show that this belief is preconceived by demonstrating a method that enables blockchain and distributed ledger technologies to perform calls to external systems initiated from the blockchain/DLT itself.
+- [对外呼吁区块链和分布式账本技术](https://arxiv.org/pdf/2105.10399.pdf) - 在本文中，作者通过展示一种使区块链和分布式账本技术能够执行的方法表明，这种信念是先入为主的 从区块链/分布式账本技术本身发起的对外部系统的调用。
 
-- [Managing Blockchain Systems and Applications: A Process Model for Blockchain Configurations](https://arxiv.org/pdf/2105.02118.pdf) - Authors demonstrate the applicability of the proposed blockchain configuration process model on four blockchain projects
+- [管理区块链系统和应用程序：区块链配置的过程模型](https://arxiv.org/pdf/2105.02118.pdf) - 作者展示了所提出的区块链配置过程模型在四个区块链项目上的适用性
 
-- [A Note on Optimal Fees for Constant Function Market Makers](https://arxiv.org/pdf/2105.13510.pdf) -  Authors present framework that can be used to compute optimal fees for real world pools using past trade data.
+- [关于恒定函数做市商的最佳费用的说明](https://arxiv.org/pdf/2105.13510.pdf) - 作者提出了一个框架，该框架可用于使用过去的交易数据计算现实世界矿池的最佳费用。
 
-- [Reward Mechanism for Blockchains Using Evolutionary Game Theory](https://arxiv.org/pdf/2104.05849.pdf) - In this paper, authors develop a reward mechanism framework that could apply to many PoS blockchains.
+- [使用进化博弈论的区块链奖励机制](https://arxiv.org/pdf/2104.05849.pdf) - 在这篇论文中，作者开发了一个可以应用于许多 PoS 区块链的奖励机制框架。
 
-- [Summing Up Smart Transitions](https://arxiv.org/pdf/2105.07663.pdf) - In this paper, authors present a generalization of first-order logic which can express the unbounded sum of balances. 
+- [智能转换总结](https://arxiv.org/pdf/2105.07663.pdf) - 在这篇论文中，作者提出了一种一阶逻辑的概括，它可以表达无限的余额和。
 
-- [100+ Metrics for Software Startups - A Multi-Vocal Literature Review](https://arxiv.org/pdf/1901.04819.pdf) -  Using data in the form of metrics can help software startups to make the right decisions amidst uncertainty and limited resources. 
+- [软件初创公司的 100 多个指标 - 多声文献回顾](https://arxiv.org/pdf/1901.04819.pdf) - 使用度量形式的数据可以帮助软件初创公司在不确定性和不确定性中做出正确的决策 有限的资源。
 
-- [Blockchain Networks: Data Structures of Bitcoin , Monero, Zcash, Ethereum, Ripple and IOTA](https://arxiv.org/pdf/2103.08712.pdf) - Authors discuss how blockchain data can be abstracted as various types of networks, and how network abstractions used to reap insights into the structure.
+- [区块链网络：比特币、Monero、Zcash、Ethereum、Ripple 和 IOTA 的数据结构](https://arxiv.org/pdf/2103.08712.pdf) - 作者讨论了如何将区块链数据抽象为各种类型的网络，以及 网络抽象如何用于深入了解结构。
 
-- [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets) - Written by Fabian Schar, gives an overview of blockchain based markets with technical details but in a digestable format; great paper for new comers to the space.
+- [去中心化金融：基于区块链和智能合约的金融市场](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract- based-financial-markets) - 由 Fabian Schar 撰写，概述了基于区块链的市场以及技术细节，但采用易于理解的格式； 适合该领域新手的好论文。
 
-#### Special Author's compilations:
+#### 作者的特别汇总:
 
-- [All-about-NFT security](https://graph.org/NFT-security-01-28) 
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
+- [关于 NFT 安全性的一切](https://graph.org/NFT-security-01-28) 
+- [现有的所有 ETH 安全工具](https://graph.org/ETHSec-Tools-02-13)
+- [所有优秀的 TG 开发社区](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
+- [所有已知的智能合约端和用户端攻击](https://graph.org/Data-02-14)
 - [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
+- [所有已知的智能合约端和用户端攻击](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [所有可能的交易分析、加密货币取证和调查工具在一个注释中列出和参考](https://graph.org/TX-Analysis-tools-04-19)
+- [存储加密冷钱包攻击防御方法最佳实践的关键原则](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 
 
-#### Side-Chains
+#### 支链
 
-- [POA Network](https://www.poa.network/)
-- [POA Bridge](https://bridge.poa.net/)
-- [POA Bridge UI](https://github.com/poanetwork/bridge-ui)
-- [POA Bridge Contracts](https://github.com/poanetwork/poa-bridge-contracts)
+- [POA 网络](https://www.poa.network/)
+- [POA 桥](https://bridge.poa.net/)
+- [POA 桥用户界面](https://github.com/poanetwork/bridge-ui)
+- [POA 桥合约](https://github.com/poanetwork/poa-bridge-contracts)
 - [Loom Network](https://github.com/loomnetwork)
 - [Matic Network](https://docs.matic.network/)
 
 
 #### EIP - 1559
 
-- [EIP1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq) - EIP1559 FAQ
+- [EIP1559 FAQ](https://notes.ethereum.org/@vbuterin/eip-1559-faq) - EIP 1559 常见问题
 
-- [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/pdf/2102.10567.pdf)- Authors perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems.
+- [EIP-1559 以太坊费用市场的动态分析](https://arxiv.org/pdf/2102.10567.pdf)- 作者通过结合博弈论和动力系统的工具，对由此产生的费用市场动态机制进行了全面分析。
 
-- [Stochastic Properties of EIP1559 Basefees](https://arxiv.org/pdf/2105.03521.pdf) - Authors explain the new pricing mechanism for the Ethereum developed to bring stability to fluctuating gas prices.
+- [EIP1559 基础费用的随机特性](https://arxiv.org/pdf/2105.03521.pdf) - 作者解释了为稳定波动的天然气价格而开发的以太坊新定价机制。
 
-- [Transaction Fee Mechanism Design for the Ethereum Blockchain: An Economic Analysis of EIP-1559](https://arxiv.org/pdf/2012.00854.pdf) - This report assesses the game-theoretic strengths and weaknesses of the proposal and explores some alternative designs.
+- [以太坊区块链的交易费用机制设计：EIP-1559 的经济分析](https://arxiv.org/pdf/2012.00854.pdf) - 本报告评估了该提案的博弈论优势和劣势，并探讨了一些替代设计。
 
 
-#### Ethereum 2.0
+#### 以太坊 2.0
 
-- [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
-- [Specification](https://github.com/ethereum/annotated-spec)
+- [Serenity 设计原理](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
+- [规范](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
 - [Beaconscan](https://beaconscan.com/)
-- [Ethereum 2.0 Stats](https://eth2stats.io/)
-- [Ethereum 2.0 Docs](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
-- [Ethereum 2.0 Clients](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
-- [Ethereum 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
+- [以太坊 2.0 统计](https://eth2stats.io/)
+- [以太网 2.0 文档](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/)
+- [以太网 2.0 客户端](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth2.0-teams/teams-building-eth2.0/)
+- [以太网 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
 
 
-#### MEV - Maximal Extractable Value / Miner Extractable Value:
+#### MEV - 最大可提取价值/矿工可提取价值:
 
 
-- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511v2.pdf) - Authors provide evidence that miners already extract Miner Extractable Value (MEV), which could destabilize the blockchain consensus security, as related work has shown.
+- [量化区块链可提取价值：森林有多黑暗？](https://arxiv.org/pdf/2101.05511v2.pdf) - 作者提供证据表明矿工已经提取了矿工可提取价值 (MEV)，这可能会破坏区块链共识 安全性，如相关工作所示。
 
-- [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/pdf/1904.05234.pdf) - Introduces the concept of MEV, the work highlights the large, complex risks created by transaction-ordering dependencies in smart contracts and the ways in which traditional forms of financial-market exploitation are adapting to and penetrating blockchain economies.
+- [Flash Boys 2.0：去中心化交易所中的抢先交易、交易重新排序和共识不稳定性](https://arxiv.org/pdf/1904.05234.pdf) - 介绍 MEV 的概念，作品突出了交易带来的巨大、复杂的风险 -排序智能合约中的依赖关系以及传统形式的金融市场剥削适应和渗透区块链经济的方式。
 
-- [Flashbots: MEV in Eth2](https://hackmd.io/@flashbots/mev-in-eth2) - In this post, authors study transaction ordering in eth2 and analyze MEV-enabled staking yields. Then they find that MEV will significantly boost validator rewards but may reinforce inequalities among participants of eth2. Authors also discuss qualitative aspects of MEV in eth2 such as the potential dynamics that will unfold between its largest stakeholders like exchanges and validator pools.
+- [Flashbots：Eth2 中的 MEV](https://hackmd.io/@flashbots/mev-in-eth2) - 在这篇文章中，作者研究了 eth2 中的交易排序并分析了支持 MEV 的质押收益率。 然后他们发现 MEV 将显着提高验证者奖励，但可能会加剧 Eth2 参与者之间的不平等。 作者还讨论了 Eth2 中 MEV 的定性方面，例如将在其最大的利益相关者（如交易所和验证者池）之间展开的潜在动态。
 
-- [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
-
-
-#### Discucssion
-
-- [SmartContractResearch Forum](https://www.smartcontractresearch.org) 
+- [区块链互操作性调查：过去、现在和未来趋势](https://arxiv.org/abs/2005.14282) - 在这篇文章中，作者研究了区块链互操作性技术和解决方案，全面概述了区块链互操作性，铺平了道路 该领域系统研究的途径。
 
 
- #### Hack Incident Reporting
+#### 探讨
 
-- [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
-- [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
-- [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
+- [智能合约研究论坛](https://www.smartcontractresearch.org) 
 
 
-# Tools Collection
+ #### 黑客事件报告
+
+- [Rekt News](https://rekt.eth.link/leaderboard) - 举报人和 DeFi 侦探向社区展示信息的匿名平台。
+- [区块链威胁情报](https://blockthreat.substack.com/) - 涵盖加密货币领域最新安全新闻、工具、事件、漏洞和威胁的时事通讯。支持[此库](https://github.com/openblocksec/blocksec-incidents)
+- [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - 涉及区块链的所有大规模安全漏洞或盗窃的列表。
+
+
+# 工具合集
 
 
 #### Ethereum Tools
 
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [现有的所有 ETH 安全工具](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io) 
 - [Node Stats](https://ethernodes.org)
