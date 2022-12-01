@@ -413,11 +413,11 @@
 - [针对最薄弱的环节：以太坊智能合约中的社会工程攻击](https://arxiv.org/pdf/2105.00132.pdf) - 在这项工作中，作者探讨了智能合约蜜罐之外的新社会工程攻击的可能性和存在性。
 - [OptSmart：智能合约的空间高效乐观并发执行](https://arxiv.org/pdf/2102.04875.pdf) - 在本文中，作者开发了一个并发矿工，它通过使用乐观软件并发执行 AU 来提议区块 事务性内存系统 (STM)。
 - [DEFECTCHECKER：通过分析 EVM 字节码自动检测智能合约缺陷](https://arxiv.org/pdf/2009.02663.pdf) - 实验结果表明，DefectChecker 在速度和准确性方面都比这些工具表现更好。
-- [SmartBugs：A Framework to Analyze Solidity Smart Contracts](https://arxiv.org/pdf/2007.04771.pdf) - 作者展示了它如何通过向工具 SmartCheck 提供一个新的扩展来简化分析工具的集成和比较，改进 基本上检测与 DASP10 类别不良随机性、时间操纵和访问控制相关的漏洞（已识别的漏洞从 11% 增加到 24%）。
-- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf) - 在本文中，作者确定了一组影响智能合约部署和交易成本的 19 种 Solidity 代码气味，以及 通过一项涉及 34 名参与者的调查评估此类气味的相关性。
-- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf) - 在本文中，作者考虑设计可证明安全的平行链协议，以适应这种挖矿能力的变化 .
-- [Ethereum SmartContract Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT 框架支持对新漏洞类型进行迁移学习，只需对 DNN 模型架构进行最少的修改和重新训练 高架。
-- [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - 实验结果表明，SCSGuard 实现了高精度 (0.94)、精确度 (0.96\%) 和召回率 (0.98) 针对庞氏骗局和蜜罐骗局，以及新的网络钓鱼智能合约。
+- [SmartBugs：一个分析 Solidity 智能合约的框架](https://arxiv.org/pdf/2007.04771.pdf) - 作者展示了它如何通过向工具 SmartCheck 提供一个新的扩展来简化分析工具的集成和比较，改进 基本上检测与 DASP10 类别不良随机性、时间操纵和访问控制相关的漏洞（已识别的漏洞从 11% 增加到 24%）。
+- [分析 Solidity 智能合约中的 Gas 泄漏](https://arxiv.org/pdf/2008.05449.pdf) - 在本文中，作者确定了一组影响智能合约部署和交易成本的 19 种 Solidity 代码气味，以及 通过一项涉及 34 名参与者的调查评估此类气味的相关性。
+- [在可变挖矿能力下保护平行链协议](https://arxiv.org/pdf/2105.02927.pdf) - 在本文中，作者考虑设计可证明安全的平行链协议，以适应这种挖矿能力的变化 .
+- [使用深度神经网络和迁移学习的以太坊智能合约漏洞检测](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT 框架支持对新漏洞类型进行迁移学习，只需对 DNN 模型架构进行最少的修改和重新训练 高架。
+- [SCSGuard：以太坊智能合约的深度诈骗检测](https://arxiv.org/pdf/2105.10426.pdf) - 实验结果表明，SCSGuard 实现了高精度 (0.94)、精确度 (0.96\%) 和召回率 (0.98) 针对庞氏骗局和蜜罐骗局，以及新的网络钓鱼智能合约。
 - [通过基于区块链的数字孪生和威胁情报保护网络物理系统](https://arxiv.org/pdf/2105.08886.pdf) - 本文重点介绍通过集成人工智能 (AI) 和区块链来保护 CPS，以实现智能和 可信的 DT。
 - [区块链互操作性调查：过去、现在和未来趋势](https://arxiv.org/abs/2005.14282) - 在这篇文章中，作者研究了区块链互操作性技术和解决方案，全面概述了区块链互操作性，铺平了道路 该领域系统研究的途径。
 - [SoK：透明的不诚实：对区块链的抢先攻击](https://arxiv.org/abs/2106.00667) - 一篇关于安全智能合约设计决策和 DApp 抢先交易可能性的论文。
