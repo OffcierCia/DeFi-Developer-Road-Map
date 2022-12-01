@@ -45,7 +45,7 @@
 |      支链      | [点击查看](#支链)                           |
 | 矿工可提取价值 | [点击查看](#最大可提取价值//矿工可提取价值) |
 |    工具合集    | [点击查看](#工具合集)                       |
-|   以太坊 2.0   | [点击查看](#以太坊 2.0)                     |
+|   以太坊 2.0   | [点击查看](#以太坊2.0)                      |
 |      前端      | [点击查看](#前端)                           |
 |    项目管理    | [点击查看](#项目管理)                       |
 
@@ -622,7 +622,7 @@
 - [以太坊区块链的交易费用机制设计：EIP-1559 的经济分析](https://arxiv.org/pdf/2012.00854.pdf) - 本报告评估了该提案的博弈论优势和劣势，并探讨了一些替代设计。
 
 
-#### 以太坊 2.0
+#### 以太坊2.0
 
 - [Serenity 设计原理](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
 - [规范](https://github.com/ethereum/annotated-spec)
@@ -661,7 +661,7 @@
 # 工具合集
 
 
-#### Ethereum Tools
+#### 以太网工具
 
 - [现有的所有 ETH 安全工具](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
