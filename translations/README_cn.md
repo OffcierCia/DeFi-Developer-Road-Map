@@ -33,11 +33,11 @@
 | :--------------: | ------------------------------------------------------------ |
 |       基础       | [点击查看](#基础)                                            |
 |      dApps       | [点击查看](#dApps)                                           |
-|    Frameworks    | [点击查看](#框架)                                            |
+|       框架       | [点击查看](#框架)                                            |
 |    zk-snarks     | [点击查看](#ZK-SNARKs)                                       |
-| Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings) |
-|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety) |
-|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi) |
+|     更多阅读     | [点击查看](#更多阅读)                                        |
+|    安全与保障    | [点击查看](#安全与保障)                                      |
+|       DeFi       | [Explore](#DeFI)                                             |
 |       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service) |
 |       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft) |
 |   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins) |
@@ -330,172 +330,126 @@
 - [Dework](https://dework.xyz/) | Web3 Trello 具有代币支付、凭证、赏金......
 - [Wonderverse](https://www.wonderverse.xyz/) | Jira 的替代品具有直观的任务管理系统，允许 DAO 支付贡献者和在他们的项目中进行协作。
 
-# Further Readings
+# 更多阅读
 
-#### Inspired by:
+#### 受启发于：
 
-- [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
-- [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
-- [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path) 
-- [ADF](https://github.com/ong/awesome-decentralized-finance) 
-- [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
-- [BlockTools](https://github.com/nujabes403/blockchains-tools)
-- [SAW List](https://simpleaswater.com/defi/#analytics)
+- [ETH Dapp 开发者路线图](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
+- [DeFi 防御 DAO 工具](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools) 
+- [区块链学习路径](https://github.com/protofire/blockchain-learning-path) 
+- [一个很棒的去中心化金融项目](https://github.com/ong/awesome-decentralized-finance) 
+- [DeFi 工具箱](https://github.com/gweicz/defi-toolkit)
+- [区块链工具](https://github.com/nujabes403/blockchains-tools)
+- [SAW 列表](https://simpleaswater.com/defi/#analytics)
 - [Public APIs](https://github.com/public-apis/public-apis#cryptocurrency)
-- [BTC List](https://github.com/igorbarinov/awesome-bitcoin)
+- [BTC 列表](https://github.com/igorbarinov/awesome-bitcoin)
 - [ConsenSys](https://github.com/ConsenSys/ethereum-developer-tools-list)
-- [EVM Tools](https://github.com/CoinCulture/evm-tools)
+- [EVM 工具](https://github.com/CoinCulture/evm-tools)
 - [Solidity Pro](https://github.com/bkrem/awesome-solidity)
-- [Zhihu Research Base](https://zhuanlan.zhihu.com/p/265374061)
+- [知乎](https://zhuanlan.zhihu.com/p/265374061)
 - [OpenZeppelin - Contracts / Test Helpers + More ](https://github.com/OpenZeppelin)
-- [Awesome Ethereum Resource Lists](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
-- [Comprehensive Ethereum Developer Resource List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
-- [Smart Contract Learning](https://github.com/arbazkiraak/SmartContractLearning)
-- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [很棒的以太坊资源列表](https://medium.com/quiknode/awesome-ethereum-resource-lists-dd28a9c17fc1)
+- [全面的以太坊开发者资源列表](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md)
+- [学习智能合约](https://github.com/arbazkiraak/SmartContractLearning)
+- [加密经济学](https://github.com/jpantunes/awesome-cryptoeconomics)
 - [Tudelft Repo](https://repository.tudelft.nl)
-- [The Reading List](https://www.decentralised.co/the-reading-list) and [This repo](https://github.com/sambacha/compendium) with [Engineering Data List](https://github.com/sambacha/art-of-engineering/blob/master/ENGINEERING_ART_OF.md)
-- [Eth Reentrancy Attack Patterns](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
-- [Plugin for testing smart contracts](https://github.com/meherett/pytest-eth)
-- [Solidity function profiler](https://github.com/EricR/sol-function-profiler)
-- [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
-- [DeFi security list](https://github.com/freight-chain/defi-sec)
-- [DeFi Threats Base](https://github.com/freight-trust/defi-threat)
-- [Hacking](https://github.com/geekshiv/Smart-Contract-Hacking)
-- [Secureum Bootcamp](https://hackmd.io/@secureum/bootcamp-epoch0-announcement)
+- [阅读列表](https://www.decentralised.co/the-reading-list)还有[这个库](https://github.com/sambacha/compendium)
+- [Eth 重入攻击模式](https://github.com/uni-due-syssec/eth-reentrancy-attack-patterns)
+- [用于测试智能合约的插件](https://github.com/meherett/pytest-eth)
+- [Solidity 函数分析器](https://github.com/EricR/sol-function-profiler)
+- [智能合约攻击向量](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+- [DeFi 安全列表](https://github.com/freight-chain/defi-sec)
+- [DeFi 威胁库](https://github.com/freight-trust/defi-threat)
+- [黑客](https://github.com/geekshiv/Smart-Contract-Hacking)
+- [Secureum 训练营](https://hackmd.io/@secureum/bootcamp-epoch0-announcement)
 - [SCSVS](https://github.com/securing/SCSVS)
-- [Smart Contract Inspector](https://github.com/tintinweb/smart-contract-inspector)
-- [Blocksec ctfs](https://github.com/openblocksec/blocksec-ctfs)
-- [Builder List](https://based.builders)
-- [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
+- [检查智能合约](https://github.com/tintinweb/smart-contract-inspector)
+- [区块链安全夺旗](https://github.com/openblocksec/blocksec-ctfs)
+- [Builder 列表](https://based.builders)
+- [从 0 到 Web3.0](https://github.com/kay-is/web3-from-zero)
 
 
-#### Security & Safety:
+#### 安全与保障：
 
-**|** Read 3 awesome cheatsheets: 
+**|** 阅读 3 个很棒的短文: 
 
-- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
-- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13), 
-- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20) and 
-- [All about NFT security](https://graph.org/NFT-security-01-28)
+- [所有已知的智能合约端和用户端攻击](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
+- [现有的所有 ETH Sec 工具](https://graph.org/ETHSec-Tools-02-13), 
+- [Solidity 速查表包](https://graph.org/Solidity-Cheatsheets-Pack-03-20) 和 [关于 NFT 安全性的一切](https://graph.org/NFT-security-01-28)
   #
+- [区块链安全路线图](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - 本文将铺设一条路径/路线图，用户将沿着这条路径/路线图轻松进入区块链安全领域。
+- [荷鲁斯之眼：发现和分析对以太坊智能合约的攻击](https://arxiv.org/pdf/2101.06204.pdf) -调查显示，过去几年攻击次数不一定减少，但某些漏洞的数量保持不变。
+- [比特币易受大额交易贿赂攻击的分析](https://arxiv.org/pdf/2105.07501.pdf) -  在这篇论文中，作者设计了一种新颖的贿赂攻击，并表明这种保证可以被极大地破坏。
+- [区块链技术对量子攻击的脆弱性](https://arxiv.org/pdf/2105.01815.pdf) - 在这里，作者分析了当今部署的主要基于区块链的加密货币——包括比特币、以太币、莱特币和 ZCash，并确定了量子攻击的风险敞口。
+- [BLOCKEYE](https://arxiv.org/pdf/2103.02873.pdf) - 寻找区块链上的 DeFi 攻击。 在这篇论文中，作者提出了 BLOCKEYE，一种针对以太坊区块链上 DeFi 项目的实时攻击检测系统。
+- [动态多层区块链网络中的拓扑异常检测](https://arxiv.org/pdf/2106.01806.pdf) - 作者介绍了动态多层网络中结构异常检测的新拓扑视角。
+- [用Dafny验证增量默克尔树算法](https://arxiv.org/pdf/2105.06009.pdf) - 作者展示了我们新的和原始的算法正确性证明以及 Dafny 机器可检查的版本。
+- [GoHammer 区块链性能测试工具](https://arxiv.org/pdf/2105.00847.pdf) - 该工具将有助于开发更高效的去中心化系统，并将影响降低开发去中心化应用程序项目的成本。
+- [EtherClue：对以太坊智能合约攻击的数字调查](https://arxiv.org/pdf/2104.05293.pdf) - 在这项工作中，作者使用专为区块链使用而设计的妥协指标研究了以太坊攻击的事后调查问题。
+- [每个可能用例的区块链平台需求分析和评估](https://arxiv.org/pdf/2103.03209.pdf) - 本文档提供了理解区块链及其应用程序的通用模型。
+- [关于常数函数做市商隐私的说明](https://arxiv.org/pdf/2103.01193.pdf) -  在本说明中，作者表明，在最合理的对手模型下，CFMM 的常规实现不可能实现隐私，并提供了一些缓解策略。
+- [以太坊智能合约中的安全漏洞调查](https://arxiv.org/pdf/2105.06974.pdf) -  本文通过分析这些漏洞的利用案例场景，阐述了8个特定于BT应用层的漏洞。
+- [一种检测以太坊智能合约中拒绝服务漏洞的方法](https://arxiv.org/pdf/2106.01340.pdf) -  在本文中，作者提出了一个框架，该框架结合了静态和动态分析来检测由于 ETH 智能合约中的意外恢复而导致的 DoS。
+- [AGSolT：Solidity 智能合约自动测试用例生成工具](https://arxiv.org/pdf/2102.08864.pdf) - 作者发现 AGSolT 能够通过这两种方法实现高分支超载，甚至在 Github 上一些最流行的 Solidity 智能合约中发现了一些错误。
+- [用于以太坊交易跟踪的时间量快照多图](https://arxiv.org/pdf/2102.08013.pdf) - 作者提出 TASMG 将以太坊交易记录建模为时间数量网络，然后提出 TAW 以通过交易记录有效地嵌入账户，它集成了所提议网络的时间和数量信息。
+- [解密加密货币挖矿攻击：一种基于数字取证和动态网络特征的半监督学习方法](https://arxiv.org/pdf/2102.10634.pdf) - 本文解决了使用动态网络特征在通用网络环境中检测加密挖掘攻击的问题。
+- [FASTEN：使用智能合约进行公平和安全的分布式投票](https://arxiv.org/pdf/2102.10594.pdf) - 作者证明，隐私泄露的可能性很小，可以忽略不计。 此外，在以太坊上执行 FASTEN 的成本分析与大多数现有选举成本相当。
+- [挖矿成本、挖矿奖励和区块链安全之间的相互依赖关系](https://arxiv.org/pdf/2102.08107.pdf) - 本文研究了工作量证明区块链的运营成本在多大程度上与防止攻击的成本有内在联系，以及底层数字账本安全预算在多大程度上与加密货币市场结果相关
+- [HyperSec：用于区块链安全监控的可视化分析](https://arxiv.org/pdf/2103.14414.pdf) - HyperSec，一种可视化分析监控工具，可提供一目了然的相关信息，以检测对 Hyperledger Fabric 的持续攻击。
+- [以太坊智能合约中的重入漏洞识别](https://arxiv.org/pdf/2105.02881.pdf) - 在本文中，作者提出了一个结合静态和动态分析的框架来检测以太坊智能合约中的重入漏洞。
+- [区块链协议安全分析的通用框架](https://arxiv.org/pdf/2009.09480v2.pdf) - 本文提出了一个简约的抽象概念，足以捕获和比较许多著名的无许可区块链协议的属性。
+- [Coinbugs：枚举常见的区块链实现级漏洞](https://arxiv.org/pdf/2104.06540.pdf) -  本文面向旨在开始区块链安全审查的安全测试人员和区块链开发人员，作为常见陷阱的参考。
+- [智能合约的漏洞和未决问题：系统映射](https://arxiv.org/pdf/2104.12295.pdf) - 本文进行了系统的文献映射，确定了分析 SC 的举措和工具以及如何处理已识别的漏洞。
+- [SuMo：Solidity 智能合约的突变测试策略](https://arxiv.org/pdf/2105.03626.pdf) - 作者报告了 SuMo 对开源项目的首次评估，这些项目有可用的测试套件。 作者得到的结果令人鼓舞，他们认为 SuMo 可以有效地帮助开发者交付更可靠的智能合约。
+- [区块链的稳定性：去杠杆螺旋和稳定币攻击](https://arxiv.org/pdf/1906.02152.pdf) - 2019 年本文首次发布时首次预测了螺旋式去杠杆化的可能性，随后在 2020 年 Dai 的黑色星期四危机中观察到。
+- [区块链系统的匿名信任标记方案](https://arxiv.org/pdf/2010.00206.pdf) - 在本文中，作者提出了一种普遍适用于任何加密货币的区块链系统匿名信任标记方案。
+- [以太坊智能合约漏洞的框架和数据集](https://arxiv.org/pdf/2009.02066.pdf) -  在本文中，为了填补空白，作者首先从多个来源收集尽可能多的智能合约错误，并通过扩展 IEEE 软件异常标准分类将这些错误分为 9 类。
+- [针对区块链网络中不同矿工行为攻击的安全多链共识方案。](https://arxiv.org/pdf/2106.02383.pdf) - 实验结果表明，PoDT 对 DMB 攻击是安全的，并且在多链环境中比传统的共识方案更有效。
+- [联盟链共识机制综述](https://arxiv.org/pdf/2102.12058.pdf) - 本文重点介绍了企业区块链共识算法中的几种最先进的解决方案。
+- [提取在 Coq 中测试和验证的智能合约](https://arxiv.org/pdf/2012.09138.pdf) - 作者基于 MetaCoq 的认证擦除将 Coq 程序提取为函数式语言。
+- [无需信任、保护隐私的区块链桥](https://arxiv.org/pdf/2102.04660.pdf) - 在本文中，作者提出了一种协议，用于促进无需信任的跨链加密货币传输，以保护桥接取款的隐私。
+- [以太坊智能合约开发的安全清单：模式和最佳实践](https://arxiv.org/pdf/2008.04761.pdf) - 作者涵盖了软件生命周期的设计、编码、测试和部署阶段。
+- [使用机器学习对智能合约进行动态漏洞检测](https://arxiv.org/pdf/2102.07420.pdf) - 在这项工作中，作者提出了 Dynamit，这是一种用于检测以太坊智能合约中的重入漏洞的监控框架。
+- [针对最薄弱的环节：以太坊智能合约中的社会工程攻击](https://arxiv.org/pdf/2105.00132.pdf) - 在这项工作中，作者探讨了智能合约蜜罐之外的新社会工程攻击的可能性和存在性。
+- [OptSmart：智能合约的空间高效乐观并发执行](https://arxiv.org/pdf/2102.04875.pdf) - 在本文中，作者开发了一个并发矿工，它通过使用乐观软件并发执行 AU 来提议区块 事务性内存系统 (STM)。
+- [DEFECTCHECKER：通过分析 EVM 字节码自动检测智能合约缺陷](https://arxiv.org/pdf/2009.02663.pdf) - 实验结果表明，DefectChecker 在速度和准确性方面都比这些工具表现更好。
+- [SmartBugs：A Framework to Analyze Solidity Smart Contracts](https://arxiv.org/pdf/2007.04771.pdf) - 作者展示了它如何通过向工具 SmartCheck 提供一个新的扩展来简化分析工具的集成和比较，改进 基本上检测与 DASP10 类别不良随机性、时间操纵和访问控制相关的漏洞（已识别的漏洞从 11% 增加到 24%）。
+- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf) - 在本文中，作者确定了一组影响智能合约部署和交易成本的 19 种 Solidity 代码气味，以及 通过一项涉及 34 名参与者的调查评估此类气味的相关性。
+- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf) - 在本文中，作者考虑设计可证明安全的平行链协议，以适应这种挖矿能力的变化 .
+- [Ethereum SmartContract Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT 框架支持对新漏洞类型进行迁移学习，只需对 DNN 模型架构进行最少的修改和重新训练 高架。
+- [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - 实验结果表明，SCSGuard 实现了高精度 (0.94)、精确度 (0.96\%) 和召回率 (0.98) 针对庞氏骗局和蜜罐骗局，以及新的网络钓鱼智能合约。
+- [通过基于区块链的数字孪生和威胁情报保护网络物理系统](https://arxiv.org/pdf/2105.08886.pdf) - 本文重点介绍通过集成人工智能 (AI) 和区块链来保护 CPS，以实现智能和 可信的 DT。
+- [区块链互操作性调查：过去、现在和未来趋势](https://arxiv.org/abs/2005.14282) - 在这篇文章中，作者研究了区块链互操作性技术和解决方案，全面概述了区块链互操作性，铺平了道路 该领域系统研究的途径。
+- [SoK：透明的不诚实：对区块链的抢先攻击](https://arxiv.org/abs/2106.00667) - 一篇关于安全智能合约设计决策和 DApp 抢先交易可能性的论文。
+- [SoK：Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - 一篇系统化预言机设计方案、展示攻击并讨论攻击缓解策略的论文。
 
-- [Blockchain Security Roadmap](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - This article will be laying down a path/roadmap, following which users will easily enter into the field of Blockchain Security together. 
+##### Web2 网络安全
 
-- [ The Eye of Horus: Spotting and Analyzing Attacks on Ethereum Smart Contracts](https://arxiv.org/pdf/2101.06204.pdf) -Investigation shows that the number of attacks did not necessarily decrease over the past few years, but for some vulnerabilities remained constant.
+- [TryHackMe：通过浏览器完成充满挑战和谜题的房间](https://tryhackme.com/welcome) - 通过实际任务进行网络安全培训
 
-- [Analysis of Bitcoin Vulnerability to Bribery Attacks Launched Through Large Transactions](https://arxiv.org/pdf/2105.07501.pdf) -  In this paper, authors design a novel bribery attack and show that this guarantee can be hugely undermined.
+- [揭露：网络安全研究最佳实践的跨行业和供应商不可知标准](https://disclose.io/) - 开源维护者和行业专家通过模板、工具提供协助、信息和帮助的中央来源 , 数据集...
 
-- [Vulnerability of Blockchain Technologies to Quantum Attacks](https://arxiv.org/pdf/2105.01815.pdf) - Here authors analyze the major blockchain-based cryptocurrencies deployed today -- including Bitcoin, Ethereum, Litecoin and ZCash, and determine risk exposure to quantum attacks. 
+- [Hack The Box](https://www.hackthebox.com/) - 一个黑客的游乐场，可以在促进实践培训体验的协作生态系统中动态地与其他用户竞争
 
-- [BLOCKEYE](https://arxiv.org/pdf/2103.02873.pdf) - Hunting For DeFi Attacks on Blockchain. In this paper, authors proposed BLOCKEYE, a real-time attack detection system for DeFi projects on the Ethereum blockchain. 
+- [OverTheWire](https://overthewire.org/wargames/) - 社区提供的一组兵棋和挑战，用于在有趣的兵棋中学习和实践安全概念。
 
-- [Topological Anomaly Detection in Dynamic Multilayer Blockchain Networks](https://arxiv.org/pdf/2106.01806.pdf) - Authors introduce a new topological perspective to structural anomaly detection in dynamic multilayer networks.
+- [Pentesterlab](https://pentesterlab.com/) - 动手实验，涵盖从基础到高级的不同课程。
 
-- [Verification of the Incremental Merkle Tree Algorithm with Dafny](https://arxiv.org/pdf/2105.06009.pdf) - Authors present our new and original correctness proof of the algorithm along with the Dafny machine-checkable version.
+- [Portswigger 实验室](https://portswigger.net/web-security/all-labs) - 一组带有附加社区解决方案的 Web 应用程序安全实验室
 
-- [GoHammer Blockchain Performance Test Tool](https://arxiv.org/pdf/2105.00847.pdf) - This tool will help in developing more efficient decentralized systems and will affect decreasing the costs of developing decentralized application projects.
+- [Vulnhub](https://www.vulnhub.com/) - 用户上传经常试图通过利用已知漏洞获得 root 访问权限的“挑战箱”。
 
-- [EtherClue: Digital investigation of attacks on Ethereum smart contracts ](https://arxiv.org/pdf/2104.05293.pdf) - In this work, authors study the problem of post-factum investigation of Ethereum attacks using Indicators of Compromise specially crafted for use in the blockchain.
+##### Web3 网络安全
 
-- [Requirement Analyses and Evaluations of Blockchain Platforms per Possible Use Cases](https://arxiv.org/pdf/2103.03209.pdf) - This document provides a generic model of understanding blockchain and its applications.
+- [OpenZeppelin 的 Ethernaut](https://ethernaut.openzeppelin.com/) - 在以太坊虚拟机 (EVM) 的上下文中受 [OverTheWire](https://overthewire.org/) 启发的 Web3 战争游戏集合。 每个级别都是一个需要被黑客攻击的智能合约。
 
-- [A Note on Privacy in Constant Function Market Makers](https://arxiv.org/pdf/2103.01193.pdf) -  In this note, authors show that privacy is impossible with the usual implementations of CFMMs under most reasonable models of an adversary and provide some mitigating strategies.
+- [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) - 在 DeFi 和智能合约的背景下学习红队网络安全的进攻性安全游乐场。 示例包括用户需要停止系统工作的任务，从合同中取出资金......
 
-- [A Survey of Security Vulnerabilities in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.06974.pdf) -  This paper explains eight vulnerabilities that are specific to the application level of BT by analyzing the exploitation case scenarios of these vulnerabilities.
+- [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - 与 Damn Vulnerable DeFi 相同，但在 foundry 开发框架上有些差别.
 
-- [An approach to detect Denial of Service Vulnerability in Ethereum Smart Contracts](https://arxiv.org/pdf/2106.01340.pdf) -  In this paper, authors propose a framework that combines static and dynamic analysis to detect DoS due to an unexpected revert in ETH Smart Contracts.
+##### Web3 CTF（夺旗）
 
-- [AGSolT: a Tool for Automated Test-Case Generation for Solidity Smart Contracts](https://arxiv.org/pdf/2102.08864.pdf) - Authors found that AGSolT is capable of achieving high branch overage with both approaches and even discovered some errors in some of the most popular Solidity smart contracts on Github.
-
-- [Temporal-Amount Snapshot MultiGraph for Ethereum Transaction Tracking](https://arxiv.org/pdf/2102.08013.pdf) - Authors propose TASMG to model Ethereum transaction records as a temporal-amount network and then present TAW to effectively embed accounts via their transaction records, which integrates temporal and amount information of the proposed network.
-
-- [Demystifying Cryptocurrency Mining Attacks: A Semi-supervised Learning Approach Based on Digital Forensics and Dynamic Network Characteristics](https://arxiv.org/pdf/2102.10634.pdf) - This paper addresses the detection of crypto mining attacks in a generic network environment using dynamic network characteristics. 
-
-- [FASTEN: Fair and Secure Distributed Voting Using Smart Contracts](https://arxiv.org/pdf/2102.10594.pdf) - Authors prove that the probability of privacy breaches is negligibly small. Further, cost analysis of executing FASTEN over Ethereum is comparable to most of the existing cost of elections.
-
-- [Interdependencies between Mining Costs, Mining Rewards and Blockchain Security](https://arxiv.org/pdf/2102.08107.pdf) - This paper studies to what extent the cost of operating a proof-of-work blockchain is intrinsically linked to the cost of preventing attacks, and to what extent the underlying digital ledger security budgets are correlated with the cryptocurrency market outcomes
-
-- [HyperSec: Visual Analytics for blockchain security monitoring](https://arxiv.org/pdf/2103.14414.pdf) - HyperSec, a visual analytics monitoring tool that provides relevant information at a glance to detect ongoing attacks on Hyperledger Fabric. 
-
-- [Reentrancy Vulnerability Identification in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.02881.pdf) - In this paper, authors present a framework that combines static and dynamic analysis to detect Reentrancy vulnerabilities in Ethereum smart contracts.
-
-- [A General Framework for the Security Analysis of Blockchain Protocols](https://arxiv.org/pdf/2009.09480v2.pdf) - This paper presents a parsimonious abstraction sufficient for capturing and comparing properties of many well-known permissionless blockchain protocols.
-
-- [Coinbugs: Enumerating Common Blockchain Implementation-Level Vulnerabilities](https://arxiv.org/pdf/2104.06540.pdf) -  The paper is aimed at security testers aiming to start out in blockchain security reviews and blockchain developers as a reference on common pitfalls.
-
-- [Vulnerabilities and Open Issues of Smart Contracts: A Systematic Mapping](https://arxiv.org/pdf/2104.12295.pdf) - This paper conducted a systematic literature mapping identifying initiatives and tools to analyze SCs and how to deal with the identified vulnerabilities.
-
-- [SuMo: A Mutation Testing Strategy for Solidity Smart Contracts](https://arxiv.org/pdf/2105.03626.pdf) - Authors report a first evaluation of SuMo on open-source projects for which test suites were available. The results authors got are encouraging, and they suggest that SuMo can effectively help developers to deliver more reliable smart contracts.
-
-- [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/pdf/1906.02152.pdf) - The possibility of deleveraging spirals was first predicted in the initial release of this paper in 2019 and later observed in the Black Thursday crisis in Dai in 2020.
-
-- [An Anonymous Trust-Marking Scheme on Blockchain Systems](https://arxiv.org/pdf/2010.00206.pdf) - In this paper, authors propose an anonymous trust-marking scheme on blockchain systems that is universally applicable to any cryptocurrency.
-
-- [A Framework and DataSet for Bugs in Ethereum Smart Contracts](https://arxiv.org/pdf/2009.02066.pdf) -  In this paper, to fill the gap, authors first collect as many smart contract bugs as possible from multiple sources and divide these bugs into 9 categories by extending the IEEE Standard Classification for Software Anomalies.
-
-- [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
-
-- [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain. 
-
-- [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure. 
-
-- [Trustless, privacy-preserving blockchain bridges](https://arxiv.org/pdf/2102.04660.pdf) - In this paper, authors present a protocol for facilitating trust-less cross-chain cryptocurrency transfers that preserve privacy of bridge withdrawals.
-
-- [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf) - Authors cover the phases of design, coding, and testing and deployment of the software lifecycle.
-
-- [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://arxiv.org/pdf/2102.07420.pdf) - In this work authors propose Dynamit, a monitoring framework to detect reentrancy vulnerabilities in Ethereum smart contracts. 
-
-- [Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts](https://arxiv.org/pdf/2105.00132.pdf) - In this work, authors explore the possibility and existence of new social engineering attacks beyond smart contract honeypots.
-
-- [OptSmart: A Space Efficient Optimistic Concurrent Execution of Smart Contracts](https://arxiv.org/pdf/2102.04875.pdf) - In this paper, authors develop a concurrent miner that proposes a block by executing the AUs concurrently using optimistic Software Transactional Memory systems (STMs).
-
-- [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663.pdf) - Experimental results show that DefectChecker performs much better than these tools in terms of both speed and accuracy. 
-
-- [SmartBugs: A Framework to Analyze Solidity Smart Contracts](https://arxiv.org/pdf/2007.04771.pdf) - Authors show how it enables easy integration and comparison of analysis tools by presenting a new extension to the tool SmartCheck that improves substantially the detection of vulnerabilities related to the DASP10 categories Bad Randomness, Time Manipulation, and Access Control (identified vulnerabilities increased from 11% to 24%).
-
-- [Profiling Gas Leaks in Solidity Smart Contracts](https://arxiv.org/pdf/2008.05449.pdf) -  In this paper, authors identify a set of 19 Solidity code smells affecting the deployment and transaction costs of a smart contract, and assess the relevance of such smells through a survey involving 34 participants. 
-
-- [Securing Parallel-chain Protocols under Variable Mining Power](https://arxiv.org/pdf/2105.02927.pdf) -  In this paper, authors consider the design of provably secure parallel-chain protocols which can adapt to such mining power variations. 
-
-- [Ethereum SmartContract Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/pdf/2103.12607.pdf) - ESCORT framework enables transfer learning on new vulnerability types with minimal modification of the DNN model architecture and re-training overhead.
-
-- [SCSGuard: Deep Scam Detection for Ethereum Smart Contracts](https://arxiv.org/pdf/2105.10426.pdf) - Experimental results manifest that SCSGuard achieves high accuracy (0.94), precision (0.96\%) and recall (0.98) for both Ponzi and Honeypot scams, and new Phishing smart contracts.
-
-- [Securing Cyber-Physical Systems Through Blockchain-Based Digital Twins and Threat Intelligence](https://arxiv.org/pdf/2105.08886.pdf) - This article focuses on securing CPSs by integrating Artificial Intelligence (AI) and blockchain for intelligent and trusted DTs. 
-
-- [A Survey on Blockchain Interoperability: Past, Present, and Future Trends](https://arxiv.org/abs/2005.14282) - In this post, authors study blockchain interoperability techniques and solutions, providing a holistic overview of blockchain interoperability, paving the way for systematic research in this domain.
-
-- [SoK: Transparent Dishonesty: front-running attacks on Blockchain](https://arxiv.org/abs/2106.00667) - A paper on secure smart contract designs decisions and front-running possibilities on DApps.
-
-- [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/abs/2106.00667) - A paper that systemizes the design alternatives for oracles, showcases attacks, and discusses attack mitigation strategies.
-
-##### Web2 cybersecurity
-
-- [TryHackMe: Complete rooms with challenges and puzzles to break, all from the browser](https://tryhackme.com/welcome) - Hands on cybersecurity training with real-world tasks
-
-- [Disclose: Cross-industry and vendor-agnostic standards for best practives in cybersecurity research](https://disclose.io/) - Open source maintainers and industry experts providing a central source for assistance, information, and help via templates, tools, data sets...
-
-- [Hack The Box](https://www.hackthebox.com/) - A Hacker's playground to dynamically and compete against other users in a collaborative ecosystem that promotes hands-on training experience
-
-- [OverTheWire](https://overthewire.org/wargames/) - Set of wargames and challenges offered by a community to learn and practice security concepts in fun wargames.
-
-- [Pentesterlab](https://pentesterlab.com/) - Hands-on labs covering different bu classes from basic to advanced.
-
-- [Portswigger labs](https://portswigger.net/web-security/all-labs) - Set of web application secrity labs with attached community solutions
-
-- [Vulnhub](https://www.vulnhub.com/) - Users upload "challenge boxes" that often attempt to gain root access by exploiting known vulnerabilities.
-
-##### Web3 cybersecurity
-
-- [Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/) - A collection of Web3 wargamees inspired by [OverTheWire](https://overthewire.org/) in the context of the Ethereum Virtual Machine (EVM). Each level is a smart contract that needs to be hacked.
-
-- [Damn Vulnerable Defi](https://www.damnvulnerabledefi.xyz/) - An offensive security playground to learn red team cybersecurity in the context of DeFi and smart contracts. Examples include tasks where the users needs to stop the system from working, take out funds from a contract...
-
-- [Damn Vulnerable DeFi | Foundry](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) - Same as Damn Vulnerable DeFi but in the context of the foundry development framework.
-
-##### Web3 CTF (Capture The Flag)
-
-- [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every succesful challenge. The goal is to make the `isComplete()` function return true. 
+- [Capture the Ether](https://capturetheether.com/) - 由一系列分类挑战组成的传统游戏，用户在每次成功挑战后获得积分。 目标是使 isComplete() 函数返回 true。
 
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 
