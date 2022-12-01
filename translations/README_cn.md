@@ -37,11 +37,11 @@
 |    zk-snarks     | [点击查看](#ZK-SNARKs)                                       |
 |     更多阅读     | [点击查看](#更多阅读)                                        |
 |    安全与保障    | [点击查看](#安全与保障)                                      |
-|       DeFi       | [Explore](#DeFI)                                             |
-|       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service) |
-|       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft) |
-|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins) |
-|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools) |
+|       DeFi       | [点击查看](#DeFI)                                            |
+|  以太坊域名服务  | [点击查看](#以太坊域名服务)                                  |
+|       NFT        | [点击查看](#非同质化代币 (NFT))                              |
+|      稳定币      | [点击查看](#稳定币)                                          |
+|     其它资料     | [点击查看](#其它资料)                                        |
 |   Side Chains    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains) |
 |       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
 | Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection) |
@@ -455,100 +455,100 @@
 
 #### DeFI
 
-- [Finematics](https://www.youtube.com/c/Finematics/featured) - Educational videos on DeFi
+- [Finematics](https://www.youtube.com/c/Finematics/featured) - DeFi 教育视频
 
-- [Formal Analysis of Composable DeFi Protocols ](https://arxiv.org/pdf/2103.00540.pdf) - In this paper, authors propose a formal process-algebraic technique that models DeFi protocols in a compositional manner to allow for efficient property verification.
+- [可组合 DeFi 协议的形式分析](https://arxiv.org/pdf/2103.00540.pdf) - 在本文中，作者提出了一种形式化过程代数技术，以组合方式对 DeFi 协议进行建模，以实现高效的属性验证 .
 
-- [Transaction Fee Mechanism Design](https://arxiv.org/pdf/2106.01340.pdf) - Authors explain the behavior of fees in blockchains.
+- [交易费用机制设计](https://arxiv.org/pdf/2106.01340.pdf) - 作者解释了区块链中的费用行为。
 
-- [DeFi-ning DeFi: Challenges & Pathway](https://arxiv.org/pdf/2101.05589.pdf) - Good Retrospective into the beginning of decentralized finance.
+- [DeFi: 挑战与过程](https://arxiv.org/pdf/2101.05589.pdf) - 对去中心化金融开端的良好回顾。
 
-- [A theory of Automated Market Makers in DeFi](https://arxiv.org/pdf/2102.11350.pdf) -  Authors exploit our theory to formally prove a set of fundamental properties of AMMs, characterizing both structural and economic aspects. 
+- [DeFi 中自动做市商的理论](https://arxiv.org/pdf/2102.11350.pdf) - 作者利用我们的理论正式证明了 AMM 的一组基本属性，表征了结构和经济方面。
 
-- [From banks to DeFi: the evolution of the lending market](https://arxiv.org/pdf/2104.00970.pdf) -  Authors discuss the persisting reliance of DeFi lending on the traditional financial system, and conclude with the outlook of the lending market in the IOV era.
+- [从银行到 DeFi：借贷市场的演变](https://arxiv.org/pdf/2104.00970.pdf) - 作者讨论了 DeFi 借贷对传统金融体系的持续依赖，并总结了借贷市场的前景 车联网时代的借贷市场。
 
-- [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228.pdf) -In this paper, authors investigate two methods that allow them to automatically create profitable DeFi trades.
+- [关于 DeFi 协议中盈利交易的即时发现](https://arxiv.org/pdf/2103.02228.pdf) - 在本文中，作者研究了两种允许他们自动创建有利可图的 DeFi 的方法 交易。
 
-- [Maximizing Extractable Value from Automated Market Makers](https://arxiv.org/pdf/2106.01870.pdf) -  In this paper authors formally characterize rational miners as players which follow an optimal strategy in the mining game. 
+- [最大化自动做市商的可提取价值](https://arxiv.org/pdf/2106.01870.pdf) - 在本文中，作者正式将理性矿工描述为在挖矿游戏中遵循最佳策略的玩家。
 
-- [The Decentralized Financial Crisis](https://arxiv.org/pdf/2002.08099.pdf) -  In this paper authors explore how design weaknesses and price fluctuations in DeFi protocols could lead to a DeFi crisis.
+- [去中心化金融危机](https://arxiv.org/pdf/2002.08099.pdf) - 在本文中，作者探讨了 DeFi 协议的设计缺陷和价格波动如何导致 DeFi 危机。
 
-- [Liquidations: DeFi on a Knife-edge](https://arxiv.org/pdf/2009.13235v4.pdf)- In order to protect protocols from suffering losses, undercollateralized positions can be liquidated. In this paper, authors present empirical analysis of liquidations on protocols for loanable funds (PLFs).
+- [清算： DeFi 前途难料](https://arxiv.org/pdf/2009.13235v4.pdf)- 为了保护协议免受损失，可以清算抵押不足的头寸。 在本文中，作者对可贷资金 (PLF) 协议的清算进行了实证分析。
 
-- [Measuring Asset Composability as a Proxy for DeFi Integration](https://arxiv.org/pdf/2102.04227.pdf) -  Authors seek to understand the degree to which this practice may contribute to financial integration on Ethereum by examining transactions in 'composed' derivatives for the assets DAI, USDC, USDT, ETH and tokenized BTC for the full set of 344.8 million Ethereum transactions computed in 2020. 
+- [衡量资产可组合性作为 DeFi 集成的代理](https://arxiv.org/pdf/2102.04227.pdf) - 作者试图通过检查“组合”中的交易来了解这种做法对以太坊金融集成的贡献程度 ' 资产 DAI、USDC、USDT、ETH 和代币化 BTC 的衍生品，用于 2020 年计算的全套 3.448 亿以太坊交易。
 
-- [Dynamic Curves for Decentralized Autonomous Cryptocurrency Exchanges](https://arxiv.org/pdf/2101.02778.pdf) -  Authors propose in this work a new approach to constructing the AMM by proposing the idea of dynamic curves.
+- [去中心化自治加密货币交易所的动态曲线](https://arxiv.org/pdf/2101.02778.pdf) - 作者在这项工作中提出了一种通过提出动态曲线的想法来构建 AMM 的新方法。
 
-- [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf) - In this work authors formalize, analytically exposit and empirically evaluate an augmented variant of front-running: sandwich attacks, which involve front- and back-running victim TXs.
+- [去中心化链上交易所的高频交易](https://arxiv.org/pdf/2009.14021.pdf) - 在这项工作中，作者形式化、分析性地阐述并凭经验评估抢先交易的增强变体：三明治攻击， 其中涉及前端和后端运行的受害者 TX。
 
-- [Flashot](https://arxiv.org/pdf/2102.00626.pdf) - A Snapshot of Flash Loan Attack on DeFi Ecosystem.
+- [Flashot](https://arxiv.org/pdf/2102.00626.pdf) - DeFi 生态系统闪电贷攻击快照。
 
-- [DeFiRanger](https://arxiv.org/pdf/2104.15068.pdf) -  Detecting Price Manipulation Attacks on DeFi Applications.
+- [DeFiRanger](https://arxiv.org/pdf/2104.15068.pdf) - 检测对 DeFi 应用程序的价格操纵攻击。
 
-- [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/pdf/2003.03810.pdf) - Flash Loans. DeFi. Classic.
+- [用闪电贷攻击 DeFi 生态系统以获得乐趣和利润](https://arxiv.org/pdf/2003.03810.pdf) - 闪电贷，去中心化金融。 
 
-- [SoK: Decentralized Finance (DeFi) ](https://arxiv.org/pdf/2101.08778.pdf) - In this Systematization of Knowledge (SoK), authors delineate the DeFi ecosystem along its principal axes. SCSGuard: Deep Scam Detection for Ethereum Smart Contracts
+- [SoK：去中心化金融 (DeFi)](https://arxiv.org/pdf/2101.08778.pdf) - 在此知识系统化 (SoK) 中，作者沿着其主轴描述了 DeFi 生态系统。 SCSGuard：以太坊智能合约的深度诈骗检测
 
-- [Empirical Evidence from four Governance Token Distributions](https://arxiv.org/pdf/2102.10096.pdf) -  This paper provides a framework to quantify decentralization of governance power among blockchain applications.
+- [来自四种治理令牌分布的经验证据](https://arxiv.org/pdf/2102.10096.pdf) - 本文提供了一个框架来量化区块链应用程序中治理权力的分散。
 
-- [The Adoption of Blockchain-based Decentralized Exchanges](https://arxiv.org/pdf/2103.08842.pdf) -  Authors show that liquidity providers lose token value if exchange rates are volatile due to the order execution mechanism of the blockchain-based exchange.
+- [采用基于区块链的去中心化交易所](https://arxiv.org/pdf/2103.08842.pdf) - 作者表明，由于基于区块链的订单执行机制，如果汇率波动，流动性提供者会失去代币价值 交换。
 
-- [An analysis of Uniswap markets](https://arxiv.org/pdf/1911.03380.pdf) -One of the best studies on Uniswap DEX activity, authors started researching in 2019 and recently released fresh 2021 analysis.
+- [Uniswap 市场分析](https://arxiv.org/pdf/1911.03380.pdf) - 关于 Uniswap DEX 活动的最佳研究之一，作者于 2019 年开始研究，最近发布了最新的 2021 年分析。
 
-- [Finance 4.0: Design principles for a value-sensitive cryptoecnomic system to address sustainability](https://arxiv.org/pdf/2105.11955.pdf) - Authors provide new insights on designing crypto systems.
+- [金融 4.0：价值敏感的密码经济系统的设计原则以解决可持续性问题](https://arxiv.org/pdf/2105.11955.pdf) - 作者提供了有关设计密码系统的新见解。
 
-- [Behavior of Liquidity Providers in Decentralized Exchanges](https://arxiv.org/pdf/2105.13822.pdf) - Authors aim to understand how liquidity providers react to market information and how they benefit from providing liquidity in DEX.
+- [去中心化交易所中流动性提供者的行为](https://arxiv.org/pdf/2105.13822.pdf) - 作者旨在了解流动性提供者如何对市场信息做出反应，以及他们如何从提供 DEX 流动性中获益。
 
-- [Cyclic Arbitrage in Decentralized Exchange Markets](https://arxiv.org/pdf/2105.02784.pdf) - Good Read. This paper suggests that with the smart contract technology and the replicated state machine setting of Ethereum, arbitrage strategies are easier implemented in DEXes than in CEX.
+- [去中心化交易市场的循环套利](https://arxiv.org/pdf/2105.02784.pdf) - 值得一读。本文表明，借助智能合约技术和以太坊的复制状态机设置，套利策略在 DEX 中比在 CEX 中更容易实施。
 
-- [SoK: Oracles from the Ground Truth to Market Manipulation](https://arxiv.org/pdf/2106.00667.pdf) - In this SoK, authors systemize the design alternatives for oracles, showcase attacks, and discuss attack mitigation strategies.
+- [SoK：从基本事实到市场操纵的预言机](https://arxiv.org/pdf/2106.00667.pdf) - 在此 SoK 中，作者系统化了 oracles 的设计备选方案，展示了攻击并讨论了攻击缓解策略。
 
-- [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) - This paper proposes a mathematical model for AMM composition.
+- [自动做市商的组成网络](https://arxiv.org/pdf/2106.00083.pdf) - 本文提出了 AMM 组合的数学模型。
 
-- [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349) - In this paper, authors will study and analyze blockchain oracles with regard to how they provide feedback to the blockchain and smart contracts. 
+- [区块链预言机设计模式](https://arxiv.org/abs/2106.09349) - 在本文中，作者将研究和分析区块链预言机如何向区块链和智能合约提供反馈。
 
-- [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
-
-
-#### Ethereum Name Service
-
-- [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
+- [CeFi vs. DeFi - 比较中心化金融和去中心化金融](https://arxiv.org/abs/2106.08157) - 在这项工作中，作者系统地分析了 CeFi 和 DeFi 之间的差异，涵盖法律、经济、安全、隐私和市场 操纵。 作者还提供了一种结构化方法来区分 CeFi 和 DeFi 服务。
 
 
-#### Non-Fungible Token (NFT):
+#### 以太坊域名服务
 
-- [Mapping the NFT revolution](https://arxiv.org/pdf/2106.00647.pdf) - Market trends, trade networks and visual features.
-
-- [Fairness in ERC token markets](https://arxiv.org/pdf/2102.03721.pdf) - A Case Study of CryptoKitties.
-
-- [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
-
-- [Cryptoart](http://cryptoart.io/) - Top artists and artworks.
-
-- [CryptoArtPulse](https://cryptoartpulse.com/) - Live View.
-
-- [PumpMyGas](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces.
-
-- [NonFungible Tracker](https://nonfungible.com/) - NFT tracker.
-
-- [NFTS TOP]( https://cryptoslam.io) - NFT Ranking.
-
-- [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
+- [以太坊域名服务：好的、坏的和丑的](https://arxiv.org/pdf/2104.05185.pdf) - 然而，没有现有的工作研究这个新兴系统、ENS 中的安全问题和不当行为。作者通过分析数百万与 ENS 相关的事件日志，展示了 ENS 的第一项研究。
 
 
-#### Stable-Coins:
+#### 非同质化代币 (NFT):
+
+- [映射 NFT 革命](https://arxiv.org/pdf/2106.00647.pdf) - 市场趋势、贸易网络和视觉特征。
+
+- [ERC 代币市场的公平性](https://arxiv.org/pdf/2102.03721.pdf) - CryptoKitties 的案例研究。
+
+- [NFT：概述、评估、机遇与挑战](https://arxiv.org/pdf/2105.07447.pdf) - 在这份技术报告中，作者从几个方面探讨了 NFT 生态系统。
+
+- [Cryptoart](http://cryptoart.io/) - 顶级艺术家和艺术品。
+
+- [CryptoArtPulse](https://cryptoartpulse.com/) - 实时景象。
+
+- [PumpMyGas](https://pumpmygas.xyz/) - 所有主要 NFT 市场的汽油费实时估算。
+
+- [NonFungible Tracker](https://nonfungible.com/) - NFT 追踪器。
+
+- [NFTS TOP]( https://cryptoslam.io) - NFT 排行。
+
+- 以太坊不可替代代币网络：基于图的 ERC-721 生态系统分析
 
 
-- [Stablecoins 2.0](https://arxiv.org/pdf/2006.12388.pdf) - Authors seek to provide a sound foundation for stablecoin theory, with a risk-based functional characterization of the economic structure of stablecoins.
-
-- [Reducing the Volatility of Cryptocurrencies — A Survey of Stablecoins](https://arxiv.org/pdf/2103.01340.pdf) -  Authors discuss how stablecoins help reduce the volatility of cryptocurrencies by surveying different types of stablecoins and their stability mechanisms.
-
-- [Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis](https://arxiv.org/pdf/2101.08423.pdf) - Authors performed a systematic empirical analysis on real transaction activities of the Basis Cash stablecoin to relate theoretical possibilities to market observations. 
-
-- [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) -  In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
+#### 稳定币:
 
 
-#### General information:
+- [稳定币 2.0](https://arxiv.org/pdf/2006.12388.pdf) - 作者力图为稳定币理论提供坚实的基础，并对稳定币的经济结构进行基于风险的功能表征。
+
+- [降低加密货币的波动性——稳定币调查](https://arxiv.org/pdf/2103.01340.pdf) - 作者通过调查不同类型的稳定币及其稳定性机制，讨论了稳定币如何帮助降低加密货币的波动性。
+
+- [了解算法稳定币的波动性：建模、验证和实证分析](https://arxiv.org/pdf/2101.08423.pdf) - 作者对 Basis Cash 稳定币的真实交易活动进行了系统的实证分析，将理论可能性与 市场观察。
+
+- [T-Cash：可转让的法定支持硬币](https://arxiv.org/pdf/2105.04485.pdf) - 在本文中，作者提出了一种使用区块链技术的可转让电子现金方案，允许用户在系统内不断重复使用硬币。
+
+
+#### 其它资料：
 
 
 - [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) - An analysis of the crypto prices and search trends suggests the existence of big players (and not the regular users), manipulating the market after a drop in prices.
