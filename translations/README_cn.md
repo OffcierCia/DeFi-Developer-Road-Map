@@ -43,7 +43,7 @@
 |     稳定币     | [点击查看](#稳定币)                                          |
 |    其它资料    | [点击查看](#其它资料)                                        |
 |      支链      | [点击查看](#支链)                                            |
-|      MEV       | [点击查看](#MEV - 最大可提取价值/矿工可提取价值)             |
+| 矿工可提取价值 | [点击查看](#最大可提取价值/矿工可提取价值)                   |
 |    工具合集    | [点击查看](#工具合集)                                        |
 |    ETH 2.0     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20) |
 |   Front End    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end) |
@@ -374,7 +374,7 @@
 **|** 阅读 3 个很棒的短文: 
 
 - [所有已知的智能合约端和用户端攻击](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31), 
-- [现有的所有 ETH Sec 工具](https://graph.org/ETHSec-Tools-02-13), 
+- [现有的所有 ETH 安全工具](https://graph.org/ETHSec-Tools-02-13), 
 - [Solidity 速查表包](https://graph.org/Solidity-Cheatsheets-Pack-03-20) 和 [关于 NFT 安全性的一切](https://graph.org/NFT-security-01-28)
   #
 - [区块链安全路线图](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html) - 本文将铺设一条路径/路线图，用户将沿着这条路径/路线图轻松进入区块链安全领域。
@@ -634,7 +634,7 @@
 - [以太网 2.0 Forks](https://eth2-fork-mon.stokes.io/) 
 
 
-#### MEV - 最大可提取价值/矿工可提取价值:
+#### 最大可提取价值/矿工可提取价值
 
 
 - [量化区块链可提取价值：森林有多黑暗？](https://arxiv.org/pdf/2101.05511v2.pdf) - 作者提供证据表明矿工已经提取了矿工可提取价值 (MEV)，这可能会破坏区块链共识 安全性，如相关工作所示。
