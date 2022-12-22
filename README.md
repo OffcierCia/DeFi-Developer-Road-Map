@@ -209,10 +209,21 @@
 - [pyUmbral](https://github.com/nucypher/pyumbral) - Threshold proxy re-encryption cryptographic library
 - Fully Homomorphic Encryption (FHE)
 - [NuFHE](https://github.com/nucypher/nufhe) - GPU accelerated FHE library
+- [Zero knowledge proofs starter pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519)
+- [ZK-Research DB](https://polished-wash-d17.notion.site/ZK-Research-58f704196c8f4715adc412fa0cf1a17f)
+- [An awesome post from Vitalik.eth](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [Zk snarks under the hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+- [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Awesome zk](https://github.com/ventali/awesome-zk)
+- [The missing explanation of ZK-SNARKs](https://www.cryptologie.net/article/507/the-missing-explanation-of-zk-snarks)
+- [Why and How zk-SNARK Works](https://arxiv.org/pdf/1906.07221.pdf)
+- [The Zero-Knowledge Landscape](https://page1.substack.com/p/the-zero-knowledge-landscape)
+- [Your Guide to Write zkSNARKs in Go](https://consensys.net/blog/research-development/gnark-your-guide-to-write-zksnarks-in-go)
 
 #### ZK-STARKs
 
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
+- [zkSNARKs vs zkSTARKs: a primer](https://pseudotheos.mirror.xyz/_LAi4cCFz2gaC-3WgNmri1eTvckA32L7v31A8saJvqg)
 
 # Frameworks
 
