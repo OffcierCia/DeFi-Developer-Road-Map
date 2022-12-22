@@ -74,6 +74,7 @@
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [Solidity Tutorials](https://telegra.ph/Solidity-Tutorials-12-21)
 
 # Basics:
 
