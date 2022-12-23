@@ -201,6 +201,8 @@
 
 #### General info
 
+- [Introduction to Zero-Knowledge Proofs](https://www.dylandavis.net/blog/2022/12/21/zero-knowledge-proofs-introduction)
+- [Zero-knowledge proof learning journey](https://youtu.be/_6Bm5kmov3A)
 - [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
 - [ZoKrates](https://github.com/Zokrates/ZoKrates) - A toolbox for zkSNARKS on Ethereum
 - [The AZTEC Protocol](https://github.com/AztecProtocol/AZTEC) - Confidential transactions on the Ethereum network, implementation is live on the Ethereum main-net
@@ -762,6 +764,15 @@
 - [Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections) - Collections of code snippets and utility libraries.
 - [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
 
+#### Ideas
+
+- [Open DeFi Problems](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ)
+- [What to build?](https://github.com/0xngmi/ideas)
+- [Startup ideas](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-2023-Edition-48d40ccadeeb42a48056659fcce109b1)
+- [polymarket.com](https://polymarket.com)
+- [How to use PolyMarket](https://medium.com/coinmonks/how-to-use-polymarket-9ee1577fd671)
+- [Ideas Lists](https://sovs.notion.site/Education-00cadae763ea4d30ae8149041718fd7a)
+
 #### Popular Smart Contract Libraries
 
 - [Zeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Contains tested reusable smart contracts like SafeMath and OpenZeppelin SDK [library](https://github.com/OpenZeppelin/openzeppelin-sdk) for smart contract upgradeability
@@ -991,6 +1002,12 @@
 - [Tenderly](https://tenderly.co/)
 - [Dune](https://dune.xyz/)
 - [ETH Detective](https://www.ethtective.com/)
+
+#### What's next?
+
+- [Take a look](https://telegra.ph/Solidity-Tutorials-12-21)
+- [Carefully check out](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11)
+- [Work](https://t.me/s/officer_cia/700)
 
 ## Support Me:
 
