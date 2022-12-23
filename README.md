@@ -972,36 +972,9 @@
 
 #### Transaction Visualization, Scoring & Tracking:
 
-| Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
+- Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
 
-- [BlockPath](http://blockpath.com)
-- [Maltego](http://maltego.com)
-- [GraphSense](http://graphsense.info)
-- [AML Bot Investigation Regime](https://amlbot.com)
-- [Bank Verified](https://bitrankverified.com/home)
-- [Orbit](https://github.com/s0md3v/Orbit)
-- [Arronax](https://github.com/Cryptonomic/Arronax)
-- [Blockscout](https://github.com/blockscout/blockscout)
-- [BTC Parser](https://btcparser.com)
-- [Txstreet](https://txstreet.com/v/eth)
-- [Nansen](https://www.nansen.ai)
-- [Bloxy](https://bloxy.info)
-- [Solana Explorer](https://solscan.io)
-- [Elliptic](https://www.elliptic.co)
-- [ANChain AI](https://www.anchain.ai)
-- [Cipher Trace](https://ciphertrace.com)
-- [Crystal Blockchain](https://crystalblockchain.com/products)
-- [Uppsala Security](https://uppsalasecurity.com)
-- [Coinfirm](https://www.coinfirm.com)
-- [Solidus Labs](https://www.soliduslabs.com)
-- [TRM Labs](https://trmlabs.com)
-- [Halborn Forensic](https://halborn.com)
-- [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
-- [GLP](https://glprotocol.com/)
-- [BreadCrumbs](https://www.breadcrumbs.app)
-- [Tenderly](https://tenderly.co/)
-- [Dune](https://dune.xyz/)
-- [ETH Detective](https://www.ethtective.com/)
+- Follow my project: [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 
 #### What's next?
 
