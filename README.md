@@ -4,6 +4,8 @@
 
 **Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
 
+- **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author** ❗️
+
 [![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
 [![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
