@@ -973,7 +973,6 @@
 #### Transaction Visualization, Scoring & Tracking:
 
 - Check out Author's methodology, carefully read all parts of [thread](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=rFmBq_f9juLPNWslwrnB7Q)
-
 - Follow my project: [On-Chain Investigations Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 
 #### What's next?
