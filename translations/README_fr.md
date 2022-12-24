@@ -93,7 +93,7 @@
 - Langages de niveau supérieur d'Ethereum (**Solidity**, Vyper, LLL, Serpent)
 - Compiler, tester, déployer des smart contracts
 - Interagir avec les smart contracts en utilisant web3.js ou web3.py
-- Lire [Comment fonctionne Ethereum ?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=Les%20Ethereum%20blockchain%20 utilise%20un,tokens%20sont%20générés%20et%20attribués.)
+- Lire [Comment fonctionne Ethereum ?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#:~:text=Les%20Ethereum%20blockchain%20utilise%20un,tokens%20sont%20générés%20et%20attribués.)
 - Lisez [cet article] (https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 - Lire la [documentation Truffle](https://truffleframework.com/docs/) / [documentation Hardhat](https://hardhat.org/getting-started/)
 - Lire la [Documentation Web3](https://web3js.readthedocs.io/en/1.0/) / [Documentation Ethers](https://docs.ethers.io/v5/)
