@@ -1018,4 +1018,4 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 ##
 
-(👍 ͡❛ ͜ʖ ͡❛)👍 Thank you! 
+**Thank you! Stay safe!**
