@@ -173,12 +173,13 @@
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
-- [Vyper](https://github.com/ethereum/vyper)
+- [Vyper](https://github.com/vyperlang/vyper)
 - [Atom](https://atom.io/)
 - [Etheratom](https://atom.io/packages/etheratom)
 - [Autocomplete Solidity](https://atom.io/packages/autocomplete-solidity)
 - [Language Solidity](https://atom.io/packages/language-solidity)
 - [Vim solidity](https://github.com/tomlion/vim-solidity)
+- [Vim vyper](https://github.com/vyperlang/vim-vyper)
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide)
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 - [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
@@ -188,6 +189,7 @@
 
 - Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/)
 - Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
+- Learn how to build smart contracts with Python and Vyper: [Ape Academy](https://academy.apeworx.io/)
 - [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 - [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 - [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ)
@@ -232,7 +234,7 @@
 
 # Frameworks
 
-#### Truffle Suit
+#### Truffle Suite
 
 - [Truffle](https://truffleframework.com/truffle)
 - [Ganache](https://truffleframework.com/ganache)
@@ -270,6 +272,7 @@
 
 - [Frameworks List](https://ethereum.org/en/developers/docs/frameworks/) - Ethereum Frameworks Listing.
 - [Hardhat](https://hardhat.org/) - Flexible, extensible and fast Ethereum development environment.
+- [Ape](https://docs.apeworx.io/ape/stable/) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals.
 - [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 - [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 - [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
@@ -295,7 +298,7 @@
 - [ethers.js](https://docs.ethers.io/v5/)
 
 #### Python Ethereum Eco System
-
+- [Ethereum.org](https://ethereum.org/en/developers/docs/programming-languages/python/)
 - [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 
 #### Distributed Storage Systems
