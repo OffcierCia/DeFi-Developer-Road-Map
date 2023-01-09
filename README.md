@@ -172,7 +172,7 @@
 - [Ethfiddle](https://ethfiddle.com/)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
-- [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
+- [Solidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/)
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Atom](https://atom.io/)
 - [Etheratom](https://atom.io/packages/etheratom)
