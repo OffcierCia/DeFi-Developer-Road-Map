@@ -112,6 +112,15 @@
 - Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
 - Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 
+
+#### Resources to learn Solidity
+- https://cryptozombies.io/
+- https://www.learnweb3.io/
+- https://www.smartcontract.engineer/
+- https://solidity-by-example.org/
+- https://www.web3.university/
+- https://www.useweb3.xyz/
+
 #### Smart Contract Standards
 
 - [ERCs](https://eips.ethereum.org/erc) - Ethereum Improvement Proposals
@@ -172,7 +181,7 @@
 - [Ethfiddle](https://ethfiddle.com/)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
-- [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)
+- [Solidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/)
 - [Vyper](https://github.com/vyperlang/vyper)
 - [Atom](https://atom.io/)
 - [Etheratom](https://atom.io/packages/etheratom)
