@@ -114,12 +114,10 @@
 
 
 #### Resources to learn Solidity
-- https://cryptozombies.io/
-- https://www.learnweb3.io/
-- https://www.smartcontract.engineer/
-- https://solidity-by-example.org/
-- https://www.web3.university/
-- https://www.useweb3.xyz/
+- [cryptozombies.io](https://cryptozombies.io)
+- [smartcontract.engineer](https://www.smartcontract.engineer)
+- [solidity-by-example.org](https://solidity-by-example.org)
+- [useweb3.xyz](https://www.useweb3.xyz)
 
 #### Smart Contract Standards
 
