@@ -97,6 +97,20 @@
 - Ethereum clients/Nodes, Geth
 - Infura infrastructure
 
+#### Directions
+
+- [Vikvikvikkk Repo](https://github.com/vikvikvikkk?tab=repositories)
+- [Awesome Ethereum Staking](https://hackmd.io/@jyeAs_6oRjeDk2Mx5CZyBw/awesome-ethereum-staking)
+- [The Daily Ape](https://www.notion.so/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e)
+- [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
+- [Diamond Crab](https://shuennnyyy.notion.site/shuennnyyy/DiamondCrab-Crypto-Notion-Site-5e14308d396b497fa35ccdbfdf4a2296)
+- [Immersion Den](https://immersionden.xyz)
+- [Curious Daddy](https://curiousaddys.notion.site/2935b6c3a1e249fd876ce3f318355d92?v=b46dd3524e8a4ea9873f364800a0db38)
+- [Awesome Blogs](https://start.me/w/nPprJD)
+- [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
+- [Main Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
+
 #### Smart Contract
 
 - Basics of Smart Contract
