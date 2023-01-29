@@ -97,6 +97,30 @@
 - Ethereum clients/Nodes, Geth
 - Infura infrastructure
 
+#### EVM
+
+- [NOXX](https://noxx.substack.com/archive?sort=new)
+- [Digging deep into the EVM mechanics during contract function calls - Part 1](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?utm_source=profile&utm_medium=reader2)
+- [Let's take a trip down memory lane - Part 2](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-d6b?utm_source=profile&utm_medium=reader2)
+- [Demystifying Storage Slot Packing - Key Knowledge for the EVM Hackers - Part 3](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-3ea?utm_source=profile&utm_medium=reader2)
+- [Under The Hood - Storage Opcodes In the Go Ethereum (Geth) Client - Part 4](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-5a5?utm_source=profile&utm_medium=reader2)
+- [Another Weapon in the EVM Hackers Arsenal - The Power of Delegate Call - Part 5](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=profile&utm_medium=reader2)
+- [A Treasure Trove of Data - Transaction Receipts & Event Logs - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e?utm_source=profile&utm_medium=reader2)
+- [Understanding Trie Databases in Ethereum](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
+- [AskMirror](https://www.askmirror.xyz)
+- [EVM Chad](https://github.com/mektigboy/evm-chad)
+- [Mudit.Blog](https://mudit.blog)
+- [cmichel.io](https://cmichel.io)
+- [samczsun.com](https://samczsun.com)
+- [serial-coder.com](https://www.serial-coder.com/posts)
+- [notonlyowner.com](https://www.notonlyowner.com)
+- [Decentralised](https://t.me/decentraliseddotco)
+- [Awesome Blogs](https://start.me/w/nPprJD)
+- [What happens when you send 1 DAI](https://www.notonlyowner.com/learn/what-happens-when-you-send-one-dai)
+- [The Complete Guide to Full Stack Ethereum Development](https://www.useweb3.xyz/tutorials/the-complete-guide-to-full-stack-ethereum-development)
+- [Ultimate roadmap for web3 developers "from zero to master"](https://blog.praneethreddy.me/ultimate-roadmap-for-web3-developers-from-zero-to-master?deviceType=desktop)
+- [Solidity Cheatsheets Pack + Bonus](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
+
 #### Directions
 
 - [Vikvikvikkk Repo](https://github.com/vikvikvikkk?tab=repositories)
@@ -110,6 +134,7 @@
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 - [Main Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
+- [Solana Dev & Degen Tools Packk](https://web.archive.org/web/20220820001542/officercia.mirror.xyz/XLEds6Py1Xu41WWhqv-LJ2UtH4UKl9cZTnoVx8CvDXQ)
 
 #### Smart Contract
 
