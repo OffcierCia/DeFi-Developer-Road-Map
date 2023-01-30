@@ -135,6 +135,12 @@
 - [Main Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
 - [Solana Dev & Degen Tools Packk](https://web.archive.org/web/20220820001542/officercia.mirror.xyz/XLEds6Py1Xu41WWhqv-LJ2UtH4UKl9cZTnoVx8CvDXQ)
+- [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
+- [Blockchain security guide](https://wufflz.notion.site/Blockchain-security-guide-b26aec3d920e414d8a354618d3e36eb4)
+- [DevPill](https://www.devpill.me/docs/introduction/foreword)
+- [Retrospective: Hacks in Web3](https://medium.com/@officercia/retrospective-hacks-in-web3-cc83b8ee0e93)
+- [Medium : severity vulns](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
+- [High : severity vulns](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 
 #### Smart Contract
 
