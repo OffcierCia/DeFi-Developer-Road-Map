@@ -160,10 +160,19 @@
 
 
 #### Resources to learn Solidity
+
 - [cryptozombies.io](https://cryptozombies.io)
 - [smartcontract.engineer](https://www.smartcontract.engineer)
 - [solidity-by-example.org](https://solidity-by-example.org)
 - [useweb3.xyz](https://www.useweb3.xyz)
+- [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
+- [Books & Researches](https://telegra.ph/Books--Researches-01-30)
+- [Navigation: officercia.eth](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Solidity Cheatsheets Pack + Bonus](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
+- [Solidity Treasures](https://t.me/soliditypedia)
+- [Solidity Learning Chat](https://t.me/solidity_learning)
+- [Dev Solidity Chat](https://t.me/dev_solidity)
+- [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 
 #### Smart Contract Standards
 
@@ -775,6 +784,7 @@
 
 #### Hack Incident Reporting
 
+- [Retrospective: Hacks in Web3](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
@@ -1038,6 +1048,28 @@
 - [Take a look](https://telegra.ph/Solidity-Tutorials-12-21)
 - [Carefully check out](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11)
 - [Work](https://t.me/s/officer_cia/700)
+
+#### Work...?
+
+- [web3.smsunarto.com](https://web3.smsunarto.com)
+- [Jobsincrypto](https://twitter.com/jobsincrypto)
+- [CryptoJobsList](https://twitter.com/CryptoJobsList)
+- [LobsterHR](https://t.me/lobsters_hr)
+- [DeveloperDAO](https://twitter.com/developer_dao)
+- [LidoGrants](https://twitter.com/LidoGrants)
+- [GitCoin](https://twitter.com/gitcoin)
+- [anonfriendly.com](http://anonfriendly.com)
+- [Web3grants](https://twitter.com/web3grants)
+- [hackathons.live](https://hackathons.live)
+- [hackenproof.com](http://hackenproof.com)
+- [bbscope](https://github.com/sw33tLie/bbscope)
+- [immunefi.com](https://immunefi.com)
+- [code4rena.com](https://code4rena.com)
+- [sherlock.xyz](https://www.sherlock.xyz)
+- [spearbit.com](https://spearbit.com)
+- [Web3SecurityDAO](https://twitter.com/Web3SecurityDAO)
+- [WHITE HAT DAO](https://twitter.com/White_Hat_DAO)
+- [Hats.Finance](https://twitter.com/HatsFinance/status/1526981256805634048)
 
 ## Support Me:
 
