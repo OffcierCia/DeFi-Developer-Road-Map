@@ -665,16 +665,6 @@
 
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 
-- [Cryptoart](http://cryptoart.io/) - Top artists and artworks.
-
-- [CryptoArtPulse](https://cryptoartpulse.com/) - Live View.
-
-- [PumpMyGas](https://pumpmygas.xyz/) - Live estimates of gas fees on all major NFT marketplaces.
-
-- [NonFungible Tracker](https://nonfungible.com/) - NFT tracker.
-
-- [NFTS TOP](https://cryptoslam.io) - NFT Ranking.
-
 - [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
 
 #### Stable-Coins:
@@ -759,6 +749,8 @@
 
 #### Ethereum 2.0
 
+- [How does the NEW Ethereum work?](https://www.preethikasireddy.com/post/how-does-the-new-ethereum-work)
+- [How does Ethereum work, anyway?](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway#Story)
 - [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale)
 - [Specification](https://github.com/ethereum/annotated-spec)
 - [Beaconcha](https://beaconcha.in/)
