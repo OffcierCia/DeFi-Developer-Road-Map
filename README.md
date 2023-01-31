@@ -773,9 +773,14 @@
 #### Discucssion
 
 - [SmartContractResearch Forum](https://www.smartcontractresearch.org)
+- [ethresear.ch](https://ethresear.ch)
+- [ethereum-magicians.org](https://ethereum-magicians.org)
+- [speedrunethereum.com](https://speedrunethereum.com)
+- [Follow](https://t.me/s/officer_cia/760)
 
-#### Hack Incident Reporting
+#### Hacks in Web3
 
+- [All Resources to become a smart contract auditor](https://graph.org/All-resources-to-become-a-smart-contract-auditor-09-11)
 - [Retrospective: Hacks in Web3](https://officercia.medium.com/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
@@ -789,6 +794,7 @@
 - [Ethstats](https://ethstats.io)
 - [ETH Forks](https://forkmon.ethdevops.io)
 - [Node Stats](https://ethernodes.org)
+- [solidity-by-example.org](https:/solidity-by-example.org)
 - [EVM Networks List](https://chainid.network)
 - [BIP39 Derivation](https://iancoleman.io/bip39)
 - [Vanity Generator](https://github.com/johguse/profanity)
