@@ -967,6 +967,7 @@
 
 #### Storage
 
+- [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized Firebase Firestore Alternative.
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
 - [Mahuta](https://github.com/ConsenSys/Mahuta) - IPFS Storage service with added search capability, formerly IPFS-Store
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Decentralised database on top of IPFS
