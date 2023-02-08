@@ -342,14 +342,12 @@
 - [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Brownie is a Python framework for deploying, testing and interacting with Ethereum smart contracts.
 - [Embark](https://github.com/embark-framework/embark) - Framework for DApp development
 - [Waffle](https://getwaffle.io/) - Framework for advanced smart contract development and testing, small, flexible, fast (based on ethers.js)
-- [Dapp](https://dapp.tools/dapp/) - Framework for DApp development, successor to DApple
 - [Etherlime](https://github.com/LimeChain/etherlime) - ethers.js based framework for Dapp deployment
 - [Parasol](https://github.com/Lamarkaz/parasol) - [Depreciated] Agile smart contract development environment with testing, INFURA deployment, automatic contract documentation and more. It features a flexible and unopinionated design with unlimited customizability
 - [0xcert](https://github.com/0xcert/framework/) - JavaScript framework for building decentralized applications
 - [OpenZeppelin SDK](https://openzeppelin.com/sdk/) - OpenZeppelin SDK: A suite of tools to help you develop, compile, upgrade, deploy and interact with smart contracts.
 - [sbt-ethereum](https://sbt-ethereum.io/) - A tab-completey, text-based console for smart-contract interaction and development, including wallet and ABI management, ENS support, and advanced Scala integration.
 - [Cobra](https://github.com/cobraframework/cobra) - A fast, flexible and simple development environment framework for Ethereum smart contract, testing and deployment on Ethereum virtual machine(EVM).
-- [Epirus](https://docs.epirus.io/sdk/) - Java framework for building smart contracts.
 - [Ether Jar](https://github.com/emeraldpay/etherjar) Java integration library for Ethereum blockchain
 - [Starport](https://github.com/tendermint/starport) - A CLI tool for building sovereign IBC-enabled blockchains.
 - [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
@@ -423,7 +421,6 @@
 - [Nethereum.UI.Desktop](https://github.com/Nethereum/Nethereum.UI.Desktop) - Cross-platform desktop wallet sample
 - [eth-button](https://eth-button.github.io/eth-button/) - Minimalist donation button
 - [Rimble Design System](https://rimble.consensys.design/) - Adaptable components and design standards for decentralized applications.
-- [3Box Plugins](https://docs.3box.io/build/plugins) - Drop in react components for social functionality. Including comments, profiles and messaging.
 - [brave-ui](https://github.com/brave/brave-ui) - List of reusable React components to empower your brave UI
 - [DApp frontend security](https://blog.embarklabs.io/news/2020/01/30/dapp-frontend-security/index.html) - In this article, Author will take a look at security for DApps.
 
@@ -796,7 +793,6 @@
 
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
-- [ETH Forks](https://forkmon.ethdevops.io)
 - [Node Stats](https://ethernodes.org)
 - [solidity-by-example.org](https:/solidity-by-example.org)
 - [EVM Networks List](https://chainid.network)
@@ -849,7 +845,6 @@
 - [cryptofin-solidity](https://github.com/cryptofinlabs/cryptofin-solidity) - A collection of Solidity libraries for building secure and gas-efficient smart contracts on Ethereum.
 - [Modular Libraries](https://github.com/Modular-Network/ethereum-libraries) - A group of packages built for use on blockchains utilising the Ethereum Virtual Machine
 - [DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - A gas-efficient Solidity date and time library
-- [Aragon](https://github.com/aragon/aragon) - DAO protocol. Contains [aragonOS smart contract framework](https://github.com/aragon/aragonOS) with focus on upgradeability and governance
 - [ARC](https://github.com/daostack/arc) - an operating system for DAOs and the base layer of the DAO stack.
 - [0x](https://github.com/0xProject) - DEX protocol
 - [Token Libraries with Proofs](https://github.com/sec-bit/tokenlibs-with-proofs) - Contains correctness proofs of token contracts wrt. given specifications and high-level properties
@@ -908,7 +903,7 @@
 - [light.js](https://github.com/paritytech/js-libs/tree/master/packages/light.js) A high-level reactive JS library optimized for light clients.
 - [Web3Wrapper](https://github.com/0xProject/0x-monorepo/tree/development/packages/web3-wrapper) - Typescript Web3 alternative
 - [Ethereumjs](https://github.com/ethereumjs/) - A collection of utility functions for Ethereum like [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) and [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx)
-- [Alchemy-web3.js](https://github.com/alchemyplatform/alchemy-web3) - Javascript Web3 wrapper with automatic retries, access to [Alchemy's enhanced APIs](https://docs.alchemyapi.io/documentation/alchemy-web3/enhanced-web3-api), and robust websocket connections.
+- [Alchemy](https://docs.alchemy.com/docs)
 - [flex-contract](https://github.com/merklejerk/flex-contract) and [flex-ether](https://github.com/merklejerk/flex-ether) - Modern, zero-configuration, high-level libraries for interacting with smart contracts and making transactions.
 - [ez-ens](https://github.com/merklejerk/ez-ens) - Simple, zero-configuration Ethereum Name Service address resolver.
 - [web3x](https://github.com/xf00f/web3x) - A TypeScript port of web3.js. Benefits includes tiny builds and full type safety, including when interacting with contracts.
@@ -918,8 +913,6 @@
 - [Tasit SDK](https://github.com/tasitlabs/tasitsdk) - A JavaScript SDK for making native mobile Ethereum dapps using React Native
 - [useMetamask](https://github.com/mdtanrikulu/use-metamask) - a custom React Hook to manage Metamask in Ethereum ĐApp projects
 - [WalletConnect](https://walletconnect.org/) - Open protocol for connecting Wallets to Dapps
-- [Subproviders](https://0x.org/docs/tools/subproviders) - Several useful subproviders to use in conjunction with [Web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (including a LedgerSubprovider for adding Ledger hardware wallet support to your dApp)
-- [ethvtx](https://github.com/ticket721/ethvtx) - ethereum-ready & framework-agnostic redux store configuration. [docs](https://ticket721.github.io/ethvtx/)
 - Strictly Typed - Javascript alternatives
 - [elm-ethereum](https://github.com/cmditch/elm-ethereum)
 - [purescript-web3](https://github.com/f-o-a-m/purescript-web3)
@@ -982,7 +975,6 @@
 - [PINATA](https://pinata.cloud) - The Easiest Way to Use IPFS
 - [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 - [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
-- [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distrubuted storage. Built on top of IPFS and Orbitdb.
 - [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
 - [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
 
@@ -995,14 +987,12 @@
 - [Blazor/Blockchain Explorer](https://github.com/Nethereum/NethereumBlazor) - Wasm blockchain explorer (functional sample)
 - [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 - [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
-- [Parity Demo-PoA Tutorial](https://wiki.parity.io/Demo-PoA-tutorial.html) - Step-by-Step tutorial for building a PoA test chain with 2 nodes with Parity authority round consensus
 - [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
 - [Kaleido](https://kaleido.io/) - Use Kaleido for spinning up a consortium blockchain network. Great for PoCs and testing
 - [Cheshire](https://github.com/endless-nameless-inc/cheshire) - A local sandbox implementation of the CryptoKitties API and smart contracts, available as a Truffle Box
 - [aragonCLI](https://github.com/aragon/aragon-cli) - aragonCLI is used to create and develop Aragon apps and organizations.
 - [ColonyJS](https://github.com/JoinColony/colonyJS) - JavaScript client that provides an API for interacting with the Colony Network smart contracts.
 - [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
-- [Arkane Connect](https://docs.arkane.network/pages/connect-js.html) - JavaScript client that provides an API for interacting with Arkane Network, a wallet provider for building user-friendly dapps.
 - [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
 
