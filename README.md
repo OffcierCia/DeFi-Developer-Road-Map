@@ -271,6 +271,12 @@
 
 #### General info
 
+- [ZK-SNARKs-VS-ZK-STARKs](https://graph.org/ZK-SNARKs-VS-ZK-STARKs-01-10)
+- [Why and How zk-SNARK Works: Definitive Explanation](https://arxiv.org/pdf/1906.07221.pdf)
+- [learn.0xparc.org](https://learn.0xparc.org)
+- [ProofsArgsAndZK.pdf](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
+- [zk-learning.org](https://zk-learning.org)
+- [zero-knowledge-canon](https://a16zcrypto.com/zero-knowledge-canon)
 - [Introduction to Zero-Knowledge Proofs](https://www.dylandavis.net/blog/2022/12/21/zero-knowledge-proofs-introduction)
 - [Zero-knowledge proof learning journey](https://youtu.be/_6Bm5kmov3A)
 - [zkp.science](https://zkp.science) - All you should know about ZK-SNARKs
