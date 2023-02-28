@@ -435,6 +435,12 @@
 - [Dework](https://dework.xyz/) | Web3 Trello with token payments, credentials, bounties...
 - [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
 
+# Important (security)
+
+- [Building Secure Smart Contracts](https://secure-contracts.com/)
+- [SCSVS](https://github.com/ComposableSecurity/SCSVS)
+- [Solidity audits and secure development material](https://github.com/jcr-security/solidity-security-teaching-resources)
+
 # Further Readings
 
 #### Inspired by:
