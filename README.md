@@ -146,6 +146,7 @@
 - [Retrospective: Hacks in Web3](https://medium.com/@officercia/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Medium : severity vulns](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
 - [High : severity vulns](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
+- [Repository of 500 web3 reports](https://drive.google.com/drive/u/2/mobile/folders/1oyGnZE2ce5t6MZ1ytMLDr5OKuQAOkEdR?pli=1)
 
 #### Smart Contract
 
