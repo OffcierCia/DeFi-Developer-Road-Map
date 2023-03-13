@@ -125,6 +125,10 @@
 - [Ultimate roadmap for web3 developers "from zero to master"](https://blog.praneethreddy.me/ultimate-roadmap-for-web3-developers-from-zero-to-master?deviceType=desktop)
 - [Solidity Cheatsheets Pack + Bonus](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
 
+#### Check out
+
+- A bunch of learning resources to choose from here: [pentacle.xyz](https://pentacle.xyz/projects?section=developer&category=learn)
+
 #### Directions
 
 - [Awesome roadmap.sh RoadMaps Collection](https://roadmap.sh)
