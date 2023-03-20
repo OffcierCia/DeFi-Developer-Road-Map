@@ -91,6 +91,8 @@
 - Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8)
 - Watch [But how does bitcoin actually work? - 3b1b](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 - Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
+- Learn DeFi In-Depth - just [watch this YouTube playlist](https://www.youtube.com/@campbellharvey/playlists)
+- Teach yourseld crypto - visit [teachyourselfcrypto.com](https://teachyourselfcrypto.com)
 
 #### Ethereum
 
