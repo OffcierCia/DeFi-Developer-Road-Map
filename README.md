@@ -449,6 +449,7 @@
 - [Building Secure Smart Contracts](https://secure-contracts.com/)
 - [SCSVS](https://github.com/ComposableSecurity/SCSVS)
 - [Solidity audits and secure development material](https://github.com/jcr-security/solidity-security-teaching-resources)
+- [SCSVSv2](https://github.com/ComposableSecurity/SCSVS)
 
 # Further Readings
 
