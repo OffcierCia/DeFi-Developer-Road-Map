@@ -130,6 +130,11 @@
 #### Check out
 
 - A bunch of learning resources to choose from here: [pentacle.xyz](https://pentacle.xyz/projects?section=developer&category=learn)
+- [EVM In-Depth](https://youtu.be/RxL_1AfV7N4)
+- [LearnEVM](https://twitter.com/learnevm)
+- [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns/tree/main/patterns/off-chain-storage)
+- [CryptoBook](https://toc.cryptobook.us/book.pdf)
+- [Smart Contract Auditing Checklist](https://github.com/vishnuram1999/Smart-Contract-Auditing-Checklist)
 
 #### Directions
 
