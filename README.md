@@ -312,7 +312,8 @@
 - [Why and How zk-SNARK Works](https://arxiv.org/pdf/1906.07221.pdf)
 - [The Zero-Knowledge Landscape](https://page1.substack.com/p/the-zero-knowledge-landscape)
 - [Your Guide to Write zkSNARKs in Go](https://consensys.net/blog/research-development/gnark-your-guide-to-write-zksnarks-in-go)
-
+- [Building your first zk dapp using snarks & circom](https://hackernoon.com/how-to-use-a-zero-knowledge-dapp-boilerplate)
+- [ZK Tools Directory & Boilerplate](https://boilerplate.zkblock.app/)
 #### ZK-STARKs
 
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
