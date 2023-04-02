@@ -161,7 +161,7 @@
 
 #### Smart Contract
 
-- Basics of Smart Contract
+- Basics of Smart Contract: [Top 10 free Web3 courses](https://twitter.com/vedangvatsa/status/1627648600254840832)
 - Life Cycle of Smart Contract
 - Ethereum Higher Level languages (**Solidity**, Vyper, LLL, Serpent)
 - Compiling, testing, Deploying smart Contracts
@@ -534,6 +534,9 @@
 - [(In)Stability for the Blockchain: Deleveraging Spirals and Stablecoin Attacks](https://arxiv.org/pdf/1906.02152.pdf) - The possibility of deleveraging spirals was first predicted in the initial release of this paper in 2019 and later observed in the Black Thursday crisis in Dai in 2020.
 - [An Anonymous Trust-Marking Scheme on Blockchain Systems](https://arxiv.org/pdf/2010.00206.pdf) - In this paper, authors propose an anonymous trust-marking scheme on blockchain systems that is universally applicable to any cryptocurrency.
 - [A Framework and DataSet for Bugs in Ethereum Smart Contracts](https://arxiv.org/pdf/2009.02066.pdf) - In this paper, to fill the gap, authors first collect as many smart contract bugs as possible from multiple sources and divide these bugs into 9 categories by extending the IEEE Standard Classification for Software Anomalies.
+- [Bitwise Operations and Bit Manipulation in Solidity, Ethereum](https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216)
+- [BitMaps](https://soliditydeveloper.com/bitmaps)
+- [Reentrancy Guard 2.0](https://medium.com/spherex-technologies/reentrancy-guard-2-0-cbbc0be41634)
 - [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
 - [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain.
 - [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure.
