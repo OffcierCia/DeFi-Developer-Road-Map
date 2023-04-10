@@ -763,6 +763,9 @@
 - [polymarket.com](https://polymarket.com)
 - [How to use PolyMarket](https://medium.com/coinmonks/how-to-use-polymarket-9ee1577fd671)
 - [Ideas Lists](https://sovs.notion.site/Education-00cadae763ea4d30ae8149041718fd7a)
+- [hummingbot.org](https://hummingbot.org/)
+- [t.me/solidityset](https://t.me/solidityset)
+- [My Blog!](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 
 #### Popular Smart Contract Libraries
 
