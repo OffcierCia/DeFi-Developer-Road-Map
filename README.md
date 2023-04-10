@@ -314,6 +314,8 @@
 - [Your Guide to Write zkSNARKs in Go](https://consensys.net/blog/research-development/gnark-your-guide-to-write-zksnarks-in-go)
 - [Building your first zk dapp using snarks & circom](https://hackernoon.com/how-to-use-a-zero-knowledge-dapp-boilerplate)
 - [ZK Tools Directory & Boilerplate](https://boilerplate.zkblock.app/)
+- [A beginner's intro to coding zero-knowledge proofs](https://dev.to/spalladino/a-beginners-intro-to-coding-zero-knowledge-proofs-c56)
+
 #### ZK-STARKs
 
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
