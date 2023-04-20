@@ -233,6 +233,7 @@
 - [Web3modal](https://github.com/WalletConnect/web3modal)
 - [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
 - [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
+- [Slither Explained - for audit](https://telegra.ph/Slither-Explained-04-19)
 
 # dApps
 
