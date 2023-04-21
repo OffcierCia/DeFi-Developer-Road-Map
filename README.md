@@ -384,6 +384,7 @@
 - [Web3.py](https://web3py.readthedocs.io/en/stable/)
 - [Web3j](https://docs.web3j.io/latest/)
 - [ethers.js](https://docs.ethers.io/v5/)
+- [Web3 by Example : Web3 by Example is a hands-on introduction to web3 development using annotated example programs.](https://www.web3byexample.com/)
 
 #### Python Ethereum Eco System
 - [Ethereum.org](https://ethereum.org/en/developers/docs/programming-languages/python/)
