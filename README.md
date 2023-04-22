@@ -321,6 +321,7 @@
 
 - [StarkWare](https://github.com/starkware-industries) and [StarkWare Resources](https://github.com/starkware-libs) - StarkEx scalability engine storing state transitions on-chain
 - [zkSNARKs vs zkSTARKs: a primer](https://pseudotheos.mirror.xyz/_LAi4cCFz2gaC-3WgNmri1eTvckA32L7v31A8saJvqg)
+- [Breaking Down Recursive ZK-STARKs](https://medium.com/@Nurnberg_Meistersinger/zk-starks-part-one-4f482111b0a)
 
 # Frameworks
 
