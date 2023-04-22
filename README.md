@@ -502,12 +502,18 @@
 
 #### Security & Safety:
 
-**|** Read 3 awesome cheatsheets:
-
-- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31),
-- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13),
-- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20) and
+- [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13)
+- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 - [All about NFT security](https://graph.org/NFT-security-01-28)
+- [Visit my Blog](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
+- [Visit blog.pessimistic.io](https://blog.pessimistic.io/)
+- [All resources to become a smart contract auditor!](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11)
+- [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor)
+- [Blockchain Security Genesis](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
+- [Intro security hacking smart contracts on Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
+- [Books & Researches](https://telegra.ph/Books--Researches-01-30)
+- [Per Aspera ad Astra](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
 
 #
 
