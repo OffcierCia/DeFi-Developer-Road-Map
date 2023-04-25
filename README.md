@@ -967,6 +967,7 @@
 - [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
 - [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 - [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
+- [ERCx](https://ercx.runtimeverification.com) - Testing tool with a Web interface to test conformance and properties of ERC-20 tokens. Based on Foundry forge.
 
 #### Transaction Visualization, Scoring & Tracking:
 
