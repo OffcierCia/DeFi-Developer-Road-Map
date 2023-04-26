@@ -126,6 +126,7 @@
 - [The Complete Guide to Full Stack Ethereum Development](https://www.useweb3.xyz/tutorials/the-complete-guide-to-full-stack-ethereum-development)
 - [Ultimate roadmap for web3 developers "from zero to master"](https://blog.praneethreddy.me/ultimate-roadmap-for-web3-developers-from-zero-to-master?deviceType=desktop)
 - [Solidity Cheatsheets Pack + Bonus](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
+- [L2s Explained](https://www.youtube.com/live/GnXQiFJlf2w?feature=share)
 
 #### Check out
 
