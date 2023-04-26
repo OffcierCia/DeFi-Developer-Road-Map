@@ -1002,7 +1002,13 @@
 - [spearbit.com](https://spearbit.com)
 - [Web3SecurityDAO](https://twitter.com/Web3SecurityDAO)
 - [WHITE HAT DAO](https://twitter.com/White_Hat_DAO)
-- [Hats.Finance](https://twitter.com/HatsFinance/status/1526981256805634048)
+- [Hats.Finance](https://twitter.com/HatsFinance)
+- [crypto-jobs-fyi.github.io](https://crypto-jobs-fyi.github.io/web/)
+- [auditjobs.xyz](https://auditjobs.xyz/)
+- [intropia.io/hire](https://intropia.io/hire)
+- [www.jobstash.xyz](https://www.jobstash.xyz)
+- [frontrunnrs.xyz](https://frontrunnrs.xyz)
+- [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
 
 ## Support Me:
 
