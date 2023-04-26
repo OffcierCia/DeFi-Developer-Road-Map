@@ -190,6 +190,7 @@
 - [Solidity Learning Chat](https://t.me/solidity_learning)
 - [Dev Solidity Chat](https://t.me/dev_solidity)
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
+- [Slitherin](https://github.com/pessimistic-io/slitherin)
 
 #### Smart Contract Standards
 
