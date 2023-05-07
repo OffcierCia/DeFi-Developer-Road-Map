@@ -118,6 +118,7 @@
 - [AskMirror](https://www.askmirror.xyz)
 - [EVM Chad](https://github.com/mektigboy/evm-chad)
 - [Mudit.Blog](https://mudit.blog)
+- [Academic_Smart_Contract_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)
 - [cmichel.io](https://cmichel.io)
 - [samczsun.com](https://samczsun.com)
 - [serial-coder.com](https://www.serial-coder.com/posts)
