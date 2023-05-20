@@ -432,9 +432,8 @@
 
 #### Test Ether Faucets
 
-- [Rinkeby faucet](https://faucet.rinkeby.io/)
-- [Kovan faucet](https://github.com/kovan-testnet/faucet)
-- [Ropsten faucet (MetaMask)](https://faucet.metamask.io/)
+- [Sepolia Faucet](https://sepoliafaucet.com/)
+- [Mumbai Faucet](https://mumbaifaucet.com/)
 - [Goerli faucet](https://goerli-faucet.slock.it/)
 - [Universal faucet](https://faucets.blockxlabs.com/)
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
