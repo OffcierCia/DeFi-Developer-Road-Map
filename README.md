@@ -76,7 +76,7 @@
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://hackernoon.com/whats-the-safest-way-to-store-crypto)
+- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An awesome cheatsheet from the Pessimistic.io Team](https://graph.org/All-resources-to-become-a-smart-contract-auditor-09-11)
 - [All-about-NFT security ](https://graph.org/NFT-security-01-28)
 - [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
