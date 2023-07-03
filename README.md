@@ -818,6 +818,7 @@
 
 #### Developer Tools
 
+- [Check out our blog!](https://blog.pessimistic.io/)
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 - [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
@@ -1021,25 +1022,15 @@
 
 Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations!
 
-The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
-
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+
+The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
-
-- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
-
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
-
-- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
-
-- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
-
-- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
