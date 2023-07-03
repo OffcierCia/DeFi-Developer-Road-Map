@@ -634,7 +634,7 @@
 - [Fairness in ERC token markets](https://arxiv.org/pdf/2102.03721.pdf) - A Case Study of CryptoKitties.
 - [Non-Fungible Token: Overview, Evaluation, Opportunities and Challenges](https://arxiv.org/pdf/2105.07447.pdf) - In this technical report, authors explore the NFT ecosystems in several aspects.
 - [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://arxiv.org/pdf/2110.12545.pdf)
-- [NFT School is an open-source project from web developers and technology enthusiasts: NFT Basics, First Steps Tutorial, Minting Service Tutorial](https://nftschool.dev/)
+- [NFT School is an open-source project from web developers: NFT Basics, First Steps Tutorial, Minting Service Tutorial](https://nftschool.dev/)
 
 #### Stable-Coins:
 
