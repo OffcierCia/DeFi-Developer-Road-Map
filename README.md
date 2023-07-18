@@ -268,7 +268,7 @@
 - [Vim vyper](https://github.com/vyperlang/vim-vyper)
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide)
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
-- [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-extenstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
+- [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-exstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
 - [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
 
 #### Practice
@@ -339,7 +339,7 @@
 
 #### Akula
 
-- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") written in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
+- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") writ in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
 
 #### ZeppelinOS
 
@@ -355,7 +355,7 @@
 #### Infura (A Gateway to Ethereum)
 
 - [Mainnet End Point](https://infura.io/)
-- [Ropsten TestNet End Point](https://infura.io/)
+- [Rops TestNet End Point](https://infura.io/)
 - [Kovan TestNet End Point](https://infura.io/)
 - [Rinkby TestNet End Point](https://infura.io/)
 - [IPFS](https://medium.freecodecamp.org/hands-on-get-started-with-infura-and-ipfs-on-ethereum-b63635142af0)
@@ -764,6 +764,7 @@
 - [TypeChain](https://github.com/ethereum-ts/TypeChain)
 - [Tenderly](https://tenderly.co/)
 - [Contract Library](https://library.dedaub.com/)
+- [BuildBear](https://www.buildbear.io/)
 
 #### Libraries
 
