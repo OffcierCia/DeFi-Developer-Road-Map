@@ -6,8 +6,7 @@
 
 - **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author** ❗️
 
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
-[![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
+[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/support/blob/main/README.md) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
 [![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
 
 ## **Translations:**
@@ -1019,10 +1018,6 @@
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
 
 ## Support Me:
-
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations!
-
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
