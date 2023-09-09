@@ -434,7 +434,7 @@
 - [Goerli faucet](https://goerli-faucet.slock.it/)
 - [Universal faucet](https://faucets.blockxlabs.com/)
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
-
+- [List of Faucets for Public Testnets](https://www.buildbear.io/faucet)
 # Front End
 
 #### UI Components
