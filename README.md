@@ -175,7 +175,6 @@
 - Read [Solidity Smart Contract Library](https://openzeppelin.org/api/docs/get-started.html) and [Solidity Base](https://solidity-by-example.org) with [Tutorial from Zombies](https://cryptozombies.io)
 - Read [Flash Crash for Cash Cyber Threats in Decentralized Finance](https://arxiv.org/pdf/2106.10740.pdf)
 
-
 #### Resources to learn Solidity
 
 - [cryptozombies.io](https://cryptozombies.io)
@@ -392,6 +391,7 @@
 - [Web3 by Example : Web3 by Example is a hands-on introduction to web3 development using annotated example programs.](https://www.web3byexample.com/)
 
 #### Python Ethereum Eco System
+
 - [Ethereum.org](https://ethereum.org/en/developers/docs/programming-languages/python/)
 - [Article](https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7)
 
@@ -435,6 +435,7 @@
 - [Universal faucet](https://faucets.blockxlabs.com/)
 - [Nethereum.Faucet](https://github.com/Nethereum/Nethereum.Faucet) - A C#/.NET faucet
 - [List of Faucets for Public Testnets](https://www.buildbear.io/faucet)
+
 # Front End
 
 #### UI Components
@@ -919,6 +920,7 @@
 - [Swarm](https://swarm-gateways.net/) - Distributed storage platform and content distribution service, a native base layer service of the Ethereum web3 stack
 - [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 - [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with ETH and IPFS.
+- [dAppling Network](https://www.dappling.network/) - Uses IPFS for quick and easy decentralized web hosting.
 - [Fleek](https://fleek.co/) - similar to netlify but uses ipfs for hosting websites.
 
 #### Bootstrap/Out-of-Box tools
@@ -1025,7 +1027,7 @@ The best thing is to support me directly by donating to my address on Ethereum M
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
 
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
