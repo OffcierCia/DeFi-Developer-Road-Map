@@ -225,6 +225,7 @@
 - Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) and [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Tudelft Repo](https://repository.tudelft.nl)
+- [The Framework to help you securing your protocol](https://www.beirao.xyz/blog/Security-framework)
 
 #### Try this tools:
 
@@ -236,6 +237,7 @@
 - [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
 - [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 - [Slither Explained - for audit](https://telegra.ph/Slither-Explained-04-19)
+- [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
 
 # dApps
 
@@ -554,6 +556,7 @@
 - [Reentrancy Guard 2.0](https://medium.com/spherex-technologies/reentrancy-guard-2-0-cbbc0be41634)
 - [A Secure Multi-chains Consensus Scheme Against Diverse Miners Behaviors Attacks in Blockchain Networks.](https://arxiv.org/pdf/2106.02383.pdf) - Experimental results show that PoDT is secure against DMB attacks and more effective than traditional consensus schemes in multi-chains environments.
 - [A Survey on Consortium Blockchain Consensus Mechanisms](https://arxiv.org/pdf/2102.12058.pdf) - This paper highilights several state-of-the art solutions in consensus algorithms for enterprise blockchain.
+- [Web3 Evasion Techniques](https://github.com/apehex/web3-evasion-techniques/blob/main/report/forta.pdf)
 - [Extracting Smart Contracts Tested and Verified in Coq](https://arxiv.org/pdf/2012.09138.pdf) - Authors implement extraction of Coq programs to functional languages based on MetaCoq's certified erasure.
 - [Trustless, privacy-preserving blockchain bridges](https://arxiv.org/pdf/2102.04660.pdf) - In this paper, authors present a protocol for facilitating trust-less cross-chain cryptocurrency transfers that preserve privacy of bridge withdrawals.
 - [Security checklists for Ethereum smart contract development: patterns and best practices](https://arxiv.org/pdf/2008.04761.pdf) - Authors cover the phases of design, coding, and testing and deployment of the software lifecycle.
