@@ -428,6 +428,7 @@
 - [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
+- [GetBlock](https://getblock.io/) - Blockchain RPC access to Ethereum blockchain and 50 + others
 
 #### Test Ether Faucets
 
