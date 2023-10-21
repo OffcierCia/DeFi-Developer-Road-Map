@@ -510,6 +510,8 @@
 
 #### Security & Safety:
 
+- [Understanding SIM Swap Attacks and How to Safeguard Yourself](https://nftnow.com/news/sim-swap-attacks-rising-in-web3/)
+- [Discord Security A-Z](https://github.com/0xngmi/discord-server-guidelines/blob/master/README.md)
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
 - [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
