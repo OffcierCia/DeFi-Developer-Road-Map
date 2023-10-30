@@ -92,6 +92,7 @@
 - Learn the basics of [Computer Science](https://github.com/ossu/computer-science)
 - Learn DeFi In-Depth - just [watch this YouTube playlist](https://www.youtube.com/@campbellharvey/playlists)
 - Teach yourself crypto - visit [teachyourselfcrypto.com](https://teachyourselfcrypto.com)
+- [Try Capture The Ether Game](https://capturetheether.com/)
 
 #### Ethereum
 
@@ -136,6 +137,27 @@
 - [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns/tree/main/patterns/off-chain-storage)
 - [CryptoBook](https://toc.cryptobook.us/book.pdf)
 - [Smart Contract Auditing Checklist](https://github.com/vishnuram1999/Smart-Contract-Auditing-Checklist)
+- [Hardhat](https://hardhat.org/getting-started/)
+- [Remix](https://remix.ethereum.org)
+- [Foundry](https://book.getfoundry.sh/)
+- [EIPs](https://eips.ethereum.org/)
+- [Wagmi Toolset](https://wagmi.sh)
+- [WalletConnect Library](https://docs.walletconnect.com/2.0/web/about-web3modal)
+- [RainbowKit Toolset](https://www.rainbowkit.com/)
+
+#### Useful Information
+
+- [Solidity Docs](https://docs.soliditylang.org/en/v0.8.21/)
+- [What is a Smart Contract](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [EVM Opcodes](https://www.evm.codes/?fork=shanghai)
+- [Beginner's Guide to Yul ](https://medium.com/@MarqyMarq/beginners-guide-to-yul-12a0a18095ef)
+- [Yul for Gas Optimisation](https://coinsbench.com/using-yul-to-optimize-gas-costs-b4feccdb5172)
+- [Decompiler](https://ethervm.io/decompile)
+- [WTF Gas Optimisation](https://github.com/WTFAcademy/WTF-gas-optimization)
+- [Solidity by Example](https://solidity-by-example.org/)
+- [OpenZeppelin](https://docs.openzeppelin.com/contracts/)
+- [EVM Explained](https://www.zaryabs.com/ethereum-virtual-machine-article-series/)
+- [Useful Solidity Patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns)
 
 #### Directions
 
@@ -146,8 +168,10 @@
 - [Sov's Compendium](https://sovs.notion.site/sovs/Sov-s-Compendium-41f097d28dae4d09801f10cde1b2d03b)
 - [Diamond Crab](https://shuennnyyy.notion.site/shuennnyyy/DiamondCrab-Crypto-Notion-Site-5e14308d396b497fa35ccdbfdf4a2296)
 - [Immersion Den](https://immersionden.xyz)
+- [Egor Gavrilov](https://youtube.com/@EgorGavrilov)
 - [Curious Daddy](https://curiousaddys.notion.site/2935b6c3a1e249fd876ce3f318355d92?v=b46dd3524e8a4ea9873f364800a0db38)
 - [Awesome Blogs](https://start.me/w/nPprJD)
+- [Patrick Collins](https://youtube.com/@PatrickAlphaC)
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 - [Main Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
@@ -155,6 +179,9 @@
 - [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
 - [Blockchain security guide](https://wufflz.notion.site/Blockchain-security-guide-b26aec3d920e414d8a354618d3e36eb4)
 - [DevPill](https://www.devpill.me/docs/introduction/foreword)
+- [EatTheBlocks YouTube Channel](https://youtube.com/@EatTheBlocks)
+- [Moralis Web3](https://youtube.com/@MoralisWeb3)
+- [Solidity Security Explained](https://blog.sigmaprime.io/solidity-security.html)
 - [Retrospective: Hacks in Web3](https://medium.com/@officercia/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Medium : severity vulns](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
 - [High : severity vulns](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
@@ -216,7 +243,7 @@
 
 - Learn [GIT](https://medium.com/pixel-pioneers/the-basics-of-version-control-system-git-explained-by-designing-a-new-car-3fb3a10e9e40)
 - Create a few repositories on [GitHub](https://github.com/) / [GitLab](https://about.gitlab.com/)
-- Share your code with other people
+- Share your code with other people!
 - know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - Don't be afraid of using Google, [Power Searching with Google](http://www.powersearchingwithgoogle.com/)
 - Get familiar with terminal ([Linux/Docker](https://medium.com/coinmonks/how-to-become-a-blockchain-developer-59c830e20f15)), configure your shell (bash, zsh, fish)
@@ -225,6 +252,11 @@
 - Free tutorial [Learning Solidity](https://github.com/willitscale/learning-solidity)
 - [Introduction to Smart Contract Development with Solidity](https://www.youtube.com/playlist?list=PLV1JDFUtrXpGvu8QHL9b78WYNSJsYNZsb) and [ERC20 Programming](https://www.youtube.com/watch?v=Hqx5yuskmRU&list=PLYSZ-f9LCH3sEf0UKTLCaZErJeQtK7GCD)
 - [Tudelft Repo](https://repository.tudelft.nl)
+- [Ethers.org Library](https://docs.ethers.org/v6/getting-started/)
+- [Web3js.org Library](https://docs.web3js.org)
+- [TypeChain Library](https://github.com/dethcrypto/TypeChain)
+- [Viem Library](https://github.com/wagmi-dev/viem)
+- [web3.py - for Python](https://web3py.readthedocs.io/en/stable/quickstart.html)
 - [The Framework to help you securing your protocol](https://www.beirao.xyz/blog/Security-framework)
 
 #### Try this tools:
