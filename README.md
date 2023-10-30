@@ -300,6 +300,8 @@
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
 - [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-exstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
 - [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
+- [Dive Deep into Wagmi & How to Create a Web3 App](https://medium.com/@glitch.txs/dive-deep-into-wagmi-how-to-create-a-web3-app-8de7c86831e9)
+- [Extrapolating concepts to Web3 — Coding (and understanding) a Decentralized Bank using Solidity](https://medium.com/@numacodes/extrapolating-concepts-to-web3-coding-and-understanding-a-decentralized-bank-using-solidity-69797a771c47)
 
 #### Practice
 
