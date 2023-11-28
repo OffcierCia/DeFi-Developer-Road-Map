@@ -128,6 +128,8 @@
 - [Ultimate roadmap for web3 developers "from zero to master"](https://blog.praneethreddy.me/ultimate-roadmap-for-web3-developers-from-zero-to-master?deviceType=desktop)
 - [Solidity Cheatsheets Pack + Bonus](https://telegra.ph/Solidity-Cheatsheets-Pack-03-20)
 - [L2s Explained](https://www.youtube.com/live/GnXQiFJlf2w?feature=share)
+- [EVM article series - Decipher with Zaryab](https://www.zaryabs.com/ethereum-virtual-machine-article-series/)
+- [Decipher EVM Puzzles Game(For better understanding of Opcodes in a fun way)](https://www.zaryabs.com/decipher-evm-puzzle-game-for-smart-contract-devs/)
 
 #### Check out
 
