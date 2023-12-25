@@ -76,8 +76,6 @@
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An awesome cheatsheet from the Pessimistic.io Team](https://graph.org/All-resources-to-become-a-smart-contract-auditor-09-11)
 - [All-about-NFT security ](https://graph.org/NFT-security-01-28)
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
 - [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 - [Solidity Tutorials](https://telegra.ph/Solidity-Tutorials-12-21)
 
@@ -549,9 +547,6 @@
 - [Understanding SIM Swap Attacks and How to Safeguard Yourself](https://nftnow.com/news/sim-swap-attacks-rising-in-web3/)
 - [Discord Security A-Z](https://github.com/0xngmi/discord-server-guidelines/blob/master/README.md)
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All ETH Sec tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [Solidity Cheatsheet Pack](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [All about NFT security](https://graph.org/NFT-security-01-28)
 - [Visit my Blog](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Visit blog.pessimistic.io](https://blog.pessimistic.io/)
 - [All resources to become a smart contract auditor!](https://telegra.ph/All-resources-to-become-a-smart-contract-auditor-09-11)
@@ -707,13 +702,7 @@
 
 #### Special Author's compilations:
 
-- [All-about-NFT security](https://graph.org/NFT-security-01-28)
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
-- [Solidity A-Z](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 - [All known smart contract side and user side attacks](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
 - [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
 
 #### Side-Chains
@@ -772,7 +761,6 @@
 
 #### Ethereum Tools
 
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
 - [Ethstats](https://ethstats.io)
 - [Node Stats](https://ethernodes.org)
 - [solidity-by-example.org](https:/solidity-by-example.org)
