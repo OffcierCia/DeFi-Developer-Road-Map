@@ -829,6 +829,8 @@
 - [Dappsys: Safe, simple, and flexible Ethereum contract building blocks](https://github.com/dapphub/dappsys)
 - [MakerDAO](https://github.com/makerdao/maker-otc)
 - [The TAO](https://github.com/ryepdx/the-tao)
+- [How to Build a Crypto Intelligence dApp with GoldRush Components](https://www.covalenthq.com/docs/unified-api/guides/how-to-build-a-crypto-intelligence-dapp-with-goldrush-components/)
+- [Proxy Patterns](https://github.com/gotnoshoeson/se-transparent-proxy)
 - [Dapp-a-day 1-10](https://steemit.com/@nikolai)
 - [Dapp-a-day 11-25](https://steemit.com/@nexusdev)
 - [OpenZeppelin Contracts: An open framework of reusable and secure smart contracts in the Solidity language.](https://github.com/OpenZeppelin/openzeppelin-contracts)
