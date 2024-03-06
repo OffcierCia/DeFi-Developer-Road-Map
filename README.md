@@ -1005,7 +1005,7 @@
 - [solpp](https://github.com/merklejerk/solpp) - Solidity preprocessor and flattener with a comprehensive directive and expression language, high precision math, and many useful helper functions.
 - [Decode and Publish](https://flightwallet.github.io/decode-eth-tx/) – Decode and publish raw ethereum tx. Similar to https://live.blockcypher.com/btc-testnet/decodetx/
 - [Doppelgänger](https://getdoppelganger.io/) - a library for mocking smart contract dependencies during unit testing.
-- [glide.r](https://glide.r.xyz/) - a tool for performing smart contract queries (audit/bug-bounty)..
+- [glide.r](https://glide.r.xyz/) - a tool for performing smart contract queries (audit/bug-bounty).
 - [rocketh](https://github.com/wighawag/rocketh) - A simple lib to test ethereum smart contract that allow to use whatever web3 lib and test runner you choose.
 - [pytest-cobra](https://github.com/cobraframework/pytest-cobra) - PyTest plugin for testing smart contracts for Ethereum blockchain.
 - [ERCx](https://ercx.runtimeverification.com) - Testing tool with a Web interface to test conformance and properties of ERC-20 tokens. Based on Foundry forge.
