@@ -264,7 +264,7 @@
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
-- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - An interractive smart contract encoder and sender from your ABI file
+- [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - An interactive smart contract encoder and sender from your ABI file
 - [Web3modal](https://github.com/WalletConnect/web3modal)
 - [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
 - [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
@@ -371,7 +371,7 @@
 
 #### Akula
 
-- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") writ in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
+- [Akula](https://github.com/akula-bft/akula) - an implementation of Ethereum protocol ("client") written in Rust, based on [Erigon](https://github.com/ledgerwatch/interfaces) architecture.
 
 #### ZeppelinOS
 
@@ -450,7 +450,7 @@
 - [Besu Private Network](https://besu.hyperledger.org/en/stable/Tutorials/Quickstarts/Azure-Private-Network-Quickstart/) - Run a private network of Besu nodes in a Docker container
 - [Orion](https://github.com/PegaSysEng/orion) - Component for performing private transactions by PegaSys
 - [Artemis](https://github.com/PegaSysEng/artemis) - Java implementation of the Ethereum 2.0 Beacon Chain by PegaSys
-- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resembles a real blockchain network
+- [Cliquebait](https://github.com/f-o-a-m/cliquebait) - Simplifies integration and accepting testing of smart contract applications with docker instances that closely resemble a real blockchain network
 - [Local Raiden](https://github.com/ConsenSys/Local-Raiden) - Run a local Raiden network in docker containers for demo and testing purposes
 - [Private networks deployment scripts](https://github.com/ConsenSys/private-networks-deployment-scripts) - Out-of-the-box deployment scripts for private PoA networks
 - [Local Ethereum Network](https://github.com/ConsenSys/local_ethereum_network) - Out-of-the-box deployment scripts for private PoW networks
@@ -682,7 +682,7 @@
 
 - [A Big Data Analysis of the Ethereum Network: from Blockchain to Google Trends](https://arxiv.org/pdf/2104.01764.pdf) - An analysis of the crypto prices and search trends suggests the existence of big players (and not the regular users), manipulating the market after a drop in prices.
 - [A DLT-based Smart Contract Architecture for Atomic and Scalable Trading](https://arxiv.org/pdf/2105.02937.pdf) - In this paper, authors propose an atomic, scalable and privacy-preserving protocol that enables secure and dynamic updates. Then develop a smart contract-based Credit-Note System (CNS) that allows participants to lock funds before a state channel initialisation, which enhances flexibility and efficiency.
-- [Exploring Etherum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
+- [Exploring Ethereum Data Stores: A Cost and Performance Comparison ](https://arxiv.org/pdf/2105.10520.pdf) -In this work, authors examine a comprehensive set of data management approaches for ETH apps and assess the associated cost in gas as well as the retrieval performance.
 - [A Systematic Literature Review on Blockchain Governance](https://arxiv.org/pdf/2105.05460.pdf) - This study comprehensively investigates blockchain governance via 5W1H questions.
 - [A general framework for blockchain analytics](https://arxiv.org/pdf/1707.01021.pdf) - Authors propose a general-purpose framework, supporting data analytics on Bitcoin Ethereum — it allows to integrate block data with data from other sources, and to organise them in a database.
 - [AMR:Autonomous Coin Mixer with Privacy Preserving Reward Distribution](https://arxiv.org/pdf/2010.01056.pdf) - In this work, authors propose the first censorship resilient mixer, which can reward its users in a privacy-preserving manner for participating in the system.
