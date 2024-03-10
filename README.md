@@ -308,6 +308,7 @@
 - Learn Ethereum development by making a [Zombie Game](https://cryptozombies.io/)
 - [Yul and Some Solidity Optimizations and Tricks](https://hackmd.io/@gn56kcRBQc6mOi7LCgbv1g/rJez8O8st)
 - Read and make and example: [Pet shop tutorial](https://www.trufflesuite.com/tutorial)
+- Learn [Abstract Algebra](http://abstract.ups.edu/aata/aata-toc.html)!
 - Learn how to build smart contracts with Python and Vyper: [Ape Academy](https://academy.apeworx.io/)
 - [Time-locked Wallets: An Introduction to Ethereum Smart Contracts](https://www.toptal.com/ethereum-smart-contract/time-locked-wallet-truffle-tutorial)
 - [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
