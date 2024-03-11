@@ -24,7 +24,7 @@
 
 ## Roadmap
 
-![Roadmap](./definew.svg)
+![Roadmap](./Fix2024.svg)
 
 # Navigation
 
