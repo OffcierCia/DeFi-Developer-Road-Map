@@ -627,7 +627,7 @@
 
 ##### Web3 CTF (Capture The Flag)
 
-- [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every succesful challenge. The goal is to make the `isComplete()` function return true.
+- [Capture the Ether](https://capturetheether.com/) - Traditional game consisting of a series of categorized challenges where the user earns points after every successful challenge. The goal is to make the `isComplete()` function return true.
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 
 #### DeFI
