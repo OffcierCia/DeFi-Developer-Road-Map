@@ -778,6 +778,7 @@
 - [The UI from ABI](https://ethcontract.watch)
 - [Oracles Club](https://oracles.club)
 - [Tx Combo](https://furucombo.app)
+- [Send native coins, tokens, and NFTs in batches](https://offgridplatform.com/apps/bulk-sender)
 - [ETH or ERC-20 Mass-sender](https://disperse.app)
 - [BulkSender](https://bulksender.app)
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token)
