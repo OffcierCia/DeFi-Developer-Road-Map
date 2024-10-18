@@ -18,6 +18,7 @@
 - [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
 - [Spanish](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_es.md)
 - [Chinese](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_cn.md)
+- [Yoruba](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_yor.md)
 
 </details>
 
