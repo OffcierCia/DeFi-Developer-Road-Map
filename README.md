@@ -619,6 +619,7 @@
 - [Pentesterlab](https://pentesterlab.com/) - Hands-on labs covering different bu classes from basic to advanced.
 - [Portswigger labs](https://portswigger.net/web-security/all-labs) - Set of web application secrity labs with attached community solutions
 - [Vulnhub](https://www.vulnhub.com/) - Users upload "challenge boxes" that often attempt to gain root access by exploiting known vulnerabilities.
+- [LabEx Cybersecurity Skill Tree](https://labex.io/skilltrees/cybersecurity) - Hands-on labs for cyber security, covering tools like Nmap, Wireshark, Kali, and more.
 
 ##### Web3 cybersecurity
 
