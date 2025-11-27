@@ -866,6 +866,7 @@
 - [Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 - [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
+- [Trident](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana DeFi smart contracts
 - [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
 - [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
 - [Solidity security blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
