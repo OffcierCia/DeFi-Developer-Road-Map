@@ -299,6 +299,7 @@
 - [Vim vyper](https://github.com/vyperlang/vim-vyper)
 - [YAKINDU Solidity Tools](https://github.com/Yakindu/solidity-ide)
 - [VSCode](https://code.visualstudio.com/) with [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+- [Solana VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.solana) - First VS Code extension for Solana with real-time security analysis (9 detectors) and Trident fuzz coverage visualization
 - [vscode-solidity-lang](https://github.com/contractshark/vscode-solidity-exstion) Solidity Semantic Highlighting for VSode. [available at vscode marketplace](https://marketplace.visualstudio.com/items?itemName=ContractShark.solidity-lang)
 - [MetaMask OpenRCP API Playground](https://metamask.github.io/api-playground/api-documentation/) - View and Interact with MetaMasks RPC API
 - [Dive Deep into Wagmi & How to Create a Web3 App](https://medium.com/@glitch.txs/dive-deep-into-wagmi-how-to-create-a-web3-app-8de7c86831e9)
