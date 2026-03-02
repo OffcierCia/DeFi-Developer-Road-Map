@@ -797,6 +797,7 @@
 - [Tenderly](https://tenderly.co/)
 - [Contract Library](https://library.dedaub.com/)
 - [BuildBear](https://www.buildbear.io/)
+- [Frostbyte Wallet API](https://frostbyte-landing.vercel.app) - Multi-chain HD wallet REST API for AI agents (9 chains, cross-chain swaps at 0.3% fee, BIP39/BIP44)
 
 #### Libraries
 
@@ -977,6 +978,7 @@
 - [ArcJS](https://github.com/daostack/arc.js) - Library that facilitates javascript application access to the DAOstack Arc ethereum smart contracts.
 - [Onboard.js](https://blocknative.com/onboard) - Blocknative Onboard is the quick and easy way to add multi-wallet support to your project. With built-in modules for more than 20 unique hardware and software wallets, Onboard saves you time and headaches.
 - [web3-react](https://github.com/NoahZinsmeister/web3-react) - React framework for building single-page Ethereum dApps
+- [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Unified API for 37+ AI agent services including DeFi trading, wallet management, and on-chain analytics
 
 #### Ethereum ABI (Application Binary Interface) tools
 
