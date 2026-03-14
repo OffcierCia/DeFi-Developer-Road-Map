@@ -662,6 +662,7 @@
 - [Composing Networks of Automated Market Makers](https://arxiv.org/pdf/2106.00083.pdf) - This paper proposes a mathematical model for AMM composition.
 - [Blockchain Oracle Design Patterns](https://arxiv.org/abs/2106.09349) - In this paper, authors will study and analyze blockchain oracles with regard to how they provide feedback to the blockchain and smart contracts.
 - [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
+- [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering decentralized perpetual protocols, mechanics, funding rates, liquidations, and ecosystem resources — useful reference for developers building on perp DEXes.
 
 #### Ethereum Name Service
 
