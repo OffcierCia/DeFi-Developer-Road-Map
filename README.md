@@ -788,6 +788,7 @@
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 - [Fees WTF Calculator](https://fees.wtf)
+- [FlashArb Scanner](http://18.118.43.47/flasharb/) ([source](https://github.com/JacobMazelin/flasharb-scanner)) - Free real-time DEX arbitrage scanner with flash loan calculations (Uniswap V3 vs SushiSwap). Zero capital required.
 - [Spend Gas Stats](https://txn.finance)
 - [Pools Stats](https://pools.fyi)
 - [Solhint](https://github.com/protofire/solhint)
