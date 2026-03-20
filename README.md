@@ -870,6 +870,7 @@
 - [Solgraph](https://github.com/raineorshine/solgraph) - Visualise Solidity control flow for smart contract security analysis
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 - [Slither](https://github.com/crytic/slither) - A Solidity static analysis framework
+- [Aegis](https://github.com/StanleytheGoat/aegis) - DeFi safety layer for autonomous AI agents. MCP server that scans contracts against 165 exploit patterns, simulates transactions on forked chains, and blocks honeypots before agents trade. Includes smart contracts on Base mainnet (AegisGateway + Uniswap v4 hook). Install via `npx aegis-defi`.
 - [Trident](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana DeFi smart contracts
 - [Adelaide](https://github.com/sec-bit/adelaide) - The SECBIT static analysis extension to Solidity compiler
 - [solc-verify](https://github.com/SRI-CSL/solidity/) - A modular verifier for Solidity smart contracts
