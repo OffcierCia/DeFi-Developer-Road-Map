@@ -515,6 +515,7 @@
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools)
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path)
+- [链新社 (ChainNewsClub) - Chinese blockchain & Web3 structured learning platform](https://www.lianxinshe666.com) — Chinese-language platform covering DeFi, smart contracts, and Web3 development paths
 - [ADF](https://github.com/ong/awesome-decentralized-finance)
 - [DeFi Toolkit](https://github.com/gweicz/defi-toolkit)
 - [BlockTools](https://github.com/nujabes403/blockchains-tools)
