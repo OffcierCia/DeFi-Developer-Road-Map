@@ -219,6 +219,7 @@
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 - [Slitherin: Slither Detectors by Pessimistic.io](https://github.com/pessimistic-io/slitherin)
 - [WTF Solidity](https://github.com/AmazingAng/WTF-Solidity)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 #### Smart Contract Standards
 
