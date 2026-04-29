@@ -501,6 +501,7 @@
 - [Wonderverse](https://www.wonderverse.xyz/) | Jira alternative with an intuitive task management system that allows DAOs to pay contributors and collaborate in their projects.
 
 # Important (security)
+n- [ContractScan](https://dutchaiagency.github.io/contractscan-api/) - Free browser-based smart contract scanner. Detects rug pulls, honeypots, proxy contracts, and 11 vulnerability patterns across 6 chains via Sourcify. Also available as a [GitHub Action](https://github.com/dutchaiagency/contractscan-action) for CI/CD.
 
 - [Building Secure Smart Contracts](https://secure-contracts.com/)
 - [SCSVS](https://github.com/ComposableSecurity/SCSVS)
