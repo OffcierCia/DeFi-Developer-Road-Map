@@ -271,6 +271,7 @@
 - [solc-typed-ast compiler](https://github.com/ConsenSys/solc-typed-ast) - TypeScript package providing a normalized typed Solidity AST along with the utilities necessary to generate the AST (from Solc) and traverse/manipulate it.
 - [Slither Explained - for audit](https://telegra.ph/Slither-Explained-04-19)
 - [explorer.swiss-knife.xyz](https://explorer.swiss-knife.xyz/)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents on Solana. Free preflight checks trust + identity signals; signed trust receipt via USDC micropayment (<$0.01, <1s). MCP URL: `https://intel.twzrd.xyz/mcp`
 
 # dApps
 
