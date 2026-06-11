@@ -797,6 +797,7 @@
 - [Pools Stats](https://pools.fyi)
 - [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data API — prices, OHLCV, exchanges, and coin metadata for 7,000+ assets. No API key required.
 - [DexPaprika](https://api.dexpaprika.com) - Free DEX data API — real-time pools, token prices, OHLCV, and trades across all chains and DEXes. No API key, no limits.
+- [Deep Blue Alpha](https://deepbluealpha.io) - Free real-time API for Ethereum whale wallet flow — `/api/top-tokens` returns net buy/sell flow across 10,000+ tracked wallets per token across 1H/24H/7D windows. No API key required.
 - [Solhint](https://github.com/protofire/solhint)
 - [Solium](https://github.com/duaraghav8/Solium)
 - [Sol-tester](https://github.com/androlo/sol-tester)
