@@ -549,6 +549,7 @@
 - [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
 
 #### Security & Safety:
+- [MetaVision DeFi Signals](https://metavision.click/signals) - Live Uniswap V3 vs Aerodrome arbitrage signals on Base. 49k+ scans, 5.34% opportunity rate. x402 v2 micropayments ($0.10 USDC).
 
 - [Understanding SIM Swap Attacks and How to Safeguard Yourself](https://nftnow.com/news/sim-swap-attacks-rising-in-web3/)
 - [Discord Security A-Z](https://github.com/0xngmi/discord-server-guidelines/blob/master/README.md)
