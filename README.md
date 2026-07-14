@@ -28,10 +28,6 @@
 
 # Navigation
 
-**[Alternative navigation](https://cia.start.me/p/dlaxD0/ciaofficerv2)** ❗️
-
-#
-
 <details>
 <summary>Translations</summary>
 <br />
