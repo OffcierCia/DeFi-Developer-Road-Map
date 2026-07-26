@@ -662,6 +662,7 @@
 - [CeFi vs. DeFi - Comparing Centralized to Decentralized Finance](https://arxiv.org/abs/2106.08157) - In this work, authors systematically analyze the differences between CeFi and DeFi, covering legal, economic, security, privacy and market manipulation. Authors also provide a structured methodology to differentiate between a CeFi and a DeFi service.
 - [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering decentralized perpetual protocols, mechanics, funding rates, liquidations, and ecosystem resources — useful reference for developers building on perp DEXes.
 - [pigi.finance](https://pigi.finance) - On-chain indexer and analytics API for DeFi vaults. Raw vault activity is turned into clean, comparable data — and full history is available through a single, developer-friendly API.
+- [Formo](https://formo.so) - Product and onchain analytics for Web3 applications, with APIs, a CLI, and a read-only MCP server for SQL, funnels, retention, revenue, users, and wallet profiles.
 
 #### Ethereum Name Service
 
