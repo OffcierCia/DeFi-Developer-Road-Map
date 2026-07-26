@@ -766,7 +766,7 @@
 
 #### Ethereum Tools
 
-- [Ethstats](https://ethstats.io)
+- [OpenChainBench](https://openchainbench.com) - Live, neutral benchmarks for crypto infrastructure: public RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, gas oracle accuracy. Open methodology, CC BY 4.0 data.
 - [Node Stats](https://ethernodes.org)
 - [solidity-by-example.org](https:/solidity-by-example.org)
 - [EVM Networks List](https://chainid.network)
@@ -780,7 +780,7 @@
 - [Ethereum Gas Charts](https://ethereumprice.org/gas)
 - [Ethereum TxPool Statistics](https://txpool.zengo.com/)
 - [Gas Prices Dashboard ](https://explore.duneanalytics.com/public/dashboards/qswVMdzbyiiZFdnCDSwx1jfYLOjdaokM4CSGNxsH)
-- [EthGasStation](https://ethgasstation.io) - Live Ethereum gas stats, alerts, and workflow tools to help users and teams make better before-send transaction decisions.
+- [Etherscan Gas Tracker](https://etherscan.io/gastracker) - Live Ethereum gas stats. `ethgasstation.info` is no longer active; see also the [OpenChainBench gas estimation benchmark](https://openchainbench.com/benchmarks/gas-estimation) for a live comparison of gas oracle accuracy across providers.
 - [The UI from ABI](https://ethcontract.watch)
 - [Oracles Club](https://oracles.club)
 - [Tx Combo](https://furucombo.app)
