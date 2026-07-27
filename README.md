@@ -663,6 +663,7 @@
 - [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering decentralized perpetual protocols, mechanics, funding rates, liquidations, and ecosystem resources — useful reference for developers building on perp DEXes.
 - [pigi.finance](https://pigi.finance) - On-chain indexer and analytics API for DeFi vaults. Raw vault activity is turned into clean, comparable data — and full history is available through a single, developer-friendly API.
 - [Formo](https://formo.so) - Product and onchain analytics for Web3 applications, with APIs, a CLI, and a read-only MCP server for SQL, funnels, retention, revenue, users, and wallet profiles.
+- [CCA Monitor](https://github.com/monkrus/cca-monitor) - Open-source on-chain data collector and live monitor for Uniswap's Continuous Clearing Auctions (CCAs). Tracks auctions across Ethereum, Base, Arbitrum, and Unichain with bid indexing, Telegram alerts, and a public dashboard.
 
 #### Ethereum Name Service
 
