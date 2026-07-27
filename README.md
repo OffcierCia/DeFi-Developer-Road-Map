@@ -663,6 +663,7 @@
 - [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering decentralized perpetual protocols, mechanics, funding rates, liquidations, and ecosystem resources — useful reference for developers building on perp DEXes.
 - [pigi.finance](https://pigi.finance) - On-chain indexer and analytics API for DeFi vaults. Raw vault activity is turned into clean, comparable data — and full history is available through a single, developer-friendly API.
 - [Formo](https://formo.so) - Product and onchain analytics for Web3 applications, with APIs, a CLI, and a read-only MCP server for SQL, funnels, retention, revenue, users, and wallet profiles.
+- [Wealthville](https://wealthville.net/developers) - Liquidity-pool scoring API for LP and yield strategies: a 0-100 score and an Enter/Hold/Exit/Reduce/Avoid verdict per pool, covering Uniswap v2/v3/v4, Aave, Morpho, Pendle, Curve and Compound across six EVM chains plus Meteora, Orca and Raydium on Solana. Outcomes are graded after impermanent loss and published as a miss-inclusive track record, so the scores can be evaluated before they are relied on. Free keyless REST API, OpenAPI spec, and a read-only MCP server.
 
 #### Ethereum Name Service
 
