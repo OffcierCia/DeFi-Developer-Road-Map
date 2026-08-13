@@ -683,6 +683,7 @@
 - [Understand Volatility of Algorithmic Stablecoin: Modeling, Verification and Empirical Analysis](https://arxiv.org/pdf/2101.08423.pdf) - Authors performed a systematic empirical analysis on real transaction activities of the Basis Cash stablecoin to relate theoretical possibilities to market observations.
 - [T-Cash: Transferable Fiat Backed Coins](https://arxiv.org/pdf/2105.04485.pdf) - In this paper authors propose a transferable electronic cash scheme using blockchain technology which allows users to continuously reuse coins within the system.
 - [Pharos](https://pharos.watch/) - Open-source stablecoin analytics dashboard tracking peg stress, DEX liquidity, safety ratings, blacklist and freeze events, mint/burn flows, dependencies, and failed stablecoins across pegs and chains.
+- [Kerne Honesty Index](https://kerne.fi/honesty-index) - Signed public scoreboard covering 21 synthetic and yield-bearing dollars, recomputing each one's realized return from ERC-4626 share price growth on chain over a rolling 30 day window and setting it against the issuer's own advertised APY wherever one is published, with every row served as JSON at /api/honesty-index.
 
 #### General information:
 
