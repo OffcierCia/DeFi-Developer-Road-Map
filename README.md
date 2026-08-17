@@ -792,7 +792,7 @@
 - [Fees WTF Calculator](https://fees.wtf)
 - [Spend Gas Stats](https://txn.finance)
 - [Pools Stats](https://pools.fyi)
-- [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data API — prices, OHLCV, exchanges, and coin metadata for 12,000+ assets. No API key required.
+- [CoinPaprika](https://api.coinpaprika.com) - Crypto market data API: prices, OHLCV, exchanges, and coin metadata for 12,000+ assets. Free tier, no API key required.
 - [DexPaprika](https://api.dexpaprika.com) - DEX data API: pools, token prices, OHLCV, and trades across 36 chains and 230+ DEXes. Free tier, no API key required. [Limits and pricing](https://dexpaprika.com/api/pricing).
 - [Solhint](https://github.com/protofire/solhint)
 - [Solium](https://github.com/duaraghav8/Solium)
