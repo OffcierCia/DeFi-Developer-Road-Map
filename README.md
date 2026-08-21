@@ -459,6 +459,7 @@
 - [CloudFlare Distributed Web Gateway](https://cloudflare.com/distributed-web-gateway/) - Provides access to the Ethereum network through the Cloudflare instead of running your own node
 - [NOWNodes](https://nownodes.io/) - NOWNodes provide a full access to Ethereum testnets and access to more than 110 blockchain RPC nodes via API
 - [Chainstack](https://chainstack.com/) - Shared and dedicated Ethereum nodes as a service (Mainnet, Ropsten, Rinkeby)
+- [SwiftNodes](https://swiftnodes.io/) - Flat-rate RPC endpoints for Ethereum and 75+ other networks over HTTP and WebSocket, free tier available
 - [Alchemy](https://alchemyapi.io/) - Blockchain Developer Platform, Ethereum API, and Node Service (Mainnet, Ropsten, Rinkeby, Goerli, Kovan)
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
