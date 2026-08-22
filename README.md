@@ -1088,3 +1088,5 @@ The best thing is to support me directly by donating to my address on Ethereum M
 ##
 
 **Thank you! Stay safe!**
+
+- [SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) - Open source Solana trading bot with AI rug detection, 0% fees.
