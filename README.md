@@ -509,6 +509,7 @@
 
 #### Inspired by:
 
+- [DefiTier](https://defitier.com) - Production Web3 perpetual DEX screener, real-time funding rate arbitrage matrix, and airdrop points valuation calculator tracking 80+ protocols across multiple chains.
 - [ETH Dapp Developer Roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [DeFi Defence DAO Tools](https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools)
 - [Blockchain Learning Path](https://github.com/protofire/blockchain-learning-path)
