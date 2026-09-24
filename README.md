@@ -936,6 +936,8 @@
 - [Ethereum Service](https://github.com/mesg-foundation/service-ethereum) - A MESG Service to interact with events from Ethereum and interact with it.
 - [Marmo](https://marmo.io/) - Python, JS, and Java SDK for simplifying interactions with Ethereum. Uses relayers to offload transaction costs to relayers.
 - [Ethereum Logging Framework](https://bitbucket.csiro.au/users/kli039/repos/ethereum-logging-framework/browse) - provides advanced logging capabilities for Ethereum applications and networks including a query language, query processor, and logging code generation
+- [HyperIndex](https://github.com/enviodev/hyperindex) - Multichain blockchain indexer by Envio. Write event handlers in TypeScript and query the indexed data through a GraphQL API.
+- [HyperSync](https://docs.envio.dev/docs/HyperSync/overview) - Blockchain data API by Envio that returns filtered blocks, transactions and logs as an alternative to JSON-RPC, with clients for Node.js, Python, Rust and Go.
 
 #### Ethereum Clients
 
