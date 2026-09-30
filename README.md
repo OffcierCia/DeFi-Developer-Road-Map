@@ -1065,6 +1065,7 @@
 - [www.jobstash.xyz](https://www.jobstash.xyz)
 - [frontrunnrs.xyz](https://frontrunnrs.xyz)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
+- [Awesome Web3 Grants](https://github.com/zkprimecapital/awesome-web3-grants)
 
 ## Support Me:
 
