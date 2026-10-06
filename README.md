@@ -463,6 +463,7 @@
 - [ZMOK](https://zmok.io/) - JSON-RPC Ethereum API (Mainnet, Rinkeby, Front-running Mainnet)
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 - [GetBlock](https://getblock.io/) - Blockchain RPC access to Ethereum blockchain and 50 + others
+- [LYFTIUM](https://www.lyftium.com) - Ethereum Mainnet JSON-RPC priced by requests per minute; `X-Api-Key` header auth; fail-closed HTTP 503 when tip sync gate closed
 - [Azul](https://baseazul.dev/) - Free, no-signup public RPC for Base mainnet (chainId 8453). No API key required.
 
 #### Test Ether Faucets
