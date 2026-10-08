@@ -767,6 +767,7 @@
 
 #### Ethereum Tools
 
+- [Chain.Love](https://www.chain.love/) - Open-source directory for discovering and comparing Ethereum RPC providers and other Web3 infrastructure.
 - [OpenChainBench](https://openchainbench.com) - Live, neutral benchmarks for crypto infrastructure: public RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, gas oracle accuracy. Open methodology, CC BY 4.0 data.
 - [Node Stats](https://ethernodes.org)
 - [solidity-by-example.org](https:/solidity-by-example.org)
