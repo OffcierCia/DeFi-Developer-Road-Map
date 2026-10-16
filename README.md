@@ -1067,6 +1067,7 @@
 - [www.jobstash.xyz](https://www.jobstash.xyz)
 - [frontrunnrs.xyz](https://frontrunnrs.xyz)
 - [www.jobprotocol.xyz](https://www.jobprotocol.xyz)
+- [jobsincrypto.net](https://jobsincrypto.net)
 
 ## Support Me:
 
