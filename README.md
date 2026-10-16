@@ -794,6 +794,7 @@
 - [Pools Stats](https://pools.fyi)
 - [CoinPaprika](https://api.coinpaprika.com) - Free crypto market data API — prices, OHLCV, exchanges, and coin metadata for 7,000+ assets. No API key required.
 - [DexPaprika](https://api.dexpaprika.com) - Free DEX data API — real-time pools, token prices, OHLCV, and trades across all chains and DEXes. No API key, no limits.
+- [Chord](https://getchord.xyz/docs) - Swap routing and DEX trade data API for apps and AI agents on Ethereum, Base, Arbitrum, BNB Chain, Avalanche, Monad, Robinhood and Arc, plus Solana: best-route quotes, unsigned swap transactions that the caller's wallet signs, trades, candles and wallet PnL, over REST or a hosted MCP server. Quote, swap and data calls need no API key.
 - [Solhint](https://github.com/protofire/solhint)
 - [Solium](https://github.com/duaraghav8/Solium)
 - [Sol-tester](https://github.com/androlo/sol-tester)
