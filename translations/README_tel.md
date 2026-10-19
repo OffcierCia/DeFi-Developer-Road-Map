@@ -12,7 +12,7 @@
 
 ## రోడ్‌మ్యాప్
 
-![రోడ్‌మ్యాప్](./DeFiRoadMapNewSVG.svg)
+![రోడ్‌మ్యాప్](../DeFiRoadMapNewSVG.svg)
 
 # నావిగేషన్
 
