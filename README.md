@@ -800,6 +800,7 @@
 - [Solidity-coverage](https://github.com/sc-forks/solidity-coverage)
 - [TypeChain](https://github.com/ethereum-ts/TypeChain)
 - [Tenderly](https://tenderly.co/)
+- [ownerwatch](https://github.com/imal1ice/ownerwatch) - Open-source, self-hosted alerts when the admin surface of your contracts changes: owner, proxy admin, implementation, roles, Safe signers and threshold, timelock queue, treasury outflows. Includes a read-only probe that maps who can upgrade or pause a protocol.
 - [Contract Library](https://library.dedaub.com/)
 - [BuildBear](https://www.buildbear.io/)
 - [Frostbyte Wallet API](https://agent-gateway-kappa.vercel.app) - Multi-chain wallet REST API supporting 9 blockchains (Ethereum, Polygon, BSC, Arbitrum, Optimism, Avalanche, Base, Solana, Bitcoin) with HD wallet generation, token transfers, and cross-chain swaps.
