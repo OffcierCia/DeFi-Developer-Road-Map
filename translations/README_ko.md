@@ -9,8 +9,8 @@
 <details>
 <summary>번역</summary>
 <br>
- <a href="translations/README_guj.md">구자라트어(Gujarati)</a>
- <a href="translations/README_ko.md">한국어(Korean)</a>
+ <a href="README_guj.md">구자라트어(Gujarati)</a>
+ <a href="README_ko.md">한국어(Korean)</a>
 </details>
 
 ## 로드맵
@@ -23,20 +23,20 @@
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
 |       기본       | [Explore](#basics)                                                   |
 |      dApps       | [Explore](#dapps)                                                    |
-|    프레임워크    | [Explore](#frameworks)                                               |
-|   영지식 증명    | [Explore](#zk-snarks)                                                |
-| Further Readings | [Explore](#further-readings)                                         |
-|       보안       | [Explore](#security--safety)                                         |
-|      디파이      | [Explore](#defi)                                                     |
-|       ENS        | [Explore](#ethereum-name-service)                                    |
-|       NFT        | [Explore](#non-fungible-token-nft)                                   |
-|  스테이블 코인   | [Explore](#stable-coins)                                             |
-|  일반적인 정보   | [Explore](#ethereum-tools)                                           |
-|   사이드 체인    | [Explore](#side-chains)                                              |
-|       MEV        | [Explore](#mev---maximal-extractable-value--miner-extractable-value) |
-|     툴 모음      | [Explore](#tools-collection)                                         |
-|   이더리움 2.0   | [Explore](#ethereum-20)                                              |
-|   프론트 엔드    | [Explore](#front-end)                                                |
+|    프레임워크    | [Explore](#프레임워크)                                               |
+|   영지식 증명    | [Explore](#영지식-증명zk-snarks)                                                |
+| Further Readings | [Explore](#추가-읽을거리)                                         |
+|       보안       | [Explore](#보안과-안전)                                         |
+|      디파이      | [Explore](#디파이defi)                                                     |
+|       ENS        | [Explore](#이더리움-이름-서비스)                                    |
+|       NFT        | [Explore](#대체-불가능-토큰-nft)                                   |
+|  스테이블 코인   | [Explore](#스테이블-코인)                                             |
+|  일반적인 정보   | [Explore](#일반적인-정보-1)                                           |
+|   사이드 체인    | [Explore](#사이드-체인들)                                              |
+|       MEV        | [Explore](#mev---최대-추출-가능-값--마이너-추출-가능값) |
+|     툴 모음      | [Explore](#도구-모음)                                         |
+|   이더리움 2.0   | [Explore](#이더리움-20)                                              |
+|   프론트 엔드    | [Explore](#프론트-엔드)                                                |
 
 # Basics:
 
