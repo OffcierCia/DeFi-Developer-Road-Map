@@ -415,7 +415,7 @@
 - [Sign in with Ethereum | SIWE](https://github.com/spruceid/siwe)- Workflow to authenticate Ethereum accounts using message signing in order to establish a cookie-based web session that manages user metadata.
 - [Foundry](https://github.com/onbjerg/foundry-book) - A smart contract development toolchain for project compilation, dependency management, testing, deployments, on-chain interactions...
 - [Solmate](https://github.com/Rari-Capital/solmate) - These contracts have been audited but they were not developed with users in mind. They mainly seek to optimize gas and optimizations for smart contract development
-- [Supercool](https://docs.supercool.xyz/) - Relayer infra for meta-transaction and account-abstraction superpowers: automate smart contract interactions, create gasless transactions, and more.
+- [OpenZeppelin Relayer](https://github.com/OpenZeppelin/openzeppelin-relayer) - Open-source, self-hosted transaction relayer for EVM chains, Solana and Stellar: submits transactions through an HTTP API, manages nonces, signs with keys held in a keystore, a cloud KMS, HashiCorp Vault or Turnkey, and takes TypeScript plugins.
 
 #### Interacting with Smart Contract
 
