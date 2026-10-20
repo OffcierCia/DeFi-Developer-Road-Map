@@ -286,7 +286,7 @@
 
 - [Remix IDE](https://remix.ethereum.org/)
 - [Remix IDE Desktop Release](https://github.com/ethereum/remix-desktop/releases)
-- [Ethfiddle](https://ethfiddle.com/)
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
 - [Solidity v0.8.17](https://docs.soliditylang.org/en/v0.8.17/)
