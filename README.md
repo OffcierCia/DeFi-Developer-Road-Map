@@ -787,6 +787,7 @@
 - [Tx Combo](https://furucombo.app)
 - [ETH or ERC-20 Mass-sender](https://disperse.app)
 - [BulkSender](https://bulksender.app)
+- [PayVectro](https://payvectro.com) - Send ETH or ERC-20 tokens to hundreds of wallets, signed from your own wallet; currently free, network gas only.
 - [ERC20 Meta Token Wrapper](https://github.com/arcadeum/erc20-meta-token)
 - [Cancel Ethereum Transaction](https://github.com/mds1/Cancel-Ethereum-Transactions)
 - [Fees WTF Calculator](https://fees.wtf)
