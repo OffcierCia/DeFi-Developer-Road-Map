@@ -557,6 +557,7 @@
 - [Intro security hacking smart contracts on Ethereum](https://www.notonlyowner.com/learn/intro-security-hacking-smart-contracts-ethereum)
 - [Books & Researches](https://telegra.ph/Books--Researches-01-30)
 - [Per Aspera ad Astra](https://officercia.mirror.xyz/FvMKbibx7gDlufgZSkmYn77CI8HPBsVCeqUKmpXHr0k)
+- [Crypto Scam Detection Quiz](https://github.com/cryptostrapon/crypto-scam-quiz) - Free, open quiz (MIT code, CC BY 4.0 content) with 50 scenarios based on observed scam patterns: approval phishing, wallet drainers, fake airdrops, address poisoning.
 
 #
 
