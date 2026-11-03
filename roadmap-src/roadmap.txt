@@ -1,0 +1,131 @@
+# DeFi Developer Roadmap: content source for build_roadmap.py
+#
+# Edit this file, then run:  python3 build_roadmap.py
+#
+# Rules:
+#   - A line starting with "Step" (no indent) is a step on the spine, in order.
+#   - Topics are indented 2 spaces per level under their step.
+#   - "+ " marks a Must Know topic, "~ " marks an Extended topic.
+#   - A topic with indented topics under it becomes a branch (group).
+#   - Lines starting with "#" and blank lines are ignored.
+#
+# Suggested 2026 additions applied (see suggestions.md).
+# Labels are copied verbatim from Fix2024.svg (including "Cryptograpgy").
+
+title: DeFi Developer Roadmap
+must: Must Know
+extended: Extended
+footer: May the force be with you!
+
+Step 1: Basics
+  + GIT - Version Control (GitHub, Bitbucket, GitLab)
+  + HTTP/HTTPS, RPC protocol
+  ~ Basic Web2.0
+  + Python
+  + JavaScript
+  + Smart Contracts
+    + Basics of Smart Contract
+    + Ethereum High Level languages
+    + Life Cycle of Smart Contract
+    + Compiling, testing and Deploying Smart Contract
+    + Blockchain
+      + Bitcoin WP
+      + Elliptic Curve Cryptograpgy
+      + Distributed ledger (DLT)
+    + Ethereum
+      + ERC20 ERC721 ERC1155
+      + Ethereum Virtual Machine (EVM)
+      + Ethereum Networks (Mainnet, TestNet)
+      + Ethereum transactions with using wallet
+      + Ethereum clients/Nodes e.g Geth
+      + Interacting with Deployed Smart contract
+      + Wallets, Addresses, Gas, private & public keys
+
+Step 2: General
+  + Build Tools
+    + Solidity
+    ~ Vyper
+    ~ Huff
+    + Package Managers
+      + npm
+      ~ Yarn
+      ~ pnpm
+    + IDE's
+      + Remix IDE
+      ~ VScode
+  + Frameworks
+    + Foundry
+    + HardHat
+    + Rare (Check the list below the RoadMap)
+  + Backend
+    + Ethereum EVM
+    ~ Json RPC
+    + Deployed contract
+    + OpenZeppelin Contracts
+    + Upgradeable Proxies (UUPS, ERC-1967)
+    ~ ABI
+  + Infura
+    + Mainnet
+    + Sepolia
+    ~ Hoodi (staking/infra testnet)
+    ~ IPFS
+  + Distributed Storage
+    + IPFS
+    ~ Sia
+    ~ Storj
+    + SWARM
+
+Step 3: Keep on
+  + Front End
+    + viem / wagmi
+    + React
+    ~ Vue.js
+  + Security
+    ~ Forensic
+    + Checklist Testing
+    + TX Analysis
+    ~ Known Attacks Repeating
+    + The Scope of Audit
+    + Overview
+    + Fuzz & Invariant Testing (Foundry, Echidna, Medusa)
+    + Static Analysis (Slither, Aderyn)
+
+Step 4: DeFi in use
+  + Chain
+    + DEX
+    + Side Chains
+    + MEV
+    + BSC/Polygon/Solana
+    + L1/L2 Solutions
+      + Plasma
+      + State Channels
+      + Rollups
+        + ZK-Rollups
+        + Optimistic Rollups
+      ~ Rollup Stacks (OP Stack, Arbitrum Orbit)
+      ~ Blobs (EIP-4844, PeerDAS)
+  + DeFi implementations
+    + Lending
+    + Stable Coin
+    + Farming
+    + NFT (s)
+    + Oracles (Chainlink, Pyth)
+    ~ Uniswap v4 Hooks
+  ~ Ethereum in Future
+    + EIP1559
+    ~ The Merge
+    + Account Abstraction (ERC-4337, EIP-7702)
+
+Step 5: Professional
+  + Research Base Check
+    ~ Best Practices
+  + Audits & Bug Bounties
+    + Immunefi
+    + HackenProof
+    ~ Sherlock
+    ~ Cantina
+  ~ Formal Verification (Certora)
+  + AI-assisted Security (Trail of Bits skills, pashov/skills)
+  ~ ENS
+    ~ Ethereum Name Service
+    ~ Resolver
