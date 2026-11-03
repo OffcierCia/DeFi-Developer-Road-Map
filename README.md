@@ -504,6 +504,7 @@
 - [Solidity audits and secure development material](https://github.com/jcr-security/solidity-security-teaching-resources)
 - [SCSVSv2](https://github.com/ComposableSecurity/SCSVS)
 - [Valuable Resources for Web3 Security](https://github.com/ZhangZhuoSJTU/Web3Bugs#valuable-resources-for-web3-security)
+- [Pashov Audit Group Skills](https://github.com/pashov/skills)
 
 # Further Readings
 
