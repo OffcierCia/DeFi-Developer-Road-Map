@@ -68,9 +68,9 @@
 
 **| Special Notes:**
 
-- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on Medium](https://officercia.medium.com/)
+- [My X account](https://x.com/officer_secret/)
 - [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://officercia.mirror.xyz/p1ieZdxQWH4yHCNOXNPHyT8So1cY0X_wMGKwdmavi7s)
 - [An awesome cheatsheet from the Pessimistic.io Team](https://graph.org/All-resources-to-become-a-smart-contract-auditor-09-11)
 - [All-about-NFT security ](https://graph.org/NFT-security-01-28)
 - [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
@@ -108,12 +108,10 @@
 - [Another Weapon in the EVM Hackers Arsenal - The Power of Delegate Call - Part 5](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-a5f?utm_source=profile&utm_medium=reader2)
 - [A Treasure Trove of Data - Transaction Receipts & Event Logs - Part 6](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy-16e?utm_source=profile&utm_medium=reader2)
 - [Understanding Trie Databases in Ethereum](https://medium.com/shyft-network/understanding-trie-databases-in-ethereum-9f03d2c3325d)
-- [AskMirror](https://www.askmirror.xyz)
 - [EVM Chad](https://github.com/mektigboy/evm-chad)
 - [Mudit.Blog](https://mudit.blog)
 - [Academic_Smart_Contract_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers)
 - [cmichel.io](https://cmichel.io)
-- [samczsun.com](https://samczsun.com)
 - [serial-coder.com](https://www.serial-coder.com/posts)
 - [notonlyowner.com](https://www.notonlyowner.com)
 - [Decentralised](https://t.me/decentraliseddotco)
@@ -140,7 +138,6 @@
 - [EIPs](https://eips.ethereum.org/)
 - [Wagmi Toolset](https://wagmi.sh)
 - [WalletConnect Library](https://docs.walletconnect.com/2.0/web/about-web3modal)
-- [RainbowKit Toolset](https://www.rainbowkit.com/)
 
 #### Useful Information
 
@@ -167,10 +164,7 @@
 - [Immersion Den](https://immersionden.xyz)
 - [Egor Gavrilov](https://youtube.com/@EgorGavrilov)
 - [Curious Daddy](https://curiousaddys.notion.site/2935b6c3a1e249fd876ce3f318355d92?v=b46dd3524e8a4ea9873f364800a0db38)
-- [Awesome Blogs](https://start.me/w/nPprJD)
 - [Patrick Collins](https://youtube.com/@PatrickAlphaC)
-- [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
-- [Main Navigation](https://officercia.mirror.xyz/Uc1sf64yUCb0uo1DxR_nuif5EmMPs-RAshDyoAGEZZY)
 - [Solidity Tutorials](https://graph.org/Solidity-Tutorials-12-21)
 - [Solana Dev & Degen Tools Packk](https://web.archive.org/web/20220820001542/officercia.mirror.xyz/XLEds6Py1Xu41WWhqv-LJ2UtH4UKl9cZTnoVx8CvDXQ)
 - [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
@@ -182,7 +176,6 @@
 - [Retrospective: Hacks in Web3](https://medium.com/@officercia/retrospective-hacks-in-web3-cc83b8ee0e93)
 - [Medium : severity vulns](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
 - [High : severity vulns](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
-- [Repository of 500 web3 reports](https://drive.google.com/drive/u/2/mobile/folders/1oyGnZE2ce5t6MZ1ytMLDr5OKuQAOkEdR?pli=1)
 
 #### Smart Contract
 
