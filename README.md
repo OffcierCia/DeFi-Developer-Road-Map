@@ -798,6 +798,7 @@
 - [BuildBear](https://www.buildbear.io/)
 - [Frostbyte Wallet API](https://agent-gateway-kappa.vercel.app) - Multi-chain wallet REST API supporting 9 blockchains (Ethereum, Polygon, BSC, Arbitrum, Optimism, Avalanche, Base, Solana, Bitcoin) with HD wallet generation, token transfers, and cross-chain swaps.
 - [Frostbyte DeFi Trading API](https://agent-gateway-kappa.vercel.app) - Real-time token prices for 500+ tokens and DEX swap routing across multiple chains, designed for DeFi bots and AI agents.
+- [18btc](https://18btc.cc) - Curated crypto tools directory with hands-on reviews: market data, on-chain analytics, DeFi data, wallets and security tools, plus a built-in per-share crypto calculator.
 
 #### Libraries
 
