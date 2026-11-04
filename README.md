@@ -457,6 +457,7 @@
 - [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 - [GetBlock](https://getblock.io/) - Blockchain RPC access to Ethereum blockchain and 50 + others
 - [Azul](https://baseazul.dev/) - Free, no-signup public RPC for Base mainnet (chainId 8453). No API key required.
+- [BlockVectra](https://docs.blockvectra.com/en/guides/choose-rpc-provider/?ref=gh-defi-roadmap-1029) - Multi-chain JSON-RPC access and indexed EVM data APIs.
 
 #### Test Ether Faucets
 
