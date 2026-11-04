@@ -155,7 +155,7 @@
 
 - [Remix IDE](https://remix.ethereum.org/)
 - [Remix IDE Desktop Release](https://github.com/ethereum/remix-desktop/releases)
-- [Ethfiddle](https://ethfiddle.com/)
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity)
 - [labs.superblock](https://superblocks.com/)
 - [Truffle](https://truffleframework.com/)
 - [Solidity v0.5.3](https://solidity.readthedocs.io/en/v0.5.3/)

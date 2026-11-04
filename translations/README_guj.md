@@ -157,7 +157,7 @@
 
 - [રીમિક્સ IDE](https://remix.ethereum.org/)
 
-- [એથફિલ્ડ](https://ethfiddle.com/)
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity)
 
 - [labs.super block](https://superblocks.com/)
 

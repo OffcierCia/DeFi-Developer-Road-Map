@@ -204,7 +204,7 @@
 
 - [రీమిక్స్ IDE](https://remix.ethereum.org/)
 - [రీమిక్స్ IDE డెస్క్‌టాప్ విడుదల](https://github.com/ethereum/remix-desktop/releases)
-- [Ethfiddle](https://ethfiddle.com/)
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity)
 - [labs.superblock](https://superblocks.com/)
 - [ట్రఫుల్](https://truffleframework.com/)
 - [సాలిడిటీ v0.8.17](https://docs.soliditylang.org/en/v0.8.17/)
