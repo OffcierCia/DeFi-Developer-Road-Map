@@ -798,6 +798,7 @@
 - [BuildBear](https://www.buildbear.io/)
 - [Frostbyte Wallet API](https://agent-gateway-kappa.vercel.app) - Multi-chain wallet REST API supporting 9 blockchains (Ethereum, Polygon, BSC, Arbitrum, Optimism, Avalanche, Base, Solana, Bitcoin) with HD wallet generation, token transfers, and cross-chain swaps.
 - [Frostbyte DeFi Trading API](https://agent-gateway-kappa.vercel.app) - Real-time token prices for 500+ tokens and DEX swap routing across multiple chains, designed for DeFi bots and AI agents.
+- [SODAX Builders MCP](https://github.com/gosodax/builders-sodax-mcp-server) - Remote MCP server (`https://builders.sodax.com/mcp`, no auth) with SODAX API data (networks, tokens, intents, money market, volume) and SDK docs for AI agents.
 
 #### Libraries
 
@@ -909,6 +910,7 @@
 - [Scaffold-ETH](https://github.com/austintgriffith/scaffold-eth) - Beginner friendly forkable github for getting started building smart contracts.
 - [Jolly Roger](https://jolly-roger.eth.link/) - dApp framework using ethereum, builder, svelte and thegraph
 - [Notify.js](https://blocknative.com/notify) - Deliver real-time notifications to your users. With built-in support for Speed-Ups and Cancels, Blocknative Notify.js helps users transact with confidence. Notify.js is easy to integrate and quick to customize.
+- [SODAX SDK](https://github.com/gosodax/sodax-sdks) - TypeScript SDK (`@sodax/sdk`) for intent-based cross-network swaps, lending and borrowing, and staking across 20+ networks, with Sonic as the hub.
 
 #### Backend Ethereum APIs
 
