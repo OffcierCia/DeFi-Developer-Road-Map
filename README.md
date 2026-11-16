@@ -1038,6 +1038,7 @@
 - [2023 Global Crypto Events & Hackathons](https://docs.google.com/spreadsheets/d/1uRB5lt67Eoxfattljko7IvuQvpqkLt66YpOev9XJ22o/edit?usp=sharing)
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 - [Jobsincrypto](https://twitter.com/jobsincrypto)
+- [JobsInCrypto.net](https://jobsincrypto.net)
 - [CryptoJobsList](https://twitter.com/CryptoJobsList)
 - [LobsterHR](https://t.me/lobsters_hr)
 - [DeveloperDAO](https://twitter.com/developer_dao)
