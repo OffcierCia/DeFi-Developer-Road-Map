@@ -498,6 +498,7 @@
 - [SCSVSv2](https://github.com/ComposableSecurity/SCSVS)
 - [Valuable Resources for Web3 Security](https://github.com/ZhangZhuoSJTU/Web3Bugs#valuable-resources-for-web3-security)
 - [Pashov Audit Group Skills](https://github.com/pashov/skills)
+- [Pacta by Fractal Neurons](https://github.com/Fractal-Neurons/pacta) - Block-pinned DeFi control-plane, Safe multisig, and timelock verification index (74 indexed protocols, 62 Base-EAS attested) with a free remote MCP server
 
 # Further Readings
 
