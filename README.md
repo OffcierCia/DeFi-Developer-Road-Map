@@ -1039,6 +1039,7 @@
 - [Crypto Telegram & Discord Channels & Chats](https://telegra.ph/Crypto-Telegram-Channels--Chats-04-19)
 - [Jobsincrypto](https://twitter.com/jobsincrypto)
 - [CryptoJobsList](https://twitter.com/CryptoJobsList)
+- [Sailonchain](https://sailonchain.com/)
 - [LobsterHR](https://t.me/lobsters_hr)
 - [DeveloperDAO](https://twitter.com/developer_dao)
 - [LidoGrants](https://twitter.com/LidoGrants)
