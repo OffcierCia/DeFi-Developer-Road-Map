@@ -498,6 +498,7 @@
 - [SCSVSv2](https://github.com/ComposableSecurity/SCSVS)
 - [Valuable Resources for Web3 Security](https://github.com/ZhangZhuoSJTU/Web3Bugs#valuable-resources-for-web3-security)
 - [Pashov Audit Group Skills](https://github.com/pashov/skills)
+- [Solana Rent & Rug Shield](https://rentandrugshield.com) - Non-custodial 12-layer Solana token rug scanner (SPL & Token-2022 PermanentDelegate/transfer-hook checks), Layer 9 Inner CPI drainer simulator, and 0%-first-claim empty ATA SOL rent recovery with MCP & x402 API.
 
 # Further Readings
 
