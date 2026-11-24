@@ -254,6 +254,7 @@
 - [eth-cli](https://github.com/protofire/eth-cli) - CLI tools.
 - [REPL](https://github.com/raineorshine/solidity-repl) - Solidity REPL.
 - [Remix](https://remix.ethereum.org/) - Online realtime compiler and runtime.
+- [oksolc](https://github.com/okcontract/oksolc) - Solidity compiler written in Zig that targets byte-for-byte compatibility with solc 0.8.36 to 0.8.39.
 - [gencall-cli](https://github.com/manifoldfinance/libcaller/tree/master/packages/gencall-cli) - An interactive smart contract encoder and sender from your ABI file
 - [Web3modal](https://github.com/WalletConnect/web3modal)
 - [Optimize Solidity Function Name](https://emn178.github.io/solidity-optimize-name/) - Optimize function names to reduce costs
