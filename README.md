@@ -657,6 +657,8 @@
 - [perp.wiki](https://perp.wiki) - Independent perpetual futures reference wiki covering decentralized perpetual protocols, mechanics, funding rates, liquidations, and ecosystem resources — useful reference for developers building on perp DEXes.
 - [pigi.finance](https://pigi.finance) - On-chain indexer and analytics API for DeFi vaults. Raw vault activity is turned into clean, comparable data — and full history is available through a single, developer-friendly API.
 - [Formo](https://formo.so) - Product and onchain analytics for Web3 applications, with APIs, a CLI, and a read-only MCP server for SQL, funnels, retention, revenue, users, and wallet profiles.
+- [feraterra-quant-bots](https://github.com/FeraTerra/feraterra-quant-bots) - Open-source (MIT) reference DeFi perp CLOB market maker, zero-capital atomic flash-arbitrage & liquidation searcher (`POST /flash_arb`, `POST /auto_liquidate`), VeighNa/Freqtrade gateways, and standalone `ARENA_LEDGER_TIP_V2_1` `Keccak-256` + `secp256k1` (`ecrecover`) cryptographic solvency audit benchmark in Python.
+- [feraterra-sdk](https://github.com/FeraTerra/feraterra-sdk) - Zero-dependency Python 3 EVM/EIP-191 SDK, 64-byte C++23 HFT/ITCH headers, L2 `Clearinghouse` Merkle-escape ABI, CCXT adapter, and 24-tool MCP gateway for building on FeraTerra's Base Sepolia CLOB testnet. MIT.
 
 #### Ethereum Name Service
 
